@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+
+# Service accounts and credentials
+*serviceAccount*.json
+*.pem
+*.key
+
+# Archives, duplicate exports and build artifacts
+*.zip
+*.tar.gz
+_oxlintrc_backup
+wanderwise/
+exports/wanderwise-web/
+
+# Firebase local cache
+.firebase/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

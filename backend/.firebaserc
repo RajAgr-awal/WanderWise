@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "wanderwise-dev",
+    "wise": "studio-1495220988-1f126",
+    "wanderwiseapp": "webappwarnderer"
+  },
+  "targets": {},
+  "etags": {}
+}

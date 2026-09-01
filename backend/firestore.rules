@@ -1,0 +1,100 @@
+rules_version = '2';
+
+// WanderWise Firestore security rules.
+//
+// Principle (spec §5): catalog data is public-read / admin-write only, user data is
+// strictly owner-scoped, and anything that determines cost or itinerary content is
+// written exclusively by callable Cloud Functions using the Admin SDK (which bypasses
+// these rules). That stops a client from forging a "generated" itinerary or editing
+// its own estimated total.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    // Client may only flip the `checked` flag on itinerary slots and rename a trip.
+    // Everything else (cities, days, totals, budgetTier) is function-owned.
+    function onlyMutatesAllowedTripFields() {
+      return request.resource.data.diff(resource.data)
+        .affectedKeys()
+        .hasOnly(['itinerary', 'title', 'updatedAt']);
+    }
+
+    // ---- Catalog collections: public read, no client writes -----------------
+    match /cities/{cityId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /curatedTours/{tourId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /pois/{poiId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /restaurants/{restaurantId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /stays/{stayId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /transportOptions/{optionId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /markets/{marketId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /staticContent/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // ---- User document ------------------------------------------------------
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      // Profile edits are limited to display fields; email/createdAt are set by
+      // the onUserCreate trigger and must not be rewritten by the client.
+      allow update: if isOwner(userId)
+        && request.resource.data.diff(resource.data)
+             .affectedKeys().hasOnly(['name', 'photoUrl', 'homeCurrency']);
+      allow create, delete: if false; // onUserCreate / deleteAccount only
+
+      // ---- Trips ------------------------------------------------------------
+      match /trips/{tripId} {
+        allow read: if isOwner(userId);
+        allow update: if isOwner(userId) && onlyMutatesAllowedTripFields();
+        allow delete: if isOwner(userId);
+        allow create: if false; // generateItinerary / buildRoute only
+
+        match /chatMessages/{messageId} {
+          allow read: if isOwner(userId);
+          allow write: if false; // chatWithLocalGuide only
+        }
+      }
+
+      // ---- Templates --------------------------------------------------------
+      // Saved routes carry no server-trusted cost guarantees, so owners may
+      // manage them directly.
+      match /templates/{templateId} {
+        allow read, create, update, delete: if isOwner(userId);
+      }
+    }
+
+    // Default deny.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

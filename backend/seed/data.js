@@ -29,23 +29,18 @@ module.exports = {
       "delicacies": [
         {
           "dish": "Dal Baati Churma",
-          "bestPlace": "Laxmi Misthan Bhandar",
+          "bestPlace": "Laxmi Misthan Bhandar (LMB)",
           "note": "Baked wheat balls drowned in ghee, with sweet churma."
         },
         {
           "dish": "Pyaaz Kachori",
-          "bestPlace": "Rawat Mishtan Bhandar",
+          "bestPlace": "Rawat Misthan Bhandar",
           "note": "Onion-stuffed and fried; eat it hot, standing."
         },
         {
           "dish": "Laal Maas",
-          "bestPlace": "Handi Restaurant",
+          "bestPlace": "Handi Restaurant / Suvarna Mahal",
           "note": "Fiery Mathania-chilli mutton curry."
-        },
-        {
-          "dish": "Ghewar",
-          "bestPlace": "Sodhani Sweets",
-          "note": "Honeycomb disc soaked in syrup — a Teej season sweet."
         }
       ],
       "isInternational": false,
@@ -77,24 +72,24 @@ module.exports = {
       },
       "delicacies": [
         {
+          "dish": "Mutton Burra",
+          "bestPlace": "Karim's",
+          "note": "Slow-cooked overnight; famous Old Delhi tandoori."
+        },
+        {
+          "dish": "Dal Bukhara",
+          "bestPlace": "Bukhara (ITC Maurya)",
+          "note": "Slow-simmered black lentils cooked for 18 hours."
+        },
+        {
           "dish": "Butter Chicken",
           "bestPlace": "Moti Mahal, Daryaganj",
           "note": "Invented here in the 1940s."
         },
         {
-          "dish": "Chole Bhature",
-          "bestPlace": "Sita Ram Diwan Chand",
-          "note": "The Paharganj benchmark."
-        },
-        {
-          "dish": "Nihari",
-          "bestPlace": "Karim's",
-          "note": "Slow-cooked overnight; go before 10am."
-        },
-        {
-          "dish": "Daulat ki Chaat",
-          "bestPlace": "Chandni Chowk, winter only",
-          "note": "Milk foam set under dew; sold before noon."
+          "dish": "Rabri Paratha",
+          "bestPlace": "Paranthe Wali Gali",
+          "note": "Crisp deep-fried parathas served with sweet rabri."
         }
       ],
       "isInternational": false,
@@ -163,7 +158,7 @@ module.exports = {
       "name": "Udaipur",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1609920658906-8223bd289001?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/udaipur.jpg",
       "description": "The City of Lakes — marble palaces on still water",
       "bestTimeToVisit": "September to March",
       "languages": [
@@ -191,7 +186,7 @@ module.exports = {
       "name": "Varanasi",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/varanasi.jpg",
       "description": "The oldest living city — ghats, aarti and Ganga at dawn",
       "bestTimeToVisit": "October to March",
       "languages": [
@@ -212,6 +207,50 @@ module.exports = {
       "isComingSoon": false,
       "lat": 25.3176,
       "lng": 82.9739
+    },
+    {
+      "id": "allahabad",
+      "name": "Allahabad",
+      "country": "India",
+      "tags": [],
+      "heroImageUrl": "/cities/allahabad.jpg",
+      "description": "Triveni Sangam, Kumbh Mela, and ancient literary heritage",
+      "bestTimeToVisit": "October to March",
+      "languages": [
+        "Hindi",
+        "Urdu",
+        "English"
+      ],
+      "pricePerDay": {
+        "budget": 1400,
+        "mid": 4000,
+        "luxury": 12000
+      },
+      "culture": {
+        "history": "Sacred confluence of the Ganga, Yamuna and mythical Saraswati rivers. Home of the Maha Kumbh Mela, Akbar's Allahabad Fort, Anand Bhavan, and Khusro Bagh.",
+        "originText": "Sacred confluence of the Ganga, Yamuna and mythical Saraswati rivers. Home of the Maha Kumbh Mela, Akbar's Allahabad Fort, Anand Bhavan, and Khusro Bagh."
+      },
+      "delicacies": [
+        {
+          "dish": "Allahabadi Guava & Chaat",
+          "bestPlace": "Loknath Galli",
+          "note": "Red-fleshed local guavas and spicy tamatar chaat."
+        },
+        {
+          "dish": "Poori Sabzi & Jalebi",
+          "bestPlace": "Netram Mulchand",
+          "note": "Morning breakfast with hing aloo and crisp jalebi."
+        },
+        {
+          "dish": "Allahabadi Tehri",
+          "bestPlace": "Chowk Kitchens",
+          "note": "Fragrant turmeric-infused spiced vegetable rice with local mustard oil."
+        }
+      ],
+      "isInternational": false,
+      "isComingSoon": false,
+      "lat": 25.4358,
+      "lng": 81.8463
     },
     {
       "id": "agra",
@@ -279,7 +318,28 @@ module.exports = {
         "history": "Capital of British India until 1911 and the engine of the Bengal Renaissance — Tagore, Ray, adda culture and the UNESCO-listed Durga Puja.",
         "originText": "Capital of British India until 1911 and the engine of the Bengal Renaissance — Tagore, Ray, adda culture and the UNESCO-listed Durga Puja."
       },
-      "delicacies": [],
+      "delicacies": [
+        {
+          "dish": "Chelo Kebab",
+          "bestPlace": "Peter Cat",
+          "note": "Iconic buttered rice with grilled mutton seekh and chicken kebabs."
+        },
+        {
+          "dish": "Kosha Mangsho",
+          "bestPlace": "6 Ballygunge Place",
+          "note": "Rich, slow-cooked Bengali spiced mutton curry."
+        },
+        {
+          "dish": "Daab Chingri",
+          "bestPlace": "Kasturi",
+          "note": "Prawns cooked in mustard paste inside a tender coconut."
+        },
+        {
+          "dish": "Baked Rasgulla",
+          "bestPlace": "Balaram Mullick",
+          "note": "Warm caramelised baked cottage-cheese dumplings."
+        }
+      ],
       "isInternational": false,
       "isComingSoon": false,
       "lat": 22.5726,
@@ -317,7 +377,7 @@ module.exports = {
       "name": "Kashmir",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1566323834-3a5b1e5c8b46?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/kashmir.jpg",
       "description": "Shikaras, saffron fields and Himalayan meadows",
       "bestTimeToVisit": "April to October",
       "languages": [
@@ -361,7 +421,28 @@ module.exports = {
         "history": "Home of Bharatanatyam and the December Margazhi music season, with Dravidian temple architecture at nearby Mahabalipuram.",
         "originText": "Home of Bharatanatyam and the December Margazhi music season, with Dravidian temple architecture at nearby Mahabalipuram."
       },
-      "delicacies": [],
+      "delicacies": [
+        {
+          "dish": "Podi Idli",
+          "bestPlace": "Murugan Idli Shop",
+          "note": "Steamed rice cakes tossed in spiced gun powder and ghee."
+        },
+        {
+          "dish": "Masala Dosa",
+          "bestPlace": "Saravana Bhavan",
+          "note": "Crispy fermented crepe filled with spiced potato masala."
+        },
+        {
+          "dish": "Chicken 65",
+          "bestPlace": "Buhari Hotel",
+          "note": "Original deep-fried spicy red chicken created in 1965."
+        },
+        {
+          "dish": "Sambar Idli",
+          "bestPlace": "Ratna Cafe",
+          "note": "Idlis completely submerged in piping hot signature sambar."
+        }
+      ],
       "isInternational": false,
       "isComingSoon": false,
       "lat": 13.0827,
@@ -372,7 +453,7 @@ module.exports = {
       "name": "Mysuru",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1600100397608-f010d1e63d43?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/mysuru.jpg",
       "description": "Palace lights, sandalwood and silk",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -388,7 +469,23 @@ module.exports = {
         "history": "Seat of the Wadiyar dynasty. Dasara here is a ten-day state festival with a caparisoned-elephant procession.",
         "originText": "Seat of the Wadiyar dynasty. Dasara here is a ten-day state festival with a caparisoned-elephant procession."
       },
-      "delicacies": [],
+      "delicacies": [
+        {
+          "dish": "Mysore Masala Dosa",
+          "bestPlace": "Vinayaka Mylari",
+          "note": "Soft, buttery dosa with secret red paste filling."
+        },
+        {
+          "dish": "Chicken Biryani",
+          "bestPlace": "RRR Restaurant",
+          "note": "Spicy Andhra-style biryani served on plantain leaves."
+        },
+        {
+          "dish": "Mutton Biryani",
+          "bestPlace": "Hotel Hanumanthu",
+          "note": "Traditional woodfire pulao-style mutton delicacy."
+        }
+      ],
       "isInternational": false,
       "isComingSoon": false,
       "lat": 12.2958,
@@ -399,7 +496,7 @@ module.exports = {
       "name": "Pushkar",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/pushkar.jpg",
       "description": "A holy lake, 500 temples and the camel fair",
       "bestTimeToVisit": "October to March",
       "languages": [
@@ -415,7 +512,23 @@ module.exports = {
         "history": "One of the only Brahma temples on earth sits by a lake said to have formed where a lotus fell. The November camel fair draws 200,000 people.",
         "originText": "One of the only Brahma temples on earth sits by a lake said to have formed where a lotus fell. The November camel fair draws 200,000 people."
       },
-      "delicacies": [],
+      "delicacies": [
+        {
+          "dish": "Rajasthani Thali",
+          "bestPlace": "Sixth Sense Rooftop",
+          "note": "Traditional platter of gatte ki sabzi, dal, baati and rotis."
+        },
+        {
+          "dish": "Wood-fired Pizza",
+          "bestPlace": "La Pizzeria",
+          "note": "Fresh thin-crust Italian pizza in a garden courtyard."
+        },
+        {
+          "dish": "Falafel Plate",
+          "bestPlace": "Honey Dew Cafe",
+          "note": "Fresh pita, hummus, tahini and crisp chickpea patties."
+        }
+      ],
       "isInternational": false,
       "isComingSoon": false,
       "lat": 26.4899,
@@ -426,7 +539,7 @@ module.exports = {
       "name": "Ahmedabad",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "https://images.unsplash.com/photo-1584551246679-0daf3d275d0f?auto=format&fit=crop&w=900&q=70",
       "description": "India's first UNESCO World Heritage City",
       "bestTimeToVisit": "November to February",
       "languages": [
@@ -443,7 +556,23 @@ module.exports = {
         "history": "Pol houses, Indo-Islamic stone jaalis, Gandhi's Sabarmati Ashram and a textile industry that earned it \"Manchester of the East\".",
         "originText": "Pol houses, Indo-Islamic stone jaalis, Gandhi's Sabarmati Ashram and a textile industry that earned it \"Manchester of the East\"."
       },
-      "delicacies": [],
+      "delicacies": [
+        {
+          "dish": "Gujarati Thali",
+          "bestPlace": "Agashiye / Gordhan Thal",
+          "note": "Unlimited spread of farsan, kathol, rotlis and desserts."
+        },
+        {
+          "dish": "Chocolate Sandwich",
+          "bestPlace": "Manek Chowk Food Street",
+          "note": "Decadent grilled sandwich loaded with chocolate and cheese."
+        },
+        {
+          "dish": "Khaman",
+          "bestPlace": "Das Khaman",
+          "note": "Steamed, spongy chickpea cakes garnished with mustard and coriander."
+        }
+      ],
       "isInternational": false,
       "isComingSoon": false,
       "lat": 23.0225,
@@ -454,7 +583,7 @@ module.exports = {
       "name": "Jagannath Puri",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/puri.jpg",
       "description": "Temple town on the Bay of Bengal",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -481,7 +610,7 @@ module.exports = {
       "name": "Pune",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/pune.jpg",
       "description": "Maratha history with a young, green campus feel",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -509,7 +638,7 @@ module.exports = {
       "name": "Hyderabad",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1600100397608-f010d1e63d43?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/hyderabad.jpg",
       "description": "Nizami grandeur, biryani and pearls",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -537,7 +666,7 @@ module.exports = {
       "name": "Darjeeling",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/darjeeling.jpg",
       "description": "Tea gardens, toy trains and Kanchenjunga at sunrise",
       "bestTimeToVisit": "March to May, October to November",
       "languages": [
@@ -565,7 +694,7 @@ module.exports = {
       "name": "Shimla",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=900&q=70",
+      "heroImageUrl": "/cities/shimla.jpg",
       "description": "The summer capital of the Raj on a pine ridge",
       "bestTimeToVisit": "March to June, December to January",
       "languages": [
@@ -1164,104 +1293,80 @@ module.exports = {
       "cityId": "jaipur",
       "name": "Amber Fort",
       "category": "Heritage",
-      "description": "Hilltop sandstone & marble fort with Sheesh Mahal mirror palace.",
-      "price": 600,
-      "rating": 4.7,
+      "description": "Massive hilltop fort with courtyards, palaces and sweeping views over the Aravalli hills.",
+      "price": 100,
+      "rating": 4.6,
       "imageUrl": null,
       "lat": 26.9855,
       "lng": 75.8513
-    },
-    {
-      "id": "poi_jaipur_hawa-mahal",
-      "cityId": "jaipur",
-      "name": "Hawa Mahal",
-      "category": "Heritage",
-      "description": "The 'Palace of Winds' — 953 tiny windows in a honeycomb facade.",
-      "price": 200,
-      "rating": 4.5,
-      "imageUrl": null,
-      "lat": 26.9239,
-      "lng": 75.8267
     },
     {
       "id": "poi_jaipur_city-palace",
       "cityId": "jaipur",
       "name": "City Palace",
       "category": "Heritage",
-      "description": "Still-royal residence with courtyards, textiles and armoury museums.",
-      "price": 700,
-      "rating": 4.6,
+      "description": "Royal complex in the old city combining Rajput and Mughal architecture with museums and ornate courtyards.",
+      "price": 300,
+      "rating": 4.5,
       "imageUrl": null,
       "lat": 26.9255,
       "lng": 75.8236
+    },
+    {
+      "id": "poi_jaipur_hawa-mahal",
+      "cityId": "jaipur",
+      "name": "Hawa Mahal",
+      "category": "Landmark",
+      "description": "Iconic pink sandstone facade built with hundreds of small windows overlooking the old city streets.",
+      "price": 50,
+      "rating": 4.5,
+      "imageUrl": null,
+      "lat": 26.9239,
+      "lng": 75.8267
     },
     {
       "id": "poi_jaipur_jantar-mantar",
       "cityId": "jaipur",
       "name": "Jantar Mantar",
       "category": "Heritage",
-      "description": "UNESCO observatory with the world's largest stone sundial.",
-      "price": 200,
-      "rating": 4.4,
+      "description": "UNESCO-listed astronomical observatory filled with enormous precision instruments from the 18th century.",
+      "price": 50,
+      "rating": 4.5,
       "imageUrl": null,
       "lat": 26.9247,
       "lng": 75.8246
-    },
-    {
-      "id": "poi_jaipur_johari-bazaar",
-      "cityId": "jaipur",
-      "name": "Johari Bazaar",
-      "category": "Market",
-      "description": "Gems, kundan jewellery and traditional Rajasthani textiles.",
-      "price": 0,
-      "rating": 4.3,
-      "imageUrl": null,
-      "lat": 26.9196,
-      "lng": 75.8253
     },
     {
       "id": "poi_jaipur_nahargarh-fort",
       "cityId": "jaipur",
       "name": "Nahargarh Fort",
       "category": "Viewpoint",
-      "description": "Sunset over the whole pink grid from the Aravalli ridge.",
-      "price": 200,
-      "rating": 4.6,
+      "description": "Hilltop fort famous for sunset views across Jaipur and the surrounding Aravallis.",
+      "price": 50,
+      "rating": 4.5,
       "imageUrl": null,
       "lat": 26.9374,
       "lng": 75.8153
     },
     {
-      "id": "poi_jaipur_chokhi-dhani",
-      "cityId": "jaipur",
-      "name": "Chokhi Dhani",
-      "category": "Experience",
-      "description": "Village-themed evening of folk dance, puppets and thali dinner.",
-      "price": 1100,
-      "rating": 4.2,
-      "imageUrl": null,
-      "lat": 26.7583,
-      "lng": 75.8394
-    },
-    {
-      "id": "poi_jaipur_panna-meena-ka-kund",
-      "cityId": "jaipur",
-      "name": "Panna Meena ka Kund",
-      "category": "Heritage",
-      "description": "Symmetrical 16th-century stepwell near Amber.",
+      "id": "poi_delhi_india-gate",
+      "cityId": "delhi",
+      "name": "India Gate",
+      "category": "Landmark",
+      "description": "Monumental war memorial and one of Delhi's best-known evening landmarks.",
       "price": 0,
-      "rating": 4.5,
+      "rating": 4.6,
       "imageUrl": null,
-      "lat": 26.9885,
-      "lng": 75.8494
+      "lat": 28.6129,
+      "lng": 77.2295
     },
     {
       "id": "poi_delhi_red-fort",
       "cityId": "delhi",
       "name": "Red Fort",
       "category": "Heritage",
-      "description": "Shah Jahan's walled palace-city in Mughal red sandstone.",
-      "price": 550,
+      "description": "Mughal-era fortress and UNESCO World Heritage Site in Old Delhi.",
+      "price": 35,
       "rating": 4.5,
       "imageUrl": null,
       "lat": 28.6562,
@@ -1272,8 +1377,8 @@ module.exports = {
       "cityId": "delhi",
       "name": "Qutub Minar",
       "category": "Heritage",
-      "description": "73 m victory tower from 1193 and India's first mosque complex.",
-      "price": 550,
+      "description": "UNESCO-listed 12th-century minaret surrounded by historic monuments.",
+      "price": 40,
       "rating": 4.6,
       "imageUrl": null,
       "lat": 28.5245,
@@ -1284,72 +1389,24 @@ module.exports = {
       "cityId": "delhi",
       "name": "Humayun's Tomb",
       "category": "Heritage",
-      "description": "The garden tomb that became the blueprint for the Taj Mahal.",
-      "price": 550,
-      "rating": 4.7,
+      "description": "Grand Mughal garden tomb and architectural precursor to the Taj Mahal.",
+      "price": 50,
+      "rating": 4.6,
       "imageUrl": null,
       "lat": 28.5933,
       "lng": 77.2507
-    },
-    {
-      "id": "poi_delhi_india-gate",
-      "cityId": "delhi",
-      "name": "India Gate",
-      "category": "Monument",
-      "description": "War memorial arch anchoring the Kartavya Path lawns.",
-      "price": 0,
-      "rating": 4.6,
-      "imageUrl": null,
-      "lat": 28.6129,
-      "lng": 77.2295
     },
     {
       "id": "poi_delhi_lotus-temple",
       "cityId": "delhi",
       "name": "Lotus Temple",
       "category": "Spiritual",
-      "description": "Bahá'í house of worship shaped as a 27-petal marble lotus.",
+      "description": "Distinctive lotus-shaped Baháʼí House of Worship surrounded by landscaped gardens.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
       "lat": 28.5535,
       "lng": 77.2588
-    },
-    {
-      "id": "poi_delhi_jama-masjid",
-      "cityId": "delhi",
-      "name": "Jama Masjid",
-      "category": "Spiritual",
-      "description": "India's largest mosque, overlooking Chandni Chowk.",
-      "price": 0,
-      "rating": 4.5,
-      "imageUrl": null,
-      "lat": 28.6507,
-      "lng": 77.2334
-    },
-    {
-      "id": "poi_delhi_hauz-khas-village",
-      "cityId": "delhi",
-      "name": "Hauz Khas Village",
-      "category": "Experience",
-      "description": "Medieval reservoir ruins ringed by bars and design shops.",
-      "price": 0,
-      "rating": 4.2,
-      "imageUrl": null,
-      "lat": 28.5535,
-      "lng": 77.1943
-    },
-    {
-      "id": "poi_delhi_akshardham",
-      "cityId": "delhi",
-      "name": "Akshardham",
-      "category": "Spiritual",
-      "description": "Vast carved-stone temple complex with an evening water show.",
-      "price": 170,
-      "rating": 4.7,
-      "imageUrl": null,
-      "lat": 28.6127,
-      "lng": 77.2773
     },
     {
       "id": "poi_agra_taj-mahal",
@@ -1482,6 +1539,54 @@ module.exports = {
       "imageUrl": null,
       "lat": 25.309,
       "lng": 83.0107
+    },
+    {
+      "id": "poi_allahabad_triveni-sangam",
+      "cityId": "allahabad",
+      "name": "Triveni Sangam",
+      "category": "Spiritual",
+      "description": "Sacred confluence of the Ganga, Yamuna and Saraswati; site of the Kumbh Mela.",
+      "price": 0,
+      "rating": 4.8,
+      "imageUrl": null,
+      "lat": 25.4262,
+      "lng": 81.8847
+    },
+    {
+      "id": "poi_allahabad_allahabad-fort-akshayavat",
+      "cityId": "allahabad",
+      "name": "Allahabad Fort & Akshayavat",
+      "category": "Heritage",
+      "description": "1583 fort built by Akbar overlooking the Sangam with the immortal banyan tree.",
+      "price": 50,
+      "rating": 4.5,
+      "imageUrl": null,
+      "lat": 25.4284,
+      "lng": 81.8767
+    },
+    {
+      "id": "poi_allahabad_anand-bhavan",
+      "cityId": "allahabad",
+      "name": "Anand Bhavan",
+      "category": "Heritage",
+      "description": "Historic ancestral home of the Nehru family and epicenter of the independence movement.",
+      "price": 70,
+      "rating": 4.6,
+      "imageUrl": null,
+      "lat": 25.4608,
+      "lng": 81.8596
+    },
+    {
+      "id": "poi_allahabad_khusro-bagh",
+      "cityId": "allahabad",
+      "name": "Khusro Bagh",
+      "category": "Heritage",
+      "description": "Mughal walled garden containing intricate sandstone mausoleums of Prince Khusrau.",
+      "price": 0,
+      "rating": 4.4,
+      "imageUrl": null,
+      "lat": 25.4419,
+      "lng": 81.8267
     },
     {
       "id": "poi_goa_basilica-of-bom-jesus",
@@ -1644,7 +1749,7 @@ module.exports = {
       "cityId": "kolkata",
       "name": "Victoria Memorial",
       "category": "Heritage",
-      "description": "Marble monument to British India housing a sprawling colonial-era museum.",
+      "description": "Grand white-marble monument surrounded by gardens and a museum documenting colonial-era Kolkata.",
       "price": 30,
       "rating": 4.6,
       "imageUrl": null,
@@ -1656,7 +1761,7 @@ module.exports = {
       "cityId": "kolkata",
       "name": "Howrah Bridge",
       "category": "Landmark",
-      "description": "Cantilever bridge over the Hooghly — busiest of its kind in the world.",
+      "description": "Iconic cantilever bridge over the Hooghly River and one of Kolkata's defining city views.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
@@ -1668,7 +1773,7 @@ module.exports = {
       "cityId": "kolkata",
       "name": "Dakshineswar Kali Temple",
       "category": "Spiritual",
-      "description": "Riverside temple linked to the mystic Ramakrishna Paramahansa.",
+      "description": "Riverside Kali temple associated with Ramakrishna Paramahansa and a major pilgrimage site.",
       "price": 0,
       "rating": 4.6,
       "imageUrl": null,
@@ -1676,23 +1781,11 @@ module.exports = {
       "lng": 88.3576
     },
     {
-      "id": "poi_kolkata_college-street",
-      "cityId": "kolkata",
-      "name": "College Street",
-      "category": "Market",
-      "description": "Asia's largest second-hand book market, running for over a kilometre.",
-      "price": 0,
-      "rating": 4.4,
-      "imageUrl": null,
-      "lat": 22.5744,
-      "lng": 88.363
-    },
-    {
       "id": "poi_kolkata_indian-museum",
       "cityId": "kolkata",
       "name": "Indian Museum",
       "category": "Heritage",
-      "description": "India's oldest and largest museum, since 1814.",
+      "description": "India's oldest major museum, with archaeology, art, fossils and natural-history collections.",
       "price": 50,
       "rating": 4.3,
       "imageUrl": null,
@@ -1700,11 +1793,23 @@ module.exports = {
       "lng": 88.3512
     },
     {
+      "id": "poi_kolkata_college-street",
+      "cityId": "kolkata",
+      "name": "College Street",
+      "category": "Market",
+      "description": "Legendary book district packed with old bookstores, publishers and the historic Coffee House.",
+      "price": 0,
+      "rating": 4.4,
+      "imageUrl": null,
+      "lat": 22.5744,
+      "lng": 88.363
+    },
+    {
       "id": "poi_chennai_kapaleeshwarar-temple",
       "cityId": "chennai",
       "name": "Kapaleeshwarar Temple",
       "category": "Spiritual",
-      "description": "Dravidian-style temple with a towering painted gopuram in Mylapore.",
+      "description": "Dravidian-style temple in Mylapore with a towering colourful gopuram and centuries of history.",
       "price": 0,
       "rating": 4.7,
       "imageUrl": null,
@@ -1716,7 +1821,7 @@ module.exports = {
       "cityId": "chennai",
       "name": "Marina Beach",
       "category": "Beach",
-      "description": "One of the world's longest urban beaches, busy at sunrise and sunset.",
+      "description": "Long urban beachfront popular for sunrise walks, evening snacks and local street life.",
       "price": 0,
       "rating": 4.4,
       "imageUrl": null,
@@ -1728,7 +1833,7 @@ module.exports = {
       "cityId": "chennai",
       "name": "Fort St. George",
       "category": "Heritage",
-      "description": "First English fortress in India, built in 1644.",
+      "description": "Historic British fort established in 1644 and home to important colonial-era buildings.",
       "price": 30,
       "rating": 4.3,
       "imageUrl": null,
@@ -1736,11 +1841,23 @@ module.exports = {
       "lng": 80.2874
     },
     {
+      "id": "poi_chennai_government-museum",
+      "cityId": "chennai",
+      "name": "Government Museum",
+      "category": "Heritage",
+      "description": "Major museum complex known for Chola bronzes, archaeology and South Indian art.",
+      "price": 20,
+      "rating": 4.5,
+      "imageUrl": null,
+      "lat": 13.0732,
+      "lng": 80.2609
+    },
+    {
       "id": "poi_chennai_mahabalipuram-shore-temple",
       "cityId": "chennai",
       "name": "Mahabalipuram Shore Temple",
       "category": "Heritage",
-      "description": "UNESCO-listed 7th-century granite temple facing the Bay of Bengal.",
+      "description": "UNESCO-listed Pallava-era stone temple dramatically positioned beside the Bay of Bengal.",
       "price": 40,
       "rating": 4.6,
       "imageUrl": null,
@@ -1752,7 +1869,7 @@ module.exports = {
       "cityId": "mysuru",
       "name": "Mysore Palace",
       "category": "Heritage",
-      "description": "Indo-Saracenic royal palace, lit with 100,000 bulbs on Sunday nights.",
+      "description": "Indo-Saracenic royal palace famous for its grand interiors and spectacular illumination.",
       "price": 70,
       "rating": 4.8,
       "imageUrl": null,
@@ -1764,7 +1881,7 @@ module.exports = {
       "cityId": "mysuru",
       "name": "Chamundi Hill",
       "category": "Viewpoint",
-      "description": "Hilltop temple and city panorama, reached by 1,000 stone steps or road.",
+      "description": "Hilltop temple and panoramic viewpoint overlooking Mysuru, reached by road or a long stone staircase.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
@@ -1776,7 +1893,7 @@ module.exports = {
       "cityId": "mysuru",
       "name": "Devaraja Market",
       "category": "Market",
-      "description": "Century-old market piled with flowers, spices and sandalwood.",
+      "description": "Historic market filled with flowers, fruits, spices, incense and traditional goods.",
       "price": 0,
       "rating": 4.4,
       "imageUrl": null,
@@ -1784,11 +1901,35 @@ module.exports = {
       "lng": 76.6515
     },
     {
+      "id": "poi_mysuru_st-philomenas-cathedral",
+      "cityId": "mysuru",
+      "name": "St. Philomena's Cathedral",
+      "category": "Heritage",
+      "description": "Neo-Gothic cathedral with dramatic twin towers inspired by European church architecture.",
+      "price": 0,
+      "rating": 4.5,
+      "imageUrl": null,
+      "lat": 12.3211,
+      "lng": 76.6575
+    },
+    {
+      "id": "poi_mysuru_brindavan-gardens",
+      "cityId": "mysuru",
+      "name": "Brindavan Gardens",
+      "category": "Garden",
+      "description": "Famous landscaped gardens below the Krishnaraja Sagar Dam with evening musical fountains.",
+      "price": 50,
+      "rating": 4.4,
+      "imageUrl": null,
+      "lat": 12.4243,
+      "lng": 76.5731
+    },
+    {
       "id": "poi_pushkar_pushkar-lake",
       "cityId": "pushkar",
       "name": "Pushkar Lake",
       "category": "Spiritual",
-      "description": "Holy lake ringed by 52 bathing ghats and 500 temples.",
+      "description": "Sacred lake surrounded by bathing ghats, temples and colourful old-town streets.",
       "price": 0,
       "rating": 4.6,
       "imageUrl": null,
@@ -1800,7 +1941,7 @@ module.exports = {
       "cityId": "pushkar",
       "name": "Brahma Temple",
       "category": "Spiritual",
-      "description": "One of the very few temples on earth dedicated to Brahma.",
+      "description": "One of the world's few major temples dedicated to Lord Brahma.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
@@ -1812,7 +1953,7 @@ module.exports = {
       "cityId": "pushkar",
       "name": "Savitri Temple Viewpoint",
       "category": "Viewpoint",
-      "description": "Ropeway or hilltop hike above the lake for sunset views.",
+      "description": "Hilltop temple offering sweeping views over Pushkar Lake and the surrounding desert landscape.",
       "price": 100,
       "rating": 4.5,
       "imageUrl": null,
@@ -1820,11 +1961,35 @@ module.exports = {
       "lng": 74.5361
     },
     {
+      "id": "poi_pushkar_varaha-temple",
+      "cityId": "pushkar",
+      "name": "Varaha Temple",
+      "category": "Spiritual",
+      "description": "Historic temple dedicated to Varaha, an incarnation of Vishnu, in Pushkar's old town.",
+      "price": 0,
+      "rating": 4.3,
+      "imageUrl": null,
+      "lat": 26.4886,
+      "lng": 74.5539
+    },
+    {
+      "id": "poi_pushkar_pushkar-bazaar",
+      "cityId": "pushkar",
+      "name": "Pushkar Bazaar",
+      "category": "Market",
+      "description": "Colourful lanes filled with textiles, jewellery, leather goods, handicrafts and souvenirs.",
+      "price": 0,
+      "rating": 4.4,
+      "imageUrl": null,
+      "lat": 26.4893,
+      "lng": 74.553
+    },
+    {
       "id": "poi_ahmedabad_sabarmati-ashram",
       "cityId": "ahmedabad",
       "name": "Sabarmati Ashram",
       "category": "Heritage",
-      "description": "Gandhi's riverside home and independence-movement headquarters.",
+      "description": "Gandhi's riverside home and an important site connected with India's independence movement.",
       "price": 0,
       "rating": 4.7,
       "imageUrl": null,
@@ -1836,7 +2001,7 @@ module.exports = {
       "cityId": "ahmedabad",
       "name": "Adalaj Stepwell",
       "category": "Heritage",
-      "description": "Five-storey carved stepwell from 1499.",
+      "description": "Five-storey carved stepwell built in the late 15th century with remarkable stone architecture.",
       "price": 0,
       "rating": 4.6,
       "imageUrl": null,
@@ -1848,7 +2013,7 @@ module.exports = {
       "cityId": "ahmedabad",
       "name": "Sidi Saiyyed Mosque",
       "category": "Heritage",
-      "description": "Famous for its intricately carved stone jaali windows.",
+      "description": "Historic mosque famous for its delicate stone jaali depicting the Tree of Life.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
@@ -1860,12 +2025,24 @@ module.exports = {
       "cityId": "ahmedabad",
       "name": "Manek Chowk",
       "category": "Market",
-      "description": "Jewellery market by day, street-food night market after dark.",
+      "description": "Jewellery market by day that transforms into a legendary street-food destination after dark.",
       "price": 0,
       "rating": 4.5,
       "imageUrl": null,
       "lat": 23.0248,
       "lng": 72.5888
+    },
+    {
+      "id": "poi_ahmedabad_kankaria-lake",
+      "cityId": "ahmedabad",
+      "name": "Kankaria Lake",
+      "category": "Leisure",
+      "description": "Large recreational lake surrounded by gardens, rides, food stalls and evening activities.",
+      "price": 10,
+      "rating": 4.4,
+      "imageUrl": null,
+      "lat": 22.9978,
+      "lng": 72.5997
     }
   ],
   "restaurants": [
@@ -1881,23 +2058,23 @@ module.exports = {
       "lng": 75.8373
     },
     {
-      "id": "rest_jaipur_rawat-mishtan-bhandar",
+      "id": "rest_jaipur_rawat-misthan-bhandar",
       "cityId": "jaipur",
-      "name": "Rawat Mishtan Bhandar",
+      "name": "Rawat Misthan Bhandar",
       "area": "Station Road",
       "description": "Cash-only institution, always packed with locals.",
-      "mustTryDish": "Pyaaz kachori",
+      "mustTryDish": "Pyaaz Kachori",
       "priceForTwo": 400,
-      "lat": 26.89795555555556,
-      "lng": 75.7973
+      "lat": 26.964622222222225,
+      "lng": 75.81952222222222
     },
     {
       "id": "rest_jaipur_suvarna-mahal",
       "cityId": "jaipur",
       "name": "Suvarna Mahal",
       "area": "Rambagh Palace",
-      "description": "Royal Rajasthani in a maharaja's former dining hall.",
-      "mustTryDish": "Laal maas",
+      "description": "Royal Rajasthani dining in a maharaja's former dining hall.",
+      "mustTryDish": "Laal Maas",
       "priceForTwo": 7000,
       "lat": 26.935733333333335,
       "lng": 75.83952222222223
@@ -1907,9 +2084,9 @@ module.exports = {
       "cityId": "jaipur",
       "name": "Handi Restaurant",
       "area": "MI Road",
-      "description": "Smoky tandoor and handi meats since 1980.",
-      "mustTryDish": "Handi mutton",
-      "priceForTwo": 1400,
+      "description": "Smoky tandoor and handi meats served in a lively local setting.",
+      "mustTryDish": "Laal Maas",
+      "priceForTwo": 900,
       "lat": 26.913511111111113,
       "lng": 75.79507777777778
     },
@@ -1919,7 +2096,7 @@ module.exports = {
       "name": "Karim's",
       "area": "Jama Masjid",
       "description": "Mughlai kitchen run by the same family since 1913.",
-      "mustTryDish": "Mutton burra",
+      "mustTryDish": "Mutton Burra",
       "priceForTwo": 900,
       "lat": 28.607233333333333,
       "lng": 77.16233333333334
@@ -1929,7 +2106,7 @@ module.exports = {
       "cityId": "delhi",
       "name": "Bukhara",
       "area": "ITC Maurya",
-      "description": "North-West Frontier grills; a global top-100 fixture.",
+      "description": "North-West Frontier grills; a long-running luxury dining institution.",
       "mustTryDish": "Dal Bukhara",
       "priceForTwo": 8000,
       "lat": 28.638344444444446,
@@ -1940,22 +2117,22 @@ module.exports = {
       "cityId": "delhi",
       "name": "Paranthe Wali Gali",
       "area": "Chandni Chowk",
-      "description": "A lane of fried-paratha stalls, unchanged for a century.",
-      "mustTryDish": "Rabri paratha",
+      "description": "A lane of fried-paratha stalls with a long Old Delhi food tradition.",
+      "mustTryDish": "Rabri Paratha",
       "priceForTwo": 300,
       "lat": 28.570566666666668,
       "lng": 77.239
     },
     {
-      "id": "rest_delhi_indian-accent",
+      "id": "rest_delhi_moti-mahal",
       "cityId": "delhi",
-      "name": "Indian Accent",
-      "area": "Lodhi Road",
-      "description": "Modern Indian tasting menus, consistently India's #1.",
-      "mustTryDish": "Daulat ki chaat",
-      "priceForTwo": 12000,
-      "lat": 28.65501111111111,
-      "lng": 77.16344444444445
+      "name": "Moti Mahal",
+      "area": "Daryaganj",
+      "description": "Historic restaurant associated with the popularisation of butter chicken.",
+      "mustTryDish": "Butter Chicken",
+      "priceForTwo": 1000,
+      "lat": 28.596122222222224,
+      "lng": 77.19566666666667
     },
     {
       "id": "rest_agra_pinch-of-spice",
@@ -2024,6 +2201,39 @@ module.exports = {
       "lng": 82.94501111111111
     },
     {
+      "id": "rest_allahabad_netram-mulchand-sons",
+      "cityId": "allahabad",
+      "name": "Netram Mulchand & Sons",
+      "area": "Katra",
+      "description": "Famous for authentic poori-sabzi, jalebi and rabri since 1854.",
+      "mustTryDish": "Poori Sabzi & Jalebi",
+      "priceForTwo": 250,
+      "lat": 25.41357777777778,
+      "lng": 81.80185555555555
+    },
+    {
+      "id": "rest_allahabad_loknath-chaat-corner",
+      "cityId": "allahabad",
+      "name": "Loknath Chaat Corner",
+      "area": "Loknath, Old City",
+      "description": "Famous street chaat and dahi bhalla hub in old Allahabad.",
+      "mustTryDish": "Dahi Bhalla",
+      "priceForTwo": 200,
+      "lat": 25.4058,
+      "lng": 81.85852222222222
+    },
+    {
+      "id": "rest_allahabad_el-chico-restaurant",
+      "cityId": "allahabad",
+      "name": "El Chico Restaurant",
+      "area": "Civil Lines",
+      "description": "Historic dining spot in Civil Lines serving Mughlai and continental dishes since 1964.",
+      "mustTryDish": "Roasted Murgh & Biryani",
+      "priceForTwo": 900,
+      "lat": 25.404688888888888,
+      "lng": 81.85074444444444
+    },
+    {
       "id": "rest_mumbai_britannia-co",
       "cityId": "mumbai",
       "name": "Britannia & Co.",
@@ -2039,55 +2249,220 @@ module.exports = {
       "cityId": "kolkata",
       "name": "Peter Cat",
       "area": "Park Street",
-      "description": "Old-school Kolkata institution behind the sizzling Chelo Kebab.",
+      "description": "Old-school Kolkata institution famous for its smoky Chelo Kebab and sizzlers.",
       "mustTryDish": "Chelo Kebab",
       "priceForTwo": 900,
       "lat": 22.577044444444446,
       "lng": 88.39501111111112
     },
     {
+      "id": "rest_kolkata_6-ballygunge-place",
+      "cityId": "kolkata",
+      "name": "6 Ballygunge Place",
+      "area": "Ballygunge",
+      "description": "Popular Bengali restaurant serving a broad spread of traditional home-style dishes.",
+      "mustTryDish": "Kosha Mangsho",
+      "priceForTwo": 1000,
+      "lat": 22.535933333333336,
+      "lng": 88.32945555555555
+    },
+    {
+      "id": "rest_kolkata_kasturi",
+      "cityId": "kolkata",
+      "name": "Kasturi",
+      "area": "New Market",
+      "description": "Casual Bengali favourite known for fish, prawns and mustard-heavy curries.",
+      "mustTryDish": "Daab Chingri",
+      "priceForTwo": 700,
+      "lat": 22.593711111111112,
+      "lng": 88.40056666666666
+    },
+    {
+      "id": "rest_kolkata_balaram-mullick-radharaman-mullick",
+      "cityId": "kolkata",
+      "name": "Balaram Mullick & Radharaman Mullick",
+      "area": "Bhowanipore",
+      "description": "Legendary sweet shop known for sandesh, mishti doi and seasonal Bengali sweets.",
+      "mustTryDish": "Baked Rasgulla",
+      "priceForTwo": 500,
+      "lat": 22.575933333333335,
+      "lng": 88.38723333333333
+    },
+    {
       "id": "rest_chennai_murugan-idli-shop",
       "cityId": "chennai",
       "name": "Murugan Idli Shop",
       "area": "T. Nagar",
-      "description": "Soft idlis and podi idlis served on banana leaf since 1978.",
+      "description": "Popular South Indian institution known for soft idlis, podi and generous chutneys.",
       "mustTryDish": "Podi Idli",
       "priceForTwo": 400,
       "lat": 13.066033333333333,
       "lng": 80.26514444444445
     },
     {
+      "id": "rest_chennai_saravana-bhavan",
+      "cityId": "chennai",
+      "name": "Saravana Bhavan",
+      "area": "T. Nagar",
+      "description": "Reliable vegetarian option for classic Tamil breakfast, dosa and filter coffee.",
+      "mustTryDish": "Masala Dosa",
+      "priceForTwo": 350,
+      "lat": 13.134922222222222,
+      "lng": 80.30292222222222
+    },
+    {
+      "id": "rest_chennai_buhari-hotel",
+      "cityId": "chennai",
+      "name": "Buhari Hotel",
+      "area": "Mount Road",
+      "description": "Historic Chennai restaurant associated with the popular Chicken 65 dish.",
+      "mustTryDish": "Chicken 65",
+      "priceForTwo": 700,
+      "lat": 13.074922222222224,
+      "lng": 80.21625555555556
+    },
+    {
+      "id": "rest_chennai_ratna-cafe",
+      "cityId": "chennai",
+      "name": "Ratna Cafe",
+      "area": "Triplicane",
+      "description": "Old-school vegetarian favourite famous for sambar poured generously over idlis.",
+      "mustTryDish": "Sambar Idli",
+      "priceForTwo": 350,
+      "lat": 13.117144444444445,
+      "lng": 80.2895888888889
+    },
+    {
       "id": "rest_mysuru_vinayaka-mylari",
       "cityId": "mysuru",
       "name": "Vinayaka Mylari",
       "area": "Nazarbad",
-      "description": "The dosa that gave Mysore masala dosa its name — thin, buttery, unique red chutney.",
+      "description": "Beloved local institution known for soft, buttery dosa and distinctive chutney.",
       "mustTryDish": "Mysore Masala Dosa",
       "priceForTwo": 250,
       "lat": 12.333577777777778,
       "lng": 76.68162222222222
     },
     {
+      "id": "rest_mysuru_mysore-mylari-hotel",
+      "cityId": "mysuru",
+      "name": "Mysore Mylari Hotel",
+      "area": "Nazarbad",
+      "description": "Classic Mysuru breakfast spot serving fluffy dosas and traditional South Indian dishes.",
+      "mustTryDish": "Mysore Dosa",
+      "priceForTwo": 250,
+      "lat": 12.321355555555556,
+      "lng": 76.59606666666666
+    },
+    {
+      "id": "rest_mysuru_rrr-restaurant",
+      "cityId": "mysuru",
+      "name": "RRR Restaurant",
+      "area": "Nazarbad",
+      "description": "Popular non-vegetarian restaurant known for Andhra-style meals and biryani.",
+      "mustTryDish": "Chicken Biryani",
+      "priceForTwo": 500,
+      "lat": 12.332466666666667,
+      "lng": 76.67384444444444
+    },
+    {
+      "id": "rest_mysuru_hotel-hanumanthu",
+      "cityId": "mysuru",
+      "name": "Hotel Hanumanthu",
+      "area": "Nazarbad",
+      "description": "Old Mysuru favourite famous for spicy local-style mutton and biryani dishes.",
+      "mustTryDish": "Mutton Biryani",
+      "priceForTwo": 500,
+      "lat": 12.350244444444444,
+      "lng": 76.68717777777778
+    },
+    {
       "id": "rest_pushkar_sixth-sense-rooftop",
       "cityId": "pushkar",
       "name": "Sixth Sense Rooftop",
       "area": "Near Brahma Temple",
-      "description": "Rooftop cafe overlooking the lake and ghats.",
+      "description": "Rooftop cafe overlooking the lake and ghats with a relaxed traveller atmosphere.",
       "mustTryDish": "Rajasthani Thali",
       "priceForTwo": 500,
       "lat": 26.542122222222222,
       "lng": 74.58332222222222
     },
     {
+      "id": "rest_pushkar_la-pizzeria",
+      "cityId": "pushkar",
+      "name": "La Pizzeria",
+      "area": "Main Market",
+      "description": "Popular casual restaurant known for pizzas, pasta and rooftop seating.",
+      "mustTryDish": "Wood-fired Pizza",
+      "priceForTwo": 600,
+      "lat": 26.479899999999997,
+      "lng": 74.59221111111111
+    },
+    {
+      "id": "rest_pushkar_honey-dew-cafe",
+      "cityId": "pushkar",
+      "name": "Honey Dew Cafe",
+      "area": "Main Market",
+      "description": "Relaxed cafe serving Indian and international vegetarian food near the lake.",
+      "mustTryDish": "Falafel Plate",
+      "priceForTwo": 500,
+      "lat": 26.527677777777775,
+      "lng": 74.59332222222223
+    },
+    {
+      "id": "rest_pushkar_out-of-the-blue",
+      "cityId": "pushkar",
+      "name": "Out Of The Blue",
+      "area": "Main Market",
+      "description": "Rooftop restaurant with lake views and a broad vegetarian menu.",
+      "mustTryDish": "Paneer Tikka",
+      "priceForTwo": 600,
+      "lat": 26.43434444444444,
+      "lng": 74.49554444444445
+    },
+    {
       "id": "rest_ahmedabad_agashiye",
       "cityId": "ahmedabad",
       "name": "Agashiye",
       "area": "Old City",
-      "description": "Rooftop heritage haveli serving a traditional unlimited Gujarati thali.",
+      "description": "Rooftop heritage haveli restaurant serving an elaborate traditional Gujarati thali.",
       "mustTryDish": "Gujarati Thali",
       "priceForTwo": 1200,
       "lat": 23.0125,
       "lng": 72.6125111111111
+    },
+    {
+      "id": "rest_ahmedabad_manek-chowk-food-street",
+      "cityId": "ahmedabad",
+      "name": "Manek Chowk Food Street",
+      "area": "Manek Chowk",
+      "description": "Night-time street-food hub packed with local snacks, sandwiches, sweets and desserts.",
+      "mustTryDish": "Chocolate Sandwich",
+      "priceForTwo": 300,
+      "lat": 23.054722222222225,
+      "lng": 72.57473333333333
+    },
+    {
+      "id": "rest_ahmedabad_das-khaman",
+      "cityId": "ahmedabad",
+      "name": "Das Khaman",
+      "area": "Navrangpura",
+      "description": "Popular local snack shop known for soft khaman, dhokla and Gujarati farsan.",
+      "mustTryDish": "Khaman",
+      "priceForTwo": 250,
+      "lat": 23.038055555555555,
+      "lng": 72.56917777777778
+    },
+    {
+      "id": "rest_ahmedabad_gordhan-thal",
+      "cityId": "ahmedabad",
+      "name": "Gordhan Thal",
+      "area": "SG Highway",
+      "description": "Popular Gujarati restaurant serving a large traditional thali with rotating dishes.",
+      "mustTryDish": "Gujarati Thali",
+      "priceForTwo": 700,
+      "lat": 23.069166666666668,
+      "lng": 72.56473333333334
     },
     {
       "id": "rest_goa_gunpowder",
@@ -2212,6 +2587,201 @@ module.exports = {
       "imageUrl": null,
       "lat": 28.6139,
       "lng": 77.209
+    },
+    {
+      "id": "stay_kolkata_gostops-kolkata",
+      "cityId": "kolkata",
+      "name": "Gostops Kolkata",
+      "priceTier": "budget",
+      "type": "Hostel",
+      "area": "Park Street",
+      "pricePerNight": 900,
+      "distanceFromCenterKm": 6,
+      "imageUrl": null,
+      "lat": 22.610377777777778,
+      "lng": 88.40612222222222
+    },
+    {
+      "id": "stay_kolkata_the-lindsay",
+      "cityId": "kolkata",
+      "name": "The Lindsay",
+      "priceTier": "mid",
+      "type": "Boutique",
+      "area": "New Market",
+      "pricePerNight": 3500,
+      "distanceFromCenterKm": 4.2,
+      "imageUrl": null,
+      "lat": 22.544822222222223,
+      "lng": 88.39167777777777
+    },
+    {
+      "id": "stay_kolkata_the-oberoi-grand",
+      "cityId": "kolkata",
+      "name": "The Oberoi Grand",
+      "priceTier": "luxury",
+      "type": "Heritage",
+      "area": "Esplanade",
+      "pricePerNight": 18000,
+      "distanceFromCenterKm": 2.4,
+      "imageUrl": null,
+      "lat": 22.575933333333335,
+      "lng": 88.38723333333333
+    },
+    {
+      "id": "stay_chennai_zostel-chennai",
+      "cityId": "chennai",
+      "name": "Zostel Chennai",
+      "priceTier": "budget",
+      "type": "Hostel",
+      "area": "Nungambakkam",
+      "pricePerNight": 900,
+      "distanceFromCenterKm": 3.6,
+      "imageUrl": null,
+      "lat": 13.1127,
+      "lng": 80.25847777777778
+    },
+    {
+      "id": "stay_chennai_the-residency-towers",
+      "cityId": "chennai",
+      "name": "The Residency Towers",
+      "priceTier": "mid",
+      "type": "Boutique",
+      "area": "T. Nagar",
+      "pricePerNight": 5500,
+      "distanceFromCenterKm": 0.8,
+      "imageUrl": null,
+      "lat": 13.083811111111112,
+      "lng": 80.27847777777778
+    },
+    {
+      "id": "stay_chennai_itc-grand-chola",
+      "cityId": "chennai",
+      "name": "ITC Grand Chola",
+      "priceTier": "luxury",
+      "type": "Palace Hotel",
+      "area": "Guindy",
+      "pricePerNight": 18000,
+      "distanceFromCenterKm": 5.5,
+      "imageUrl": null,
+      "lat": 13.057144444444445,
+      "lng": 80.31403333333334
+    },
+    {
+      "id": "stay_mysuru_roambay-hostel",
+      "cityId": "mysuru",
+      "name": "Roambay Hostel",
+      "priceTier": "budget",
+      "type": "Hostel",
+      "area": "Vijayanagar",
+      "pricePerNight": 800,
+      "distanceFromCenterKm": 5.5,
+      "imageUrl": null,
+      "lat": 12.340244444444444,
+      "lng": 76.61717777777777
+    },
+    {
+      "id": "stay_mysuru_radisson-blu-plaza-hotel-mysore",
+      "cityId": "mysuru",
+      "name": "Radisson Blu Plaza Hotel Mysore",
+      "priceTier": "mid",
+      "type": "Boutique",
+      "area": "MG Road",
+      "pricePerNight": 6000,
+      "distanceFromCenterKm": 4.3,
+      "imageUrl": null,
+      "lat": 12.268022222222221,
+      "lng": 76.66717777777777
+    },
+    {
+      "id": "stay_mysuru_the-windflower-resorts-spa",
+      "cityId": "mysuru",
+      "name": "The Windflower Resorts & Spa",
+      "priceTier": "luxury",
+      "type": "Resort",
+      "area": "Mysuru",
+      "pricePerNight": 10000,
+      "distanceFromCenterKm": 5.4,
+      "imageUrl": null,
+      "lat": 12.304688888888888,
+      "lng": 76.59051111111111
+    },
+    {
+      "id": "stay_pushkar_madpackers-pushkar",
+      "cityId": "pushkar",
+      "name": "Madpackers Pushkar",
+      "priceTier": "budget",
+      "type": "Hostel",
+      "area": "Brahma Temple Area",
+      "pricePerNight": 800,
+      "distanceFromCenterKm": 4.1,
+      "imageUrl": null,
+      "lat": 26.517677777777777,
+      "lng": 74.52332222222223
+    },
+    {
+      "id": "stay_pushkar_hotel-pushkar-palace",
+      "cityId": "pushkar",
+      "name": "Hotel Pushkar Palace",
+      "priceTier": "mid",
+      "type": "Heritage",
+      "area": "Lake Road",
+      "pricePerNight": 4500,
+      "distanceFromCenterKm": 2.3,
+      "imageUrl": null,
+      "lat": 26.476566666666667,
+      "lng": 74.56887777777779
+    },
+    {
+      "id": "stay_pushkar_ananta-spa-resort",
+      "cityId": "pushkar",
+      "name": "Ananta Spa & Resort",
+      "priceTier": "luxury",
+      "type": "Resort",
+      "area": "Pushkar Bypass",
+      "pricePerNight": 9000,
+      "distanceFromCenterKm": 3.5,
+      "imageUrl": null,
+      "lat": 26.478788888888886,
+      "lng": 74.58443333333334
+    },
+    {
+      "id": "stay_ahmedabad_the-hosteller-ahmedabad",
+      "cityId": "ahmedabad",
+      "name": "The Hosteller Ahmedabad",
+      "priceTier": "budget",
+      "type": "Hostel",
+      "area": "Navrangpura",
+      "pricePerNight": 800,
+      "distanceFromCenterKm": 3.9,
+      "imageUrl": null,
+      "lat": 23.055833333333336,
+      "lng": 72.5825111111111
+    },
+    {
+      "id": "stay_ahmedabad_the-house-of-mg",
+      "cityId": "ahmedabad",
+      "name": "The House of MG",
+      "priceTier": "mid",
+      "type": "Heritage",
+      "area": "Old City",
+      "pricePerNight": 6000,
+      "distanceFromCenterKm": 3.7,
+      "imageUrl": null,
+      "lat": 23.0025,
+      "lng": 72.54251111111111
+    },
+    {
+      "id": "stay_ahmedabad_hyatt-regency-ahmedabad",
+      "cityId": "ahmedabad",
+      "name": "Hyatt Regency Ahmedabad",
+      "priceTier": "luxury",
+      "type": "Business",
+      "area": "Ashram Road",
+      "pricePerNight": 9000,
+      "distanceFromCenterKm": 6.2,
+      "imageUrl": null,
+      "lat": 22.97138888888889,
+      "lng": 72.54695555555556
     },
     {
       "id": "stay_agra_joeys-hostel",
@@ -2342,6 +2912,45 @@ module.exports = {
       "imageUrl": null,
       "lat": 9.511433333333335,
       "lng": 76.32102222222223
+    },
+    {
+      "id": "stay_allahabad_kumbh-riverside-camp",
+      "cityId": "allahabad",
+      "name": "Kumbh Riverside Camp",
+      "priceTier": "budget",
+      "type": "Camp/Hostel",
+      "area": "Sangam Area",
+      "pricePerNight": 700,
+      "distanceFromCenterKm": 2.4,
+      "imageUrl": null,
+      "lat": 25.439133333333334,
+      "lng": 81.86963333333333
+    },
+    {
+      "id": "stay_allahabad_hotel-kanha-shyam",
+      "cityId": "allahabad",
+      "name": "Hotel Kanha Shyam",
+      "priceTier": "mid",
+      "type": "Hotel",
+      "area": "Civil Lines",
+      "pricePerNight": 3800,
+      "distanceFromCenterKm": 5.3,
+      "imageUrl": null,
+      "lat": 25.390244444444445,
+      "lng": 81.86074444444445
+    },
+    {
+      "id": "stay_allahabad_the-legend-hotel",
+      "cityId": "allahabad",
+      "name": "The Legend Hotel",
+      "priceTier": "luxury",
+      "type": "Boutique Hotel",
+      "area": "Civil Lines",
+      "pricePerNight": 8500,
+      "distanceFromCenterKm": 5.2,
+      "imageUrl": null,
+      "lat": 25.482466666666667,
+      "lng": 81.83963333333334
     }
   ],
   "transportOptions": [
@@ -2361,7 +2970,7 @@ module.exports = {
       "mode": "App cab (Uber/Ola)",
       "costRange": "₹120–400",
       "timeEstimate": "15–30 min",
-      "note": "Cheapest reliable option for Amber Fort and back.",
+      "note": "Reliable option for Amber Fort and longer cross-city trips.",
       "costRankInr": 120,
       "timeRankMinutes": 15
     },
@@ -2371,7 +2980,7 @@ module.exports = {
       "mode": "Full-day taxi",
       "costRange": "₹1,800–2,500/day",
       "timeEstimate": "8 hours",
-      "note": "Best value if you're doing Amber + Nahargarh + city in one day.",
+      "note": "Best value if doing Amber + Nahargarh + city sights in one day.",
       "costRankInr": 1800,
       "timeRankMinutes": 480
     },
@@ -2381,7 +2990,7 @@ module.exports = {
       "mode": "Metro (Pink Line)",
       "costRange": "₹6–20",
       "timeEstimate": "5–15 min",
-      "note": "Only useful along Mansarovar–Chandpole.",
+      "note": "Useful along the Mansarovar–Chandpole corridor.",
       "costRankInr": 6,
       "timeRankMinutes": 5
     },
@@ -2391,7 +3000,7 @@ module.exports = {
       "mode": "Delhi Metro",
       "costRange": "₹10–60",
       "timeEstimate": "15–45 min",
-      "note": "Fastest way across the city; avoid 9–10am and 6–8pm.",
+      "note": "Fastest way across the city; avoid the busiest peak periods when possible.",
       "costRankInr": 10,
       "timeRankMinutes": 15
     },
@@ -2401,7 +3010,7 @@ module.exports = {
       "mode": "Auto-rickshaw",
       "costRange": "₹40–200",
       "timeEstimate": "10–30 min",
-      "note": "Insist on the meter or use the app.",
+      "note": "Insist on the meter or use an app.",
       "costRankInr": 40,
       "timeRankMinutes": 10
     },
@@ -2411,7 +3020,7 @@ module.exports = {
       "mode": "App cab",
       "costRange": "₹150–600",
       "timeEstimate": "20–50 min",
-      "note": "Traffic-dependent; metro usually wins mid-day.",
+      "note": "Traffic-dependent; metro usually wins for central city trips.",
       "costRankInr": 150,
       "timeRankMinutes": 20
     },
@@ -2419,11 +3028,211 @@ module.exports = {
       "id": "trans_delhi_airport-express",
       "cityId": "delhi",
       "mode": "Airport Express",
-      "costRange": "₹60",
+      "costRange": "₹60–80",
       "timeEstimate": "20 min",
-      "note": "New Delhi station to T3 in twenty minutes flat.",
+      "note": "Fast connection between New Delhi and Terminal 3.",
       "costRankInr": 60,
       "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_kolkata_kolkata-metro",
+      "cityId": "kolkata",
+      "mode": "Kolkata Metro",
+      "costRange": "₹5–30",
+      "timeEstimate": "15–40 min",
+      "note": "Fast, cheap way across the city and useful for avoiding heavy road traffic.",
+      "costRankInr": 5,
+      "timeRankMinutes": 15
+    },
+    {
+      "id": "trans_kolkata_yellow-taxi",
+      "cityId": "kolkata",
+      "mode": "Yellow Taxi",
+      "costRange": "₹100–300",
+      "timeEstimate": "20–45 min",
+      "note": "Iconic yellow cabs; confirm the fare or ask for the meter before leaving.",
+      "costRankInr": 100,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_kolkata_app-cab",
+      "cityId": "kolkata",
+      "mode": "App cab",
+      "costRange": "₹150–600",
+      "timeEstimate": "20–50 min",
+      "note": "Convenient for airport transfers and longer cross-city journeys.",
+      "costRankInr": 150,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_kolkata_tram",
+      "cityId": "kolkata",
+      "mode": "Tram",
+      "costRange": "₹10–30",
+      "timeEstimate": "20–60 min",
+      "note": "Slow but atmospheric way to experience one of India's surviving tram networks.",
+      "costRankInr": 10,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_chennai_chennai-metro",
+      "cityId": "chennai",
+      "mode": "Chennai Metro",
+      "costRange": "₹10–60",
+      "timeEstimate": "15–40 min",
+      "note": "Fast option for major parts of the city and useful for avoiding peak-hour traffic.",
+      "costRankInr": 10,
+      "timeRankMinutes": 15
+    },
+    {
+      "id": "trans_chennai_mtc-bus",
+      "cityId": "chennai",
+      "mode": "MTC Bus",
+      "costRange": "₹10–40",
+      "timeEstimate": "20–60 min",
+      "note": "Large city bus network covering areas beyond the metro lines.",
+      "costRankInr": 10,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_chennai_app-cab",
+      "cityId": "chennai",
+      "mode": "App cab",
+      "costRange": "₹150–450",
+      "timeEstimate": "15–40 min",
+      "note": "Convenient for airport trips and longer journeys.",
+      "costRankInr": 150,
+      "timeRankMinutes": 15
+    },
+    {
+      "id": "trans_chennai_auto-rickshaw",
+      "cityId": "chennai",
+      "mode": "Auto-rickshaw",
+      "costRange": "₹50–250",
+      "timeEstimate": "10–30 min",
+      "note": "Useful for short distances; confirm the fare or use an app before starting.",
+      "costRankInr": 50,
+      "timeRankMinutes": 10
+    },
+    {
+      "id": "trans_mysuru_app-cab",
+      "cityId": "mysuru",
+      "mode": "App cab",
+      "costRange": "₹100–350",
+      "timeEstimate": "10–30 min",
+      "note": "Convenient and reliable for getting between the palace, markets and Chamundi Hill.",
+      "costRankInr": 100,
+      "timeRankMinutes": 10
+    },
+    {
+      "id": "trans_mysuru_auto-rickshaw",
+      "cityId": "mysuru",
+      "mode": "Auto-rickshaw",
+      "costRange": "₹50–200",
+      "timeEstimate": "10–25 min",
+      "note": "Good for short city trips; agree on the fare before starting.",
+      "costRankInr": 50,
+      "timeRankMinutes": 10
+    },
+    {
+      "id": "trans_mysuru_city-bus",
+      "cityId": "mysuru",
+      "mode": "City Bus",
+      "costRange": "₹10–40",
+      "timeEstimate": "20–60 min",
+      "note": "Budget-friendly network connecting the main city areas and tourist stops.",
+      "costRankInr": 10,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_mysuru_rental-scooter",
+      "cityId": "mysuru",
+      "mode": "Rental scooter",
+      "costRange": "₹400–700/day",
+      "timeEstimate": "flexible",
+      "note": "Useful for independent sightseeing if you are comfortable riding in city traffic.",
+      "costRankInr": 400,
+      "timeRankMinutes": 999
+    },
+    {
+      "id": "trans_pushkar_cycle-rental",
+      "cityId": "pushkar",
+      "mode": "Cycle rental",
+      "costRange": "₹100–200/day",
+      "timeEstimate": "flexible",
+      "note": "The town is compact and easy to explore by bicycle without relying on cabs.",
+      "costRankInr": 100,
+      "timeRankMinutes": 999
+    },
+    {
+      "id": "trans_pushkar_auto-rickshaw",
+      "cityId": "pushkar",
+      "mode": "Auto-rickshaw",
+      "costRange": "₹50–200",
+      "timeEstimate": "10–20 min",
+      "note": "Useful for the bus stand, nearby Ajmer and places outside the old town.",
+      "costRankInr": 50,
+      "timeRankMinutes": 10
+    },
+    {
+      "id": "trans_pushkar_app-cab",
+      "cityId": "pushkar",
+      "mode": "App cab",
+      "costRange": "₹200–500",
+      "timeEstimate": "20–40 min",
+      "note": "Useful mainly for airport, railway station and Ajmer transfers.",
+      "costRankInr": 200,
+      "timeRankMinutes": 20
+    },
+    {
+      "id": "trans_pushkar_walking",
+      "cityId": "pushkar",
+      "mode": "Walking",
+      "costRange": "Free",
+      "timeEstimate": "flexible",
+      "note": "Best way to explore the ghats, temples, bazaars and narrow old-town lanes.",
+      "costRankInr": 9999,
+      "timeRankMinutes": 999
+    },
+    {
+      "id": "trans_ahmedabad_janmarg-brts",
+      "cityId": "ahmedabad",
+      "mode": "Janmarg BRTS",
+      "costRange": "₹10–30",
+      "timeEstimate": "15–40 min",
+      "note": "Dedicated bus corridors connect many important tourist and commercial areas.",
+      "costRankInr": 10,
+      "timeRankMinutes": 15
+    },
+    {
+      "id": "trans_ahmedabad_ahmedabad-metro",
+      "cityId": "ahmedabad",
+      "mode": "Ahmedabad Metro",
+      "costRange": "₹10–50",
+      "timeEstimate": "15–45 min",
+      "note": "Useful for avoiding road traffic on major north-south and east-west corridors.",
+      "costRankInr": 10,
+      "timeRankMinutes": 15
+    },
+    {
+      "id": "trans_ahmedabad_auto-rickshaw",
+      "cityId": "ahmedabad",
+      "mode": "Auto-rickshaw",
+      "costRange": "₹50–250",
+      "timeEstimate": "10–30 min",
+      "note": "Good for short trips; confirm the fare or use a metered/app option.",
+      "costRankInr": 50,
+      "timeRankMinutes": 10
+    },
+    {
+      "id": "trans_ahmedabad_app-cab",
+      "cityId": "ahmedabad",
+      "mode": "App cab",
+      "costRange": "₹150–600",
+      "timeEstimate": "15–50 min",
+      "note": "Convenient for longer city journeys and trips to the airport or Adalaj.",
+      "costRankInr": 150,
+      "timeRankMinutes": 15
     },
     {
       "id": "trans_agra_battery-bus-e-rickshaw",
@@ -2486,73 +3295,33 @@ module.exports = {
       "timeRankMinutes": 20
     },
     {
-      "id": "trans_kolkata_kolkata-metro",
-      "cityId": "kolkata",
-      "mode": "Kolkata Metro",
-      "costRange": "₹5-30",
-      "timeEstimate": "15-40 min",
-      "note": "Fast, cheap way across the city, avoids traffic.",
-      "costRankInr": 5,
-      "timeRankMinutes": 15
-    },
-    {
-      "id": "trans_kolkata_yellow-taxi",
-      "cityId": "kolkata",
-      "mode": "Yellow Taxi",
-      "costRange": "₹100-300",
-      "timeEstimate": "20-45 min",
-      "note": "Iconic Ambassador cabs, agree on fare or ask for the meter.",
-      "costRankInr": 100,
-      "timeRankMinutes": 20
-    },
-    {
-      "id": "trans_chennai_chennai-metro",
-      "cityId": "chennai",
-      "mode": "Chennai Metro",
-      "costRange": "₹10-60",
-      "timeEstimate": "15-40 min",
-      "note": "Covers most major sights along the Blue and Green lines.",
+      "id": "trans_allahabad_e-rickshaw",
+      "cityId": "allahabad",
+      "mode": "E-Rickshaw",
+      "costRange": "₹10–40",
+      "timeEstimate": "10–25 min",
+      "note": "Best way to navigate Civil Lines and Old City lanes.",
       "costRankInr": 10,
-      "timeRankMinutes": 15
-    },
-    {
-      "id": "trans_chennai_app-cab",
-      "cityId": "chennai",
-      "mode": "App cab",
-      "costRange": "₹150-450",
-      "timeEstimate": "15-40 min",
-      "note": "Most reliable for Mahabalipuram day trips.",
-      "costRankInr": 150,
-      "timeRankMinutes": 15
-    },
-    {
-      "id": "trans_mysuru_app-cab",
-      "cityId": "mysuru",
-      "mode": "App cab",
-      "costRange": "₹100-350",
-      "timeEstimate": "10-30 min",
-      "note": "Cheapest reliable option around the city.",
-      "costRankInr": 100,
       "timeRankMinutes": 10
     },
     {
-      "id": "trans_pushkar_cycle-rental",
-      "cityId": "pushkar",
-      "mode": "Cycle rental",
-      "costRange": "₹100-200/day",
-      "timeEstimate": "flexible",
-      "note": "The whole town is walkable/cyclable, no need for cabs.",
-      "costRankInr": 100,
-      "timeRankMinutes": 999
+      "id": "trans_allahabad_sangam-boat-ride",
+      "cityId": "allahabad",
+      "mode": "Sangam Boat Ride",
+      "costRange": "₹150–500",
+      "timeEstimate": "30–60 min",
+      "note": "Hand-rowed wooden boats to reach the confluence point.",
+      "costRankInr": 150,
+      "timeRankMinutes": 30
     },
     {
-      "id": "trans_ahmedabad_janmarg-brts",
-      "cityId": "ahmedabad",
-      "mode": "Janmarg BRTS",
-      "costRange": "₹10-30",
-      "timeEstimate": "15-40 min",
-      "note": "Dedicated bus corridor covering most tourist stops.",
-      "costRankInr": 10,
+      "id": "trans_allahabad_app-cab-ola-uber",
+      "cityId": "allahabad",
+      "mode": "App cab (Ola/Uber)",
+      "costRange": "₹100–350",
+      "timeEstimate": "15–35 min",
+      "note": "Fastest way from Prayagraj Junction to hotels or airport.",
+      "costRankInr": 100,
       "timeRankMinutes": 15
     }
   ],
@@ -2562,7 +3331,7 @@ module.exports = {
       "cityId": "jaipur",
       "name": "Johari Bazaar",
       "specialty": "Gems & Traditional Jewellery",
-      "description": "Best for Kundan, meenakari and loose stones.",
+      "description": "Best for Best for Kundan, meenakari and loose stones.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2571,7 +3340,7 @@ module.exports = {
       "cityId": "jaipur",
       "name": "Bapu Bazaar",
       "specialty": "Textiles & Juttis",
-      "description": "Best for Block prints, mojris and razai quilts.",
+      "description": "Best for Best for block prints, mojris and traditional textiles.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2580,7 +3349,7 @@ module.exports = {
       "cityId": "jaipur",
       "name": "Tripolia Bazaar",
       "specialty": "Lac Bangles & Ironware",
-      "description": "Best for Lakh bangles made while you wait.",
+      "description": "Best for Best for lac bangles and traditional household goods.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2589,7 +3358,7 @@ module.exports = {
       "cityId": "delhi",
       "name": "Chandni Chowk",
       "specialty": "Wedding Wear & Spices",
-      "description": "Best for Silk sarees, silver jewelry, Indian sweets.",
+      "description": "Best for Best for silk sarees, spices, silver jewellery and Indian sweets.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2598,7 +3367,7 @@ module.exports = {
       "cityId": "delhi",
       "name": "Dilli Haat (INA)",
       "specialty": "Pan-India Crafts",
-      "description": "Best for State-wise handicrafts under one roof.",
+      "description": "Best for Best for state-wise handicrafts, textiles and regional products.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2607,7 +3376,142 @@ module.exports = {
       "cityId": "delhi",
       "name": "Sarojini Nagar",
       "specialty": "Export-Surplus Fashion",
-      "description": "Best for Branded seconds at throwaway prices.",
+      "description": "Best for Best for budget fashion, accessories and bargain hunting.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_kolkata_new-market",
+      "cityId": "kolkata",
+      "name": "New Market",
+      "specialty": "Colonial Bazaar & Food",
+      "description": "Best for Best for textiles, leather goods, sweets, flowers and everyday shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_kolkata_gariahat-market",
+      "cityId": "kolkata",
+      "name": "Gariahat Market",
+      "specialty": "Textiles & Handicrafts",
+      "description": "Best for Best for Bengali sarees, handicrafts, jewellery and street shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_kolkata_college-street",
+      "cityId": "kolkata",
+      "name": "College Street",
+      "specialty": "Books & Stationery",
+      "description": "Best for Best for second-hand books, academic texts and vintage editions.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_chennai_t-nagar",
+      "cityId": "chennai",
+      "name": "T. Nagar",
+      "specialty": "Silk Sarees & Gold",
+      "description": "Best for Best for Kanchipuram silk sarees, jewellery and traditional shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_chennai_george-town",
+      "cityId": "chennai",
+      "name": "George Town",
+      "specialty": "Wholesale & Traditional Goods",
+      "description": "Best for Best for spices, textiles, stationery and wholesale shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_chennai_pondy-bazaar",
+      "cityId": "chennai",
+      "name": "Pondy Bazaar",
+      "specialty": "Fashion & Street Shopping",
+      "description": "Best for Best for clothing, accessories, footwear and affordable local shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_mysuru_devaraja-market",
+      "cityId": "mysuru",
+      "name": "Devaraja Market",
+      "specialty": "Flowers, Spices & Sandalwood",
+      "description": "Best for Best for fresh flowers, spices, incense, fruits and traditional Mysuru products.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_mysuru_kr-market",
+      "cityId": "mysuru",
+      "name": "KR Market",
+      "specialty": "Produce & Local Goods",
+      "description": "Best for Best for local produce, flowers, household goods and everyday shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_mysuru_mall-of-mysore",
+      "cityId": "mysuru",
+      "name": "Mall of Mysore",
+      "specialty": "Modern Retail",
+      "description": "Best for Best for air-conditioned shopping, fashion, food and mainstream brands.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_pushkar_pushkar-bazaar",
+      "cityId": "pushkar",
+      "name": "Pushkar Bazaar",
+      "specialty": "Textiles & Handicrafts",
+      "description": "Best for Best for embroidered textiles, bags, jewellery, leather goods and souvenirs.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_pushkar_sadar-bazaar",
+      "cityId": "pushkar",
+      "name": "Sadar Bazaar",
+      "specialty": "Boho Fashion & Souvenirs",
+      "description": "Best for Best for colourful clothing, accessories, spiritual items and traveller-oriented goods.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_pushkar_old-market",
+      "cityId": "pushkar",
+      "name": "Old Market",
+      "specialty": "Spices & Local Goods",
+      "description": "Best for Best for spices, sweets, small handicrafts and everyday local shopping.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_ahmedabad_law-garden-night-market",
+      "cityId": "ahmedabad",
+      "name": "Law Garden Night Market",
+      "specialty": "Textiles & Handicrafts",
+      "description": "Best for Best for mirror-work clothing, Gujarati textiles, jewellery and handicrafts.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_ahmedabad_manek-chowk",
+      "cityId": "ahmedabad",
+      "name": "Manek Chowk",
+      "specialty": "Jewellery & Street Food",
+      "description": "Best for Best for jewellery shopping by day and street food after dark.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_ahmedabad_dhalgarwad",
+      "cityId": "ahmedabad",
+      "name": "Dhalgarwad",
+      "specialty": "Traditional Textiles",
+      "description": "Best for Best for Gujarati fabrics, dress materials, sarees and traditional clothing.",
       "hagglingExpected": true,
       "imageUrl": null
     },
@@ -2662,6 +3566,24 @@ module.exports = {
       "name": "Jew Town, Mattancherry",
       "specialty": "Spices & Antiques",
       "description": "Best for Cardamom, pepper and colonial furniture.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_allahabad_chowk-allahabad",
+      "cityId": "allahabad",
+      "name": "Chowk Allahabad",
+      "specialty": "Brassware & Religious Items",
+      "description": "Best for Traditional spices, incense, brass idols and street food.",
+      "hagglingExpected": true,
+      "imageUrl": null
+    },
+    {
+      "id": "market_allahabad_civil-lines-market",
+      "cityId": "allahabad",
+      "name": "Civil Lines Market",
+      "specialty": "Handicrafts & Books",
+      "description": "Best for Modern high street, colonial bookshops, and sweet shops.",
       "hagglingExpected": true,
       "imageUrl": null
     }

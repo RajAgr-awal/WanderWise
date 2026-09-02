@@ -4,7 +4,7 @@ import { Rating } from '../components.jsx';
 import { useApp } from '../store.jsx';
 import ShareExport from './ShareExport.jsx';
 import {
-  cityById, money, RESTAURANTS, STAYS, TRANSPORT, MARKETS, FOOD_SPECIALTIES, TIER_LABEL,
+  cityById, money, RESTAURANTS, STAYS, TRANSPORT, MARKETS, FOOD_SPECIALTIES, TIER_LABEL, buildHotelLinks,
 } from '../data.js';
 
 const TABS = [
@@ -212,14 +212,44 @@ function Stay({ city, tier }) {
     Math.abs(order[a.tier] - order[tier]) - Math.abs(order[b.tier] - order[tier]));
   return (
     <div className="pad">
-      {sorted.map((s) => (
-        <div className="card" key={s.name} style={{ marginBottom: 12, borderColor: s.tier === tier ? 'var(--gold-dim)' : 'var(--line)' }}>
-          <span className="label gold">{s.tier} · {s.type}</span>
-          <h3 style={{ fontSize: 22, margin: '6px 0 3px' }}>{s.name}</h3>
-          <p className="sub" style={{ fontSize: 14 }}>{s.area}</p>
-          <div className="gold" style={{ fontWeight: 700, marginTop: 8 }}>{money(s.pricePerNight)}/night</div>
-        </div>
-      ))}
+      {sorted.map((s) => {
+        const links = buildHotelLinks(s.name, city.name);
+        return (
+          <div className="card" key={s.name} style={{ marginBottom: 12, borderColor: s.tier === tier ? 'var(--gold-dim)' : 'var(--line)' }}>
+            <div className="between">
+              <span className="label gold">{s.tier} · {s.type}</span>
+              <div className="gold" style={{ fontWeight: 700 }}>{money(s.pricePerNight)}/night</div>
+            </div>
+            <h3 style={{ fontSize: 22, margin: '6px 0 3px' }}>{s.name}</h3>
+            <p className="sub" style={{ fontSize: 14 }}>{s.area}</p>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8, marginTop: 12 }}>
+              {links.map((link) => (
+                <a
+                  key={link.label}
+                  href={link.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{
+                    fontSize: 12,
+                    fontWeight: 600,
+                    padding: '6px 12px',
+                    borderRadius: 999,
+                    background: 'var(--card2)',
+                    border: '1px solid var(--line2)',
+                    color: 'var(--text)',
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: 4,
+                    textDecoration: 'none',
+                  }}
+                >
+                  {link.label} ↗
+                </a>
+              ))}
+            </div>
+          </div>
+        );
+      })}
       {!sorted.length && <p className="sub">Stay options coming soon for {city.name}.</p>}
     </div>
   );

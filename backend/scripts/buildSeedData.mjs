@@ -14,7 +14,7 @@ const slug = (s) => s.toLowerCase()
 // Approximate city-centre coordinates so haversine/map features have real data.
 const COORDS = {
   jaipur: [26.9124, 75.7873], delhi: [28.6139, 77.2090], mumbai: [19.0760, 72.8777],
-  goa: [15.2993, 74.1240], udaipur: [24.5854, 73.7125], varanasi: [25.3176, 82.9739],
+  goa: [15.2993, 74.1240], udaipur: [24.5854, 73.7125], varanasi: [25.3176, 82.9739], allahabad: [25.4358, 81.8463],
   agra: [27.1767, 78.0081], kolkata: [22.5726, 88.3639], kerala: [9.4981, 76.3388],
   kashmir: [34.0837, 74.7973], chennai: [13.0827, 80.2707], mysuru: [12.2958, 76.6394],
   pushkar: [26.4899, 74.5511], ahmedabad: [23.0225, 72.5714], puri: [19.8135, 85.8312],
@@ -58,13 +58,15 @@ const POI_COORDS = {
   'Dakshineswar Kali Temple': [22.6547, 88.3576], 'College Street': [22.5744, 88.3630],
   'Indian Museum': [22.5579, 88.3512],
   'Kapaleeshwarar Temple': [13.0336, 80.2699], 'Marina Beach': [13.0500, 80.2824],
-  'Fort St. George': [13.0797, 80.2874], 'Mahabalipuram Shore Temple': [12.6169, 80.1994],
+  'Fort St. George': [13.0797, 80.2874], 'Government Museum': [13.0732, 80.2609], 'Mahabalipuram Shore Temple': [12.6169, 80.1994],
   'Mysore Palace': [12.3052, 76.6552], 'Chamundi Hill': [12.2753, 76.6703],
-  'Devaraja Market': [12.3088, 76.6515],
+  'Devaraja Market': [12.3088, 76.6515], "St. Philomena's Cathedral": [12.3211, 76.6575], 'Brindavan Gardens': [12.4243, 76.5731],
   'Pushkar Lake': [26.4893, 74.5524], 'Brahma Temple': [26.4878, 74.5517],
-  'Savitri Temple Viewpoint': [26.4856, 74.5361],
+  'Savitri Temple Viewpoint': [26.4856, 74.5361], 'Varaha Temple': [26.4886, 74.5539], 'Pushkar Bazaar': [26.4893, 74.5530],
   'Sabarmati Ashram': [23.0605, 72.5801], 'Adalaj Stepwell': [23.1667, 72.5800],
-  'Sidi Saiyyed Mosque': [23.0280, 72.5815], 'Manek Chowk': [23.0248, 72.5888],
+  'Sidi Saiyyed Mosque': [23.0280, 72.5815], 'Manek Chowk': [23.0248, 72.5888], 'Kankaria Lake': [22.9978, 72.5997],
+  'Triveni Sangam': [25.4262, 81.8847], 'Allahabad Fort & Akshayavat': [25.4284, 81.8767],
+  'Anand Bhavan': [25.4608, 81.8596], 'Khusro Bagh': [25.4419, 81.8267],
 };
 
 const jitter = (base, key, i) => {

@@ -117,6 +117,26 @@ export default function Profile() {
         </div>
 
         <div style={{ marginTop: 30 }}>
+          <span className="label" style={{ display: 'block', marginBottom: 12 }}>Mobile App</span>
+          <a
+            href="https://github.com/RajAgr-awal/WanderWise/releases/download/latest-apk/WanderWise.apk"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="card row"
+            style={{ padding: 14, gap: 14, textDecoration: 'none', color: 'inherit' }}
+          >
+            <span className="iconCirc" style={{ background: 'rgba(212,175,55,0.15)', color: 'var(--gold)' }}>
+              <I.ISpark size={20} />
+            </span>
+            <div style={{ flex: 1 }}>
+              <div style={{ fontWeight: 700, fontSize: 15 }}>Download Android App (APK)</div>
+              <div className="tiny">v1.0.0 · ~10 MB · Offline-Ready Native App</div>
+            </div>
+            <I.IArrow size={18} color="var(--gold)" />
+          </a>
+        </div>
+
+        <div style={{ marginTop: 30 }}>
           <span className="label" style={{ display: 'block', marginBottom: 12 }}>Account</span>
           <ProfileRow icon={<I.IBookmark size={20} />} label="My Templates" onClick={() => setPage('templates')} />
           <ProfileRow icon={<I.IShield size={20} />} label="Privacy Policy" onClick={() => setPage('privacy')} />

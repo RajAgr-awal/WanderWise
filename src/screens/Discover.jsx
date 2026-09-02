@@ -40,7 +40,25 @@ export default function Discover() {
   return (
     <div className="screen">
       <div className="pad" style={{ paddingTop: 44 }}>
-        <span className="wordmark">Wanderwise</span>
+        <div className="between">
+          <span className="wordmark">Wanderwise</span>
+          <button
+            onClick={() => push({ type: 'about' })}
+            className="row"
+            style={{
+              gap: 6,
+              background: 'rgba(224,194,80,0.12)',
+              border: '1px solid var(--gold-dim)',
+              padding: '5px 12px',
+              borderRadius: 999,
+              color: 'var(--gold)',
+              fontSize: 11,
+              fontWeight: 700,
+            }}
+          >
+            <I.ISpark size={13} /> Our Mission
+          </button>
+        </div>
         <h1 style={{ fontSize: 34, marginTop: 8 }}>Hello, {user?.name || 'traveller'}.</h1>
         <p className="sub">Where shall we wander next?</p>
       </div>

@@ -138,6 +138,7 @@ export default function Profile() {
 
         <div style={{ marginTop: 30 }}>
           <span className="label" style={{ display: 'block', marginBottom: 12 }}>Account</span>
+          <ProfileRow icon={<I.ISpark size={20} />} label="About WanderWise & Mission" onClick={() => push({ type: 'about' })} />
           <ProfileRow icon={<I.IBookmark size={20} />} label="My Templates" onClick={() => setPage('templates')} />
           <ProfileRow icon={<I.IShield size={20} />} label="Privacy Policy" onClick={() => setPage('privacy')} />
           <ProfileRow icon={<I.IDoc size={20} />} label="Terms of Service" onClick={() => setPage('terms')} />

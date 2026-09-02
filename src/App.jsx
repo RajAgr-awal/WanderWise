@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import * as I from './icons.jsx';
 import { useApp } from './store.jsx';
 import { usePwa } from './lib/pwa.js';
+import Landing from './screens/Landing.jsx';
 import Auth from './screens/Auth.jsx';
 import Discover from './screens/Discover.jsx';
 import Trips from './screens/Trips.jsx';
@@ -41,9 +42,10 @@ function StatusBar({ pwa }) {
 export default function App() {
   const {
     user, nav, reset, toast, incoming, incomingError,
-    acceptIncoming, dismissIncoming, push, notify,
+    acceptIncoming, dismissIncoming, push, pop, notify, setUser,
   } = useApp();
   const pwa = usePwa();
+  const [authView, setAuthView] = useState(false);
   const [dismissedInstall, setDismissedInstall] = useState(
     () => localStorage.getItem('ww.installDismissed') === '1'
   );
@@ -57,7 +59,22 @@ export default function App() {
   if (!user) {
     return (
       <div className="shell">
-        <Auth />
+        {authView ? (
+          <div>
+            <div className="pad" style={{ paddingTop: 20 }}>
+              <button className="row" style={{ gap: 6, color: 'var(--gold)', fontWeight: 700 }} onClick={() => setAuthView(false)}>
+                <I.IBack size={18} /> Back to Overview
+              </button>
+            </div>
+            <Auth />
+          </div>
+        ) : (
+          <Landing
+            onStart={() => setUser({ uid: 'guest_' + Date.now(), name: 'Traveler', email: 'guest@wanderwise.app' })}
+            onAuth={() => setAuthView(true)}
+            onGuest={() => setUser({ uid: 'guest_' + Date.now(), name: 'Traveler', email: 'guest@wanderwise.app' })}
+          />
+        )}
         {toast && <div className="toast">{toast}</div>}
       </div>
     );
@@ -65,7 +82,17 @@ export default function App() {
 
   const top = nav.stack[nav.stack.length - 1];
   let view;
-  if (top?.type === 'setup') view = <TripSetup cityId={top.cityId} />;
+  if (top?.type === 'about') view = (
+    <div>
+      <div className="pad" style={{ paddingTop: 20 }}>
+        <button className="row" style={{ gap: 6, color: 'var(--gold)', fontWeight: 700 }} onClick={pop}>
+          <I.IBack size={18} /> Back
+        </button>
+      </div>
+      <Landing onStart={pop} onAuth={pop} onGuest={pop} />
+    </div>
+  );
+  else if (top?.type === 'setup') view = <TripSetup cityId={top.cityId} />;
   else if (top?.type === 'tour') view = <TripSetup tourId={top.tourId} />;
   else if (top?.type === 'trip') view = <TripDetail tripId={top.tripId} />;
   else if (top?.type === 'builder') view = <Builder preset={top.preset} />;

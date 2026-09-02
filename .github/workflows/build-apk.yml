@@ -57,3 +57,16 @@ jobs:
           name: WanderWise-APK
           path: apk/WanderWise.apk
           retention-days: 30
+
+      - name: Publish Direct Release APK
+        uses: softprops/action-gh-release@v2
+        if: github.ref == 'refs/heads/main'
+        with:
+          tag_name: latest-apk
+          name: WanderWise Android APK (Latest)
+          body: |
+            ### 📱 WanderWise Android Mobile App (APK)
+            - **File:** `WanderWise.apk` (~10 MB, well under the 100 MB limit)
+            - **Version:** v1.0.0
+            - **Direct Download:** Click `WanderWise.apk` below to download directly to your Android device or PC.
+          files: apk/WanderWise.apk

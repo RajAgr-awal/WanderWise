@@ -4,13 +4,15 @@
 
 ---
 
-### 🌐 Direct Web App Access
-🔗 **Live Application URL:** **[https://rajagr-awal.github.io/WanderWise/](https://rajagr-awal.github.io/WanderWise/)**
+### 🌐 Access & Downloads
+* 🔗 **Live Web Application:** **[https://rajagr-awal.github.io/WanderWise/](https://rajagr-awal.github.io/WanderWise/)**
+* 📱 **Android APK Download (<100MB):** **[Download WanderWise.apk](https://github.com/RajAgr-awal/WanderWise/releases/tag/latest-apk)**
 
 [![Deploy to GitHub Pages](https://github.com/RajAgr-awal/WanderWise/actions/workflows/deploy.yml/badge.svg)](https://github.com/RajAgr-awal/WanderWise/actions/workflows/deploy.yml)
+[![Build Android APK](https://github.com/RajAgr-awal/WanderWise/actions/workflows/build-apk.yml/badge.svg)](https://github.com/RajAgr-awal/WanderWise/actions/workflows/build-apk.yml)
 [![PWA Ready](https://img.shields.io/badge/PWA-Offline%20First-gold)](https://rajagr-awal.github.io/WanderWise/)
+[![Android APK](https://img.shields.io/badge/Android-APK%20(~10MB)-green)](https://github.com/RajAgr-awal/WanderWise/releases/tag/latest-apk)
 [![Firebase Backend](https://img.shields.io/badge/Backend-Firebase%202nd%20Gen-orange)](https://rajagr-awal.github.io/WanderWise/)
-[![AI Powered](https://img.shields.io/badge/AI-Claude%203.5%20RAG-blueviolet)](https://rajagr-awal.github.io/WanderWise/)
 
 ---
 

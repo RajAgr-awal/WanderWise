@@ -158,7 +158,7 @@ module.exports = {
       "name": "Udaipur",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/udaipur.jpg",
+      "heroImageUrl": "./cities/udaipur.jpg",
       "description": "The City of Lakes — marble palaces on still water",
       "bestTimeToVisit": "September to March",
       "languages": [
@@ -186,7 +186,7 @@ module.exports = {
       "name": "Varanasi",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/varanasi.jpg",
+      "heroImageUrl": "./cities/varanasi.jpg",
       "description": "The oldest living city — ghats, aarti and Ganga at dawn",
       "bestTimeToVisit": "October to March",
       "languages": [
@@ -213,7 +213,7 @@ module.exports = {
       "name": "Allahabad",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/allahabad.jpg",
+      "heroImageUrl": "./cities/allahabad.jpg",
       "description": "Triveni Sangam, Kumbh Mela, and ancient literary heritage",
       "bestTimeToVisit": "October to March",
       "languages": [
@@ -377,7 +377,7 @@ module.exports = {
       "name": "Kashmir",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/kashmir.jpg",
+      "heroImageUrl": "./cities/kashmir.jpg",
       "description": "Shikaras, saffron fields and Himalayan meadows",
       "bestTimeToVisit": "April to October",
       "languages": [
@@ -453,7 +453,7 @@ module.exports = {
       "name": "Mysuru",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/mysuru.jpg",
+      "heroImageUrl": "./cities/mysuru.jpg",
       "description": "Palace lights, sandalwood and silk",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -496,7 +496,7 @@ module.exports = {
       "name": "Pushkar",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/pushkar.jpg",
+      "heroImageUrl": "./cities/pushkar.jpg",
       "description": "A holy lake, 500 temples and the camel fair",
       "bestTimeToVisit": "October to March",
       "languages": [
@@ -583,7 +583,7 @@ module.exports = {
       "name": "Jagannath Puri",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/puri.jpg",
+      "heroImageUrl": "./cities/puri.jpg",
       "description": "Temple town on the Bay of Bengal",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -610,7 +610,7 @@ module.exports = {
       "name": "Pune",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/pune.jpg",
+      "heroImageUrl": "./cities/pune.jpg",
       "description": "Maratha history with a young, green campus feel",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -638,7 +638,7 @@ module.exports = {
       "name": "Hyderabad",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/hyderabad.jpg",
+      "heroImageUrl": "./cities/hyderabad.jpg",
       "description": "Nizami grandeur, biryani and pearls",
       "bestTimeToVisit": "October to February",
       "languages": [
@@ -666,7 +666,7 @@ module.exports = {
       "name": "Darjeeling",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/darjeeling.jpg",
+      "heroImageUrl": "./cities/darjeeling.jpg",
       "description": "Tea gardens, toy trains and Kanchenjunga at sunrise",
       "bestTimeToVisit": "March to May, October to November",
       "languages": [
@@ -694,7 +694,7 @@ module.exports = {
       "name": "Shimla",
       "country": "India",
       "tags": [],
-      "heroImageUrl": "/cities/shimla.jpg",
+      "heroImageUrl": "./cities/shimla.jpg",
       "description": "The summer capital of the Raj on a pine ridge",
       "bestTimeToVisit": "March to June, December to January",
       "languages": [

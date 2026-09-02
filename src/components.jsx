@@ -27,7 +27,17 @@ export function CityCard({ city, tier = 'budget', onClick, width }) {
   return (
     <button className="cityCard" style={width ? { width } : undefined}
       onClick={soon ? undefined : onClick} disabled={soon}>
-      <img src={city.hero} alt={city.name} loading="lazy" />
+      <img
+        src={city.hero}
+        alt={city.name}
+        loading="lazy"
+        onError={(e) => {
+          if (!e.target.dataset.fallback) {
+            e.target.dataset.fallback = '1';
+            e.target.src = 'https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=900&q=70';
+          }
+        }}
+      />
       <div className="scrim" />
       {soon && <span className="soonBadge">Coming soon</span>}
       <div className="body">

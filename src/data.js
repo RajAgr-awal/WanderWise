@@ -3,27 +3,31 @@
 const img = (id, w = 900) =>
   `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&q=70`;
 
+const base = (typeof import.meta !== 'undefined' && import.meta.env?.BASE_URL) || './';
+const prefix = base.endsWith('/') ? base : base + '/';
+const cityAsset = (name) => `${prefix}cities/${name}.jpg`;
+
 export const PHOTOS = {
   jaipur: img('1477587458883-47145ed94245'),
   delhi: img('1587474260584-136574528ed5'),
   mumbai: img('1529253355930-ddbe423a2ac7'),
   goa: img('1512343879784-a960bf40e7f2'),
-  udaipur: '/cities/udaipur.jpg',
-  varanasi: '/cities/varanasi.jpg',
-  allahabad: '/cities/allahabad.jpg',
+  udaipur: cityAsset('udaipur'),
+  varanasi: cityAsset('varanasi'),
+  allahabad: cityAsset('allahabad'),
   agra: img('1564507592333-c60657eea523'),
   kolkata: img('1558431382-27e303142255'),
   kerala: img('1602216056096-3b40cc0c9944'),
-  kashmir: '/cities/kashmir.jpg',
+  kashmir: cityAsset('kashmir'),
   chennai: img('1582510003544-4d00b7f74220'),
-  mysuru: '/cities/mysuru.jpg',
-  pushkar: '/cities/pushkar.jpg',
+  mysuru: cityAsset('mysuru'),
+  pushkar: cityAsset('pushkar'),
   ahmedabad: img('1584551246679-0daf3d275d0f'),
-  puri: '/cities/puri.jpg',
-  pune: '/cities/pune.jpg',
-  hyderabad: '/cities/hyderabad.jpg',
-  darjeeling: '/cities/darjeeling.jpg',
-  shimla: '/cities/shimla.jpg',
+  puri: cityAsset('puri'),
+  pune: cityAsset('pune'),
+  hyderabad: cityAsset('hyderabad'),
+  darjeeling: cityAsset('darjeeling'),
+  shimla: cityAsset('shimla'),
   leh: img('1581793745862-99fde7fa73d2'),
   kochi: img('1593693411515-c20261bcad6e'),
   bangkok: img('1508009603885-50cf7c579365'),

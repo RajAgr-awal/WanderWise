@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WanderWise</string>
+    <string name="title_activity_main">WanderWise</string>
+    <string name="package_name">com.wanderwise.app</string>
+    <string name="custom_url_scheme">com.wanderwise.app</string>
+</resources>

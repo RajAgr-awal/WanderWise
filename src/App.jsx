@@ -6,6 +6,8 @@ import Discover from './screens/Discover.jsx';
 import MyTrips from './screens/MyTrips.jsx';
 import Profile from './screens/Profile.jsx';
 import PlaceDetail from './screens/PlaceDetail.jsx';
+import CityDetail from './screens/CityDetail.jsx';
+import DataQuality from './screens/DataQuality.jsx';
 
 const TABS = [
   { id: 'discover', label: 'Discover', icon: I.ICompass },
@@ -29,7 +31,6 @@ function StatusBar({ pwa, health }) {
       </button>
     );
   }
-  // Health hint (scaffold)
   if (health && health.status !== 'ok') {
     return (
       <div className="statusStrip offline" title={JSON.stringify(health)}>
@@ -41,32 +42,25 @@ function StatusBar({ pwa, health }) {
 }
 
 export default function App() {
-  const { user, nav, reset, push, pop, toast, health, setUser } = useApp();
+  const { user, nav, reset, push, pop, toast, health } = useApp();
   const pwa = usePwa();
   const [showSplash, setShowSplash] = useState(true);
 
   useEffect(() => {
-    const t = setTimeout(() => setShowSplash(false), 900);
+    const t = setTimeout(() => setShowSplash(false), 700);
     return () => clearTimeout(t);
   }, []);
 
-  // Guest mode: if user is null, we still show the app (no sign-in gate) — per spec
-  // But show a welcoming splash once
   const top = nav.stack[nav.stack.length - 1];
   let view;
   if (top?.type === 'place') view = <PlaceDetail placeId={top.placeId} onBack={pop} />;
+  else if (top?.type === 'city') view = <CityDetail slug={top.slug} onBack={pop} />;
+  else if (top?.type === 'data-quality') view = <DataQuality />;
   else if (nav.tab === 'trips') view = <MyTrips />;
   else if (nav.tab === 'profile') view = <Profile />;
   else view = <Discover />;
 
   const showTabs = !top || top?.keepTabs;
-
-  // Auto-guest: first-time visitors get a guest profile so they can use without signing in
-  useEffect(() => {
-    if (user === null && !localStorage.getItem('wanderwise.scaffold.v1')) {
-      // don't auto-create until they interact — keep null as "guest" state visible in Profile
-    }
-  }, [user]);
 
   if (showSplash) {
     return (
@@ -75,7 +69,7 @@ export default function App() {
         <h1 style={{ fontSize: 34, marginTop: 10 }}>India-first<br /><span className="gold">in-destination</span><br />companion</h1>
         <p className="sub" style={{ marginTop: 12, maxWidth: 300 }}>Given who you are, where you are and what time it is — the most meaningful next choice.</p>
         <div className="spin" style={{ marginTop: 36 }} />
-        <p className="tiny" style={{ marginTop: 16 }}>Scaffold · depth · honest data · offline-first</p>
+        <p className="tiny" style={{ marginTop: 16 }}>30 cities · 332 places · honest data · offline-first</p>
       </div>
     );
   }
@@ -84,7 +78,6 @@ export default function App() {
     <div className="shell">
       <StatusBar pwa={pwa} health={health} />
 
-      {/* Install hint — offline-first */}
       {pwa.canInstall && !pwa.installed && showTabs && (
         <div className="installBar fadeIn">
           <span className="iconCirc" style={{ width: 40, height: 40, flex: '0 0 40px' }}>
@@ -95,7 +88,7 @@ export default function App() {
             <span className="tiny" style={{ display: 'block' }}>Works offline — itinerary & emergency numbers</span>
           </span>
           <button className="btn sm" onClick={pwa.install}>Install</button>
-          <button aria-label="Dismiss" style={{ color: 'var(--muted2)', padding: 6 }} onClick={() => pwa.install && setUser((u) => u)}>
+          <button aria-label="Dismiss" style={{ color: 'var(--muted2)', padding: 6 }} onClick={() => {}}>
             ✕
           </button>
         </div>
@@ -110,6 +103,7 @@ export default function App() {
               <t.icon size={22} />{t.label}
             </button>
           ))}
+          <button onClick={() => push({ type: 'data-quality' })} style={{ position: 'absolute', right: 12, top: -36, background: '#1e1e1e', border: '1px solid #2a2a2a', borderRadius: 20, padding: '6px 10px', color: 'var(--gold)', fontSize: 11, fontWeight: 700 }}>● Data quality</button>
         </nav>
       )}
       {toast && <div className="toast">{toast}</div>}

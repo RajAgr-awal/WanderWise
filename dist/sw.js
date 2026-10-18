@@ -18,7 +18,7 @@ const IMAGE_CACHE = `ww-img-${CACHE_VERSION}`;
 const MAX_IMAGES = 120;
 
 // Same-origin assets that make the app usable with no network at all.
-const SHELL_ASSETS = ['./', './index.html', './manifest.webmanifest', './offline.html', "./assets/index-C1nGEOlt.js", "./assets/index-rFA5faIU.css"];
+const SHELL_ASSETS = ['./', './index.html', './manifest.webmanifest', './offline.html', "./assets/index-DYUCHu3-.js", "./assets/index-rFA5faIU.css"];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(

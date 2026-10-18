@@ -1,9 +1,3 @@
-/**
- * WanderWise REST client — single seam for the scaffold.
- * Uses VITE_API_BASE_URL (env) — no hard-coded host.
- * Guests work without auth; sign-in adds cross-device sync (future).
- */
-
 const BASE = (import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001').replace(/\/$/, '');
 
 async function request(path, opts = {}) {
@@ -26,13 +20,23 @@ async function request(path, opts = {}) {
 
 export const api = {
   health: () => request('/api/health'),
-  // Planned (scaffold returns 501 until next prompt)
   getPlace: (id) => request(`/api/places/${id}`),
   discover: (params) => {
     const q = new URLSearchParams(params || {}).toString();
     return request(`/api/discover${q ? `?${q}` : ''}`);
   },
-  getCities: () => request('/api/cities'),
+  getCities: (params) => {
+    const q = new URLSearchParams(params || {}).toString();
+    return request(`/api/cities${q ? `?${q}` : ''}`);
+  },
+  getCity: (slug) => request(`/api/cities/${slug}`),
+  getCityPlaces: (slug, params) => {
+    const q = new URLSearchParams(params || {}).toString();
+    return request(`/api/cities/${slug}/places${q ? `?${q}` : ''}`);
+  },
+  dataQuality: () => request('/api/data-quality'),
+  importLog: () => request('/api/import-log'),
+  patchPlace: (id, body) => request(`/api/places/${id}`, { method: 'PATCH', body: JSON.stringify(body) }),
 };
 
 export const API_BASE = BASE;

@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "delhi-chandni-chowk-market",
+    "city_slug": "delhi",
+    "name": "Chandni Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chandni-chowk"
+  },
+  {
+    "id": "delhi-sarojini-nagar-market",
+    "city_slug": "delhi",
+    "name": "Sarojini Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sarojini-nagar"
+  },
+  {
+    "id": "delhi-dilli-haat-market",
+    "city_slug": "delhi",
+    "name": "Dilli Haat",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "dilli-haat"
+  },
+  {
+    "id": "delhi-janpath-market",
+    "city_slug": "delhi",
+    "name": "Janpath",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "janpath"
+  },
+  {
+    "id": "delhi-karol-bagh-market",
+    "city_slug": "delhi",
+    "name": "Karol Bagh",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "karol-bagh"
+  },
+  {
+    "id": "delhi-khan-market-market",
+    "city_slug": "delhi",
+    "name": "Khan Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "khan-market"
+  },
+  {
+    "id": "mumbai-colaba-causeway-market",
+    "city_slug": "mumbai",
+    "name": "Colaba Causeway",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "colaba-causeway"
+  },
+  {
+    "id": "mumbai-crawford-market-market",
+    "city_slug": "mumbai",
+    "name": "Crawford Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "crawford-market"
+  },
+  {
+    "id": "mumbai-linking-road-market",
+    "city_slug": "mumbai",
+    "name": "Linking Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "linking-road"
+  },
+  {
+    "id": "mumbai-fashion-street-market",
+    "city_slug": "mumbai",
+    "name": "Fashion Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "fashion-street"
+  },
+  {
+    "id": "mumbai-dadar-market-market",
+    "city_slug": "mumbai",
+    "name": "Dadar Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "dadar-market"
+  },
+  {
+    "id": "mumbai-chor-bazaar-market",
+    "city_slug": "mumbai",
+    "name": "Chor Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chor-bazaar"
+  },
+  {
+    "id": "bengaluru-kr-market-market",
+    "city_slug": "bengaluru",
+    "name": "KR Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "kr-market"
+  },
+  {
+    "id": "bengaluru-commercial-street-market",
+    "city_slug": "bengaluru",
+    "name": "Commercial Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "commercial-street"
+  },
+  {
+    "id": "bengaluru-chickpet-market",
+    "city_slug": "bengaluru",
+    "name": "Chickpet",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chickpet"
+  },
+  {
+    "id": "bengaluru-jayanagar-4th-block-market",
+    "city_slug": "bengaluru",
+    "name": "Jayanagar 4th Block",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jayanagar-4th-block"
+  },
+  {
+    "id": "bengaluru-malleshwaram-market-market",
+    "city_slug": "bengaluru",
+    "name": "Malleshwaram Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "malleshwaram-market"
+  },
+  {
+    "id": "bengaluru-ub-city-market",
+    "city_slug": "bengaluru",
+    "name": "UB City",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "ub-city"
+  },
+  {
+    "id": "chennai-pondy-bazaar-market",
+    "city_slug": "chennai",
+    "name": "Pondy Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "pondy-bazaar"
+  },
+  {
+    "id": "chennai-t-nagar-market",
+    "city_slug": "chennai",
+    "name": "T Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "t-nagar"
+  },
+  {
+    "id": "chennai-george-town-market",
+    "city_slug": "chennai",
+    "name": "George Town",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "george-town"
+  },
+  {
+    "id": "chennai-mylapore-market-market",
+    "city_slug": "chennai",
+    "name": "Mylapore Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mylapore-market"
+  },
+  {
+    "id": "chennai-besant-nagar-market",
+    "city_slug": "chennai",
+    "name": "Besant Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "besant-nagar"
+  },
+  {
+    "id": "chennai-phoenix-marketcity-market",
+    "city_slug": "chennai",
+    "name": "Phoenix MarketCity",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "phoenix-marketcity"
+  },
+  {
+    "id": "hyderabad-laad-bazaar-market",
+    "city_slug": "hyderabad",
+    "name": "Laad Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "laad-bazaar"
+  },
+  {
+    "id": "hyderabad-charminar-bazaar-market",
+    "city_slug": "hyderabad",
+    "name": "Charminar Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "charminar-bazaar"
+  },
+  {
+    "id": "hyderabad-begum-bazaar-market",
+    "city_slug": "hyderabad",
+    "name": "Begum Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "begum-bazaar"
+  },
+  {
+    "id": "hyderabad-moazzam-jahi-market-market",
+    "city_slug": "hyderabad",
+    "name": "Moazzam Jahi Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "moazzam-jahi-market"
+  },
+  {
+    "id": "hyderabad-shilparamam-market",
+    "city_slug": "hyderabad",
+    "name": "Shilparamam",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "shilparamam"
+  },
+  {
+    "id": "hyderabad-jubilee-hills-market",
+    "city_slug": "hyderabad",
+    "name": "Jubilee Hills",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jubilee-hills"
+  },
+  {
+    "id": "kolkata-new-market-market",
+    "city_slug": "kolkata",
+    "name": "New Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "new-market"
+  },
+  {
+    "id": "kolkata-college-street-market",
+    "city_slug": "kolkata",
+    "name": "College Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "college-street"
+  },
+  {
+    "id": "kolkata-mullick-ghat-flower-market-market",
+    "city_slug": "kolkata",
+    "name": "Mullick Ghat Flower Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mullick-ghat-flower-market"
+  },
+  {
+    "id": "kolkata-gariahat-market",
+    "city_slug": "kolkata",
+    "name": "Gariahat",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "gariahat"
+  },
+  {
+    "id": "kolkata-burrabazar-market",
+    "city_slug": "kolkata",
+    "name": "Burrabazar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "burrabazar"
+  },
+  {
+    "id": "kolkata-south-city-mall-market",
+    "city_slug": "kolkata",
+    "name": "South City Mall",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "south-city-mall"
+  },
+  {
+    "id": "ahmedabad-manek-chowk-market",
+    "city_slug": "ahmedabad",
+    "name": "Manek Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "manek-chowk"
+  },
+  {
+    "id": "ahmedabad-law-garden-night-market-market",
+    "city_slug": "ahmedabad",
+    "name": "Law Garden Night Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "law-garden-night-market"
+  },
+  {
+    "id": "ahmedabad-ratanpole-market",
+    "city_slug": "ahmedabad",
+    "name": "Ratanpole",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "ratanpole"
+  },
+  {
+    "id": "ahmedabad-cg-road-market",
+    "city_slug": "ahmedabad",
+    "name": "CG Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "cg-road"
+  },
+  {
+    "id": "ahmedabad-law-garden-market",
+    "city_slug": "ahmedabad",
+    "name": "Law Garden",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "law-garden"
+  },
+  {
+    "id": "ahmedabad-sindhi-market-market",
+    "city_slug": "ahmedabad",
+    "name": "Sindhi Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sindhi-market"
+  },
+  {
+    "id": "pune-laxmi-road-market",
+    "city_slug": "pune",
+    "name": "Laxmi Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "laxmi-road"
+  },
+  {
+    "id": "pune-tulshibaug-market",
+    "city_slug": "pune",
+    "name": "Tulshibaug",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tulshibaug"
+  },
+  {
+    "id": "pune-fc-road-market",
+    "city_slug": "pune",
+    "name": "FC Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "fc-road"
+  },
+  {
+    "id": "pune-koregaon-park-market",
+    "city_slug": "pune",
+    "name": "Koregaon Park",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "koregaon-park"
+  },
+  {
+    "id": "pune-phoenix-marketcity-market",
+    "city_slug": "pune",
+    "name": "Phoenix Marketcity",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "phoenix-marketcity"
+  },
+  {
+    "id": "pune-bajirao-road-market",
+    "city_slug": "pune",
+    "name": "Bajirao Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bajirao-road"
+  },
+  {
+    "id": "jaipur-johari-bazaar-market",
+    "city_slug": "jaipur",
+    "name": "Johari Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "johari-bazaar"
+  },
+  {
+    "id": "jaipur-bapu-bazaar-market",
+    "city_slug": "jaipur",
+    "name": "Bapu Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bapu-bazaar"
+  },
+  {
+    "id": "jaipur-tripolia-bazaar-market",
+    "city_slug": "jaipur",
+    "name": "Tripolia Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tripolia-bazaar"
+  },
+  {
+    "id": "jaipur-chandpole-bazaar-market",
+    "city_slug": "jaipur",
+    "name": "Chandpole Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chandpole-bazaar"
+  },
+  {
+    "id": "jaipur-nehru-bazaar-market",
+    "city_slug": "jaipur",
+    "name": "Nehru Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "nehru-bazaar"
+  },
+  {
+    "id": "jaipur-chokhi-dhani-market",
+    "city_slug": "jaipur",
+    "name": "Chokhi Dhani",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chokhi-dhani"
+  },
+  {
+    "id": "goa-anjuna-flea-market-market",
+    "city_slug": "goa",
+    "name": "Anjuna Flea Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "anjuna-flea-market"
+  },
+  {
+    "id": "goa-saturday-night-market-market",
+    "city_slug": "goa",
+    "name": "Saturday Night Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "saturday-night-market"
+  },
+  {
+    "id": "goa-mapusa-market-market",
+    "city_slug": "goa",
+    "name": "Mapusa Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mapusa-market"
+  },
+  {
+    "id": "goa-panaji-market-market",
+    "city_slug": "goa",
+    "name": "Panaji Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "panaji-market"
+  },
+  {
+    "id": "goa-margao-market-market",
+    "city_slug": "goa",
+    "name": "Margao Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "margao-market"
+  },
+  {
+    "id": "goa-calangute-beach-market-market",
+    "city_slug": "goa",
+    "name": "Calangute Beach Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "calangute-beach-market"
+  },
+  {
+    "id": "lucknow-chowk-market",
+    "city_slug": "lucknow",
+    "name": "Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chowk"
+  },
+  {
+    "id": "lucknow-hazratganj-market",
+    "city_slug": "lucknow",
+    "name": "Hazratganj",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "hazratganj"
+  },
+  {
+    "id": "lucknow-aminabad-market",
+    "city_slug": "lucknow",
+    "name": "Aminabad",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "aminabad"
+  },
+  {
+    "id": "lucknow-nakhas-market-market",
+    "city_slug": "lucknow",
+    "name": "Nakhas Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "nakhas-market"
+  },
+  {
+    "id": "lucknow-bhoothnath-market-market",
+    "city_slug": "lucknow",
+    "name": "Bhoothnath Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bhoothnath-market"
+  },
+  {
+    "id": "lucknow-gomti-nagar-market",
+    "city_slug": "lucknow",
+    "name": "Gomti Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "gomti-nagar"
+  },
+  {
+    "id": "varanasi-godowlia-market",
+    "city_slug": "varanasi",
+    "name": "Godowlia",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "godowlia"
+  },
+  {
+    "id": "varanasi-chowk-market",
+    "city_slug": "varanasi",
+    "name": "Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chowk"
+  },
+  {
+    "id": "varanasi-thatheri-bazaar-market",
+    "city_slug": "varanasi",
+    "name": "Thatheri Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "thatheri-bazaar"
+  },
+  {
+    "id": "varanasi-vishwanath-gali-market",
+    "city_slug": "varanasi",
+    "name": "Vishwanath Gali",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "vishwanath-gali"
+  },
+  {
+    "id": "varanasi-lahurabir-market",
+    "city_slug": "varanasi",
+    "name": "Lahurabir",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lahurabir"
+  },
+  {
+    "id": "varanasi-silk-market-market",
+    "city_slug": "varanasi",
+    "name": "Silk Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "silk-market"
+  },
+  {
+    "id": "agra-kinari-bazaar-market",
+    "city_slug": "agra",
+    "name": "Kinari Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "kinari-bazaar"
+  },
+  {
+    "id": "agra-sadar-bazaar-market",
+    "city_slug": "agra",
+    "name": "Sadar Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sadar-bazaar"
+  },
+  {
+    "id": "agra-raja-ki-mandi-market",
+    "city_slug": "agra",
+    "name": "Raja ki Mandi",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "raja-ki-mandi"
+  },
+  {
+    "id": "agra-balkeshwar-market-market",
+    "city_slug": "agra",
+    "name": "Balkeshwar Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "balkeshwar-market"
+  },
+  {
+    "id": "agra-sanjay-place-market",
+    "city_slug": "agra",
+    "name": "Sanjay Place",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sanjay-place"
+  },
+  {
+    "id": "agra-marble-craft-market-market",
+    "city_slug": "agra",
+    "name": "Marble Craft Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "marble-craft-market"
+  },
+  {
+    "id": "amritsar-hall-bazaar-market",
+    "city_slug": "amritsar",
+    "name": "Hall Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "hall-bazaar"
+  },
+  {
+    "id": "amritsar-katra-jaimal-singh-market",
+    "city_slug": "amritsar",
+    "name": "Katra Jaimal Singh",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "katra-jaimal-singh"
+  },
+  {
+    "id": "amritsar-guru-bazaar-market",
+    "city_slug": "amritsar",
+    "name": "Guru Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "guru-bazaar"
+  },
+  {
+    "id": "amritsar-lohgarh-market-market",
+    "city_slug": "amritsar",
+    "name": "Lohgarh Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lohgarh-market"
+  },
+  {
+    "id": "amritsar-shastri-market-market",
+    "city_slug": "amritsar",
+    "name": "Shastri Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "shastri-market"
+  },
+  {
+    "id": "amritsar-ranjit-avenue-market",
+    "city_slug": "amritsar",
+    "name": "Ranjit Avenue",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "ranjit-avenue"
+  },
+  {
+    "id": "chandigarh-sector-17-plaza-market",
+    "city_slug": "chandigarh",
+    "name": "Sector 17 Plaza",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sector-17-plaza"
+  },
+  {
+    "id": "chandigarh-sector-22-market",
+    "city_slug": "chandigarh",
+    "name": "Sector 22",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sector-22"
+  },
+  {
+    "id": "chandigarh-sector-34-market",
+    "city_slug": "chandigarh",
+    "name": "Sector 34",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sector-34"
+  },
+  {
+    "id": "chandigarh-elante-mall-market",
+    "city_slug": "chandigarh",
+    "name": "Elante Mall",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "elante-mall"
+  },
+  {
+    "id": "chandigarh-palika-bazaar-market",
+    "city_slug": "chandigarh",
+    "name": "Palika Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "palika-bazaar"
+  },
+  {
+    "id": "chandigarh-shastri-market-market",
+    "city_slug": "chandigarh",
+    "name": "Shastri Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "shastri-market"
+  },
+  {
+    "id": "kochi-mattancherry-spice-market-market",
+    "city_slug": "kochi",
+    "name": "Mattancherry Spice Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mattancherry-spice-market"
+  },
+  {
+    "id": "kochi-jew-town-market",
+    "city_slug": "kochi",
+    "name": "Jew Town",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jew-town"
+  },
+  {
+    "id": "kochi-marine-drive-market",
+    "city_slug": "kochi",
+    "name": "Marine Drive",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "marine-drive"
+  },
+  {
+    "id": "kochi-broadway-market",
+    "city_slug": "kochi",
+    "name": "Broadway",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "broadway"
+  },
+  {
+    "id": "kochi-mg-road-market",
+    "city_slug": "kochi",
+    "name": "MG Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mg-road"
+  },
+  {
+    "id": "kochi-lulu-mall-market",
+    "city_slug": "kochi",
+    "name": "Lulu Mall",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lulu-mall"
+  },
+  {
+    "id": "coimbatore-gandhipuram-market",
+    "city_slug": "coimbatore",
+    "name": "Gandhipuram",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "gandhipuram"
+  },
+  {
+    "id": "coimbatore-rs-puram-market",
+    "city_slug": "coimbatore",
+    "name": "RS Puram",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "rs-puram"
+  },
+  {
+    "id": "coimbatore-townhall-market",
+    "city_slug": "coimbatore",
+    "name": "Townhall",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "townhall"
+  },
+  {
+    "id": "coimbatore-ukkadam-market",
+    "city_slug": "coimbatore",
+    "name": "Ukkadam",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "ukkadam"
+  },
+  {
+    "id": "coimbatore-cross-cut-road-market",
+    "city_slug": "coimbatore",
+    "name": "Cross Cut Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "cross-cut-road"
+  },
+  {
+    "id": "coimbatore-textile-market-market",
+    "city_slug": "coimbatore",
+    "name": "Textile Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "textile-market"
+  },
+  {
+    "id": "indore-sarafa-bazaar-market",
+    "city_slug": "indore",
+    "name": "Sarafa Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sarafa-bazaar"
+  },
+  {
+    "id": "indore-chappan-dukan-market",
+    "city_slug": "indore",
+    "name": "Chappan Dukan",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chappan-dukan"
+  },
+  {
+    "id": "indore-rajwada-market-market",
+    "city_slug": "indore",
+    "name": "Rajwada Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "rajwada-market"
+  },
+  {
+    "id": "indore-sitlamata-bazaar-market",
+    "city_slug": "indore",
+    "name": "Sitlamata Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sitlamata-bazaar"
+  },
+  {
+    "id": "indore-mt-cloth-market-market",
+    "city_slug": "indore",
+    "name": "MT Cloth Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mt-cloth-market"
+  },
+  {
+    "id": "indore-vijay-nagar-market",
+    "city_slug": "indore",
+    "name": "Vijay Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "vijay-nagar"
+  },
+  {
+    "id": "bhopal-chowk-bazaar-market",
+    "city_slug": "bhopal",
+    "name": "Chowk Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chowk-bazaar"
+  },
+  {
+    "id": "bhopal-new-market-market",
+    "city_slug": "bhopal",
+    "name": "New Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "new-market"
+  },
+  {
+    "id": "bhopal-mp-nagar-market",
+    "city_slug": "bhopal",
+    "name": "MP Nagar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mp-nagar"
+  },
+  {
+    "id": "bhopal-bittan-market-market",
+    "city_slug": "bhopal",
+    "name": "Bittan Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bittan-market"
+  },
+  {
+    "id": "bhopal-bairagarh-market",
+    "city_slug": "bhopal",
+    "name": "Bairagarh",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bairagarh"
+  },
+  {
+    "id": "bhopal-tribal-market-market",
+    "city_slug": "bhopal",
+    "name": "Tribal Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tribal-market"
+  },
+  {
+    "id": "visakhapatnam-beach-road-market-market",
+    "city_slug": "visakhapatnam",
+    "name": "Beach Road Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "beach-road-market"
+  },
+  {
+    "id": "visakhapatnam-poorna-market-market",
+    "city_slug": "visakhapatnam",
+    "name": "Poorna Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "poorna-market"
+  },
+  {
+    "id": "visakhapatnam-jagadamba-junction-market",
+    "city_slug": "visakhapatnam",
+    "name": "Jagadamba Junction",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jagadamba-junction"
+  },
+  {
+    "id": "visakhapatnam-mvp-colony-market",
+    "city_slug": "visakhapatnam",
+    "name": "MVP Colony",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mvp-colony"
+  },
+  {
+    "id": "visakhapatnam-siripuram-market",
+    "city_slug": "visakhapatnam",
+    "name": "Siripuram",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "siripuram"
+  },
+  {
+    "id": "visakhapatnam-araku-coffee-market-market",
+    "city_slug": "visakhapatnam",
+    "name": "Araku Coffee Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "araku-coffee-market"
+  },
+  {
+    "id": "udaipur-hathi-pol-market",
+    "city_slug": "udaipur",
+    "name": "Hathi Pol",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "hathi-pol"
+  },
+  {
+    "id": "udaipur-bada-bazaar-market",
+    "city_slug": "udaipur",
+    "name": "Bada Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bada-bazaar"
+  },
+  {
+    "id": "udaipur-chetak-circle-market",
+    "city_slug": "udaipur",
+    "name": "Chetak Circle",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chetak-circle"
+  },
+  {
+    "id": "udaipur-sajjan-neel-market",
+    "city_slug": "udaipur",
+    "name": "Sajjan Neel",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sajjan-neel"
+  },
+  {
+    "id": "udaipur-shilpgram-market",
+    "city_slug": "udaipur",
+    "name": "Shilpgram",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "shilpgram"
+  },
+  {
+    "id": "udaipur-lake-palace-road-market",
+    "city_slug": "udaipur",
+    "name": "Lake Palace Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lake-palace-road"
+  },
+  {
+    "id": "jodhpur-sardar-market-market",
+    "city_slug": "jodhpur",
+    "name": "Sardar Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sardar-market"
+  },
+  {
+    "id": "jodhpur-clock-tower-market-market",
+    "city_slug": "jodhpur",
+    "name": "Clock Tower Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "clock-tower-market"
+  },
+  {
+    "id": "jodhpur-sojati-gate-market",
+    "city_slug": "jodhpur",
+    "name": "Sojati Gate",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sojati-gate"
+  },
+  {
+    "id": "jodhpur-nai-sarak-market",
+    "city_slug": "jodhpur",
+    "name": "Nai Sarak",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "nai-sarak"
+  },
+  {
+    "id": "jodhpur-tripolia-bazaar-market",
+    "city_slug": "jodhpur",
+    "name": "Tripolia Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tripolia-bazaar"
+  },
+  {
+    "id": "jodhpur-mandore-market-market",
+    "city_slug": "jodhpur",
+    "name": "Mandore Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mandore-market"
+  },
+  {
+    "id": "jaisalmer-sadar-bazaar-market",
+    "city_slug": "jaisalmer",
+    "name": "Sadar Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sadar-bazaar"
+  },
+  {
+    "id": "jaisalmer-sonaron-ka-bass-market",
+    "city_slug": "jaisalmer",
+    "name": "Sonaron ka Bass",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sonaron-ka-bass"
+  },
+  {
+    "id": "jaisalmer-manak-chowk-market",
+    "city_slug": "jaisalmer",
+    "name": "Manak Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "manak-chowk"
+  },
+  {
+    "id": "jaisalmer-pansari-bazaar-market",
+    "city_slug": "jaisalmer",
+    "name": "Pansari Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "pansari-bazaar"
+  },
+  {
+    "id": "jaisalmer-gandhi-chowk-market",
+    "city_slug": "jaisalmer",
+    "name": "Gandhi Chowk",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "gandhi-chowk"
+  },
+  {
+    "id": "jaisalmer-desert-camp-market-market",
+    "city_slug": "jaisalmer",
+    "name": "Desert Camp Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "desert-camp-market"
+  },
+  {
+    "id": "mysuru-devaraja-market-market",
+    "city_slug": "mysuru",
+    "name": "Devaraja Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "devaraja-market"
+  },
+  {
+    "id": "mysuru-mysuru-silk-market-market",
+    "city_slug": "mysuru",
+    "name": "Mysuru Silk Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mysuru-silk-market"
+  },
+  {
+    "id": "mysuru-devaraj-urs-road-market",
+    "city_slug": "mysuru",
+    "name": "Devaraj Urs Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "devaraj-urs-road"
+  },
+  {
+    "id": "mysuru-sayyaji-rao-road-market",
+    "city_slug": "mysuru",
+    "name": "Sayyaji Rao Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sayyaji-rao-road"
+  },
+  {
+    "id": "mysuru-bannimantap-market",
+    "city_slug": "mysuru",
+    "name": "Bannimantap",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "bannimantap"
+  },
+  {
+    "id": "mysuru-nagarhole-market-market",
+    "city_slug": "mysuru",
+    "name": "Nagarhole Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "nagarhole-market"
+  },
+  {
+    "id": "madurai-madurai-main-market-market",
+    "city_slug": "madurai",
+    "name": "Madurai Main Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "madurai-main-market"
+  },
+  {
+    "id": "madurai-puthu-mandapam-market",
+    "city_slug": "madurai",
+    "name": "Puthu Mandapam",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "puthu-mandapam"
+  },
+  {
+    "id": "madurai-south-masi-street-market",
+    "city_slug": "madurai",
+    "name": "South Masi Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "south-masi-street"
+  },
+  {
+    "id": "madurai-north-masi-street-market",
+    "city_slug": "madurai",
+    "name": "North Masi Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "north-masi-street"
+  },
+  {
+    "id": "madurai-periyar-bus-stand-market-market",
+    "city_slug": "madurai",
+    "name": "Periyar Bus Stand Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "periyar-bus-stand-market"
+  },
+  {
+    "id": "madurai-jigarthanda-street-market",
+    "city_slug": "madurai",
+    "name": "Jigarthanda Street",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jigarthanda-street"
+  },
+  {
+    "id": "rishikesh-lakshman-jhula-market-market",
+    "city_slug": "rishikesh",
+    "name": "Lakshman Jhula Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lakshman-jhula-market"
+  },
+  {
+    "id": "rishikesh-ram-jhula-market-market",
+    "city_slug": "rishikesh",
+    "name": "Ram Jhula Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "ram-jhula-market"
+  },
+  {
+    "id": "rishikesh-tapovan-market-market",
+    "city_slug": "rishikesh",
+    "name": "Tapovan Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tapovan-market"
+  },
+  {
+    "id": "rishikesh-rishikesh-main-bazaar-market",
+    "city_slug": "rishikesh",
+    "name": "Rishikesh Main Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "rishikesh-main-bazaar"
+  },
+  {
+    "id": "rishikesh-swarg-ashram-market",
+    "city_slug": "rishikesh",
+    "name": "Swarg Ashram",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "swarg-ashram"
+  },
+  {
+    "id": "rishikesh-organic-market-market",
+    "city_slug": "rishikesh",
+    "name": "Organic Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "organic-market"
+  },
+  {
+    "id": "shimla-mall-road-market",
+    "city_slug": "shimla",
+    "name": "Mall Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mall-road"
+  },
+  {
+    "id": "shimla-lower-bazaar-market",
+    "city_slug": "shimla",
+    "name": "Lower Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lower-bazaar"
+  },
+  {
+    "id": "shimla-lakkar-bazaar-market",
+    "city_slug": "shimla",
+    "name": "Lakkar Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "lakkar-bazaar"
+  },
+  {
+    "id": "shimla-tibetan-market-market",
+    "city_slug": "shimla",
+    "name": "Tibetan Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "tibetan-market"
+  },
+  {
+    "id": "shimla-the-ridge-market",
+    "city_slug": "shimla",
+    "name": "The Ridge",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "the-ridge"
+  },
+  {
+    "id": "shimla-kufri-market-market",
+    "city_slug": "shimla",
+    "name": "Kufri Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "kufri-market"
+  },
+  {
+    "id": "manali-mall-road-market",
+    "city_slug": "manali",
+    "name": "Mall Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "mall-road"
+  },
+  {
+    "id": "manali-old-manali-market-market",
+    "city_slug": "manali",
+    "name": "Old Manali Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "old-manali-market"
+  },
+  {
+    "id": "manali-vashisht-market-market",
+    "city_slug": "manali",
+    "name": "Vashisht Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "vashisht-market"
+  },
+  {
+    "id": "manali-manu-market-market",
+    "city_slug": "manali",
+    "name": "Manu Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "manu-market"
+  },
+  {
+    "id": "manali-aleo-market-market",
+    "city_slug": "manali",
+    "name": "Aleo Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "aleo-market"
+  },
+  {
+    "id": "manali-solang-market-market",
+    "city_slug": "manali",
+    "name": "Solang Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "solang-market"
+  },
+  {
+    "id": "puri-puri-beach-market-market",
+    "city_slug": "puri",
+    "name": "Puri Beach Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "puri-beach-market"
+  },
+  {
+    "id": "puri-jagannath-temple-market-market",
+    "city_slug": "puri",
+    "name": "Jagannath Temple Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "jagannath-temple-market"
+  },
+  {
+    "id": "puri-swargadwar-market-market",
+    "city_slug": "puri",
+    "name": "Swargadwar Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "swargadwar-market"
+  },
+  {
+    "id": "puri-chakratirtha-road-market",
+    "city_slug": "puri",
+    "name": "Chakratirtha Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "chakratirtha-road"
+  },
+  {
+    "id": "puri-puri-lighthouse-market-market",
+    "city_slug": "puri",
+    "name": "Puri Lighthouse Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "puri-lighthouse-market"
+  },
+  {
+    "id": "puri-raghurajpur-craft-market-market",
+    "city_slug": "puri",
+    "name": "Raghurajpur Craft Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "raghurajpur-craft-market"
+  },
+  {
+    "id": "guwahati-paltan-bazaar-market",
+    "city_slug": "guwahati",
+    "name": "Paltan Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "paltan-bazaar"
+  },
+  {
+    "id": "guwahati-fancy-bazaar-market",
+    "city_slug": "guwahati",
+    "name": "Fancy Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "fancy-bazaar"
+  },
+  {
+    "id": "guwahati-pan-bazaar-market",
+    "city_slug": "guwahati",
+    "name": "Pan Bazaar",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "pan-bazaar"
+  },
+  {
+    "id": "guwahati-zoo-road-market",
+    "city_slug": "guwahati",
+    "name": "Zoo Road",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "zoo-road"
+  },
+  {
+    "id": "guwahati-six-mile-market",
+    "city_slug": "guwahati",
+    "name": "Six Mile",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "six-mile"
+  },
+  {
+    "id": "guwahati-sualkuchi-silk-market-market",
+    "city_slug": "guwahati",
+    "name": "Sualkuchi Silk Market",
+    "specialty": null,
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "slug": "sualkuchi-silk-market"
+  }
+]

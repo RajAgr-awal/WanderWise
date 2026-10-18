@@ -1,121 +1,63 @@
-import { useState } from 'react';
 import * as I from './icons.jsx';
-import { money } from './data.js';
 
 export function Field({ label, icon, value, onChange, placeholder, type = 'text', reveal }) {
-  const [show, setShow] = useState(false);
-  const t = reveal ? (show ? 'text' : 'password') : type;
   return (
     <div className="field">
       <span className="label">{label}</span>
       <div className="inputWrap">
         {icon}
-        <input type={t} value={value} placeholder={placeholder}
-          onChange={(e) => onChange(e.target.value)} />
-        {reveal && (
-          <button type="button" onClick={() => setShow(!show)} style={{ color: 'var(--muted)' }}>
-            {show ? <I.IEyeOff size={22} /> : <I.IEye size={22} />}
-          </button>
-        )}
+        <input type={type} value={value} placeholder={placeholder} onChange={(e) => onChange(e.target.value)} />
       </div>
     </div>
   );
 }
 
-export function CityCard({ city, tier = 'budget', onClick, width }) {
-  const soon = city.isComingSoon;
-  return (
-    <button className="cityCard" style={width ? { width } : undefined}
-      onClick={soon ? undefined : onClick} disabled={soon}>
-      <img
-        src={city.hero}
-        alt={city.name}
-        loading="lazy"
-        onError={(e) => {
-          if (!e.target.dataset.fallback) {
-            e.target.dataset.fallback = '1';
-            e.target.src = 'https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=900&q=70';
-          }
-        }}
-      />
-      <div className="scrim" />
-      {soon && <span className="soonBadge">Coming soon</span>}
-      <div className="body">
-        <span className="label gold">{city.country}</span>
-        <h3>{city.name}</h3>
-        <p>{city.description}</p>
-        <span className="gold" style={{ fontWeight: 700, fontSize: 14 }}>
-          {money(city.pricePerDay[tier])}/day
-        </span>
-      </div>
-    </button>
-  );
-}
-
-export function Rating({ value }) {
-  if (!value) return null;
-  return (
-    <span className="row" style={{ gap: 5, color: 'var(--gold)', fontSize: 13, fontWeight: 700 }}>
-      <I.IStar size={14} />{value}
-    </span>
-  );
-}
-
-export function Segmented({ value, onChange, city, options = ['budget', 'mid', 'luxury'] }) {
-  const label = { budget: 'Budget', mid: 'Mid', luxury: 'Luxury' };
-  const sym = { budget: '$', mid: '$$', luxury: '$$$' };
-  return (
-    <div className="seg">
-      {options.map((o) => (
-        <button key={o} className={value === o ? 'on' : ''} onClick={() => onChange(o)}>
-          <div className="s1">{sym[o]}</div>
-          <div className="s2">{label[o]}</div>
-          {city && <div className="s3">{money(city.pricePerDay[o])}/day</div>}
-        </button>
-      ))}
-    </div>
-  );
-}
-
-export function Modal({ title, icon, onClose, children }) {
-  return (
-    <div className="backdrop" onClick={onClose}>
-      <div className="modal" onClick={(e) => e.stopPropagation()}>
-        <div className="row" style={{ marginBottom: 6 }}>
-          {icon}<h2 style={{ margin: 0 }}>{title}</h2>
-        </div>
-        {children}
-      </div>
-    </div>
-  );
-}
-
-export function Empty({ icon, title, text }) {
+export function Empty({ icon, title, text, action }) {
   return (
     <div className="empty">
       <div className="iconCirc" style={{ margin: '0 auto 18px', width: 72, height: 72 }}>{icon}</div>
       <h2>{title}</h2>
-      <p className="sub" style={{ maxWidth: 300, margin: '0 auto' }}>{text}</p>
+      <p className="sub" style={{ maxWidth: 320, margin: '0 auto' }}>{text}</p>
+      {action && <div style={{ marginTop: 18 }}>{action}</div>}
     </div>
   );
 }
 
-export function InfoPage({ title, sections, onBack }) {
+export function ProvenanceBadge({ provenance }) {
+  if (!provenance) {
+    return <span className="badge muted">Not yet field-checked · low</span>;
+  }
+  const { confidence = 'low', sourceType, lastCheckedAt, verified } = provenance;
+  if (verified) {
+    return <span className="badge gold">✓ Verified · {confidence} · {lastCheckedAt ? new Date(lastCheckedAt).toLocaleDateString('en-IN') : '—'}</span>;
+  }
+  const src = sourceType || 'unknown source';
+  const date = lastCheckedAt ? new Date(lastCheckedAt).toLocaleDateString('en-IN') : 'not yet field-checked';
+  return <span className="badge muted">{src} · {confidence} · {date}</span>;
+}
+
+export function FactRow({ label, value }) {
   return (
-    <div className="screen noTabs fadeIn">
-      <div className="pad" style={{ paddingTop: 24 }}>
-        <button onClick={onBack} className="row" style={{ color: 'var(--gold)', marginBottom: 18 }}>
-          <I.IBack size={18} /> Back
-        </button>
-        <h1 style={{ fontSize: 32 }}>{title}</h1>
-        {sections.map((s) => (
-          <div key={s.h} style={{ marginTop: 26 }}>
-            <span className="label gold">{s.h}</span>
-            <p className="sub" style={{ marginTop: 8, color: '#c9c9c9' }}>{s.p}</p>
-          </div>
-        ))}
-        <div style={{ height: 40 }} />
+    <div style={{ marginBottom: 12 }}>
+      <div className="label" style={{ marginBottom: 4 }}>{label}</div>
+      <div style={{ fontSize: 14, color: value == null ? 'var(--muted2)' : 'var(--text)' }}>
+        {value == null || value === '' ? <span className="nullVal">Not yet known</span> : value}
       </div>
+    </div>
+  );
+}
+
+export function PartnerLinks({ maps, reviews, booking }) {
+  return (
+    <div className="card" style={{ marginTop: 16 }}>
+      <div className="label gold" style={{ marginBottom: 12 }}>Partners — not competitors</div>
+      <div style={{ display: 'grid', gap: 10 }}>
+        {maps && <a href={maps} target="_blank" rel="noopener noreferrer" className="btn soft" style={{ height: 46 }}>Open in Google Maps ↗</a>}
+        {reviews && <a href={reviews} target="_blank" rel="noopener noreferrer" className="btn ghost" style={{ height: 46 }}>Read reviews on Tripadvisor ↗</a>}
+        {booking && <a href={booking} target="_blank" rel="noopener noreferrer" className="btn ghost" style={{ height: 46 }}>Check availability on MakeMyTrip ↗</a>}
+        {!maps && !reviews && !booking && <p className="tiny">No partner links yet — curator will add when verified.</p>}
+      </div>
+      <p className="tiny" style={{ marginTop: 10 }}>We never scrape or copy their content. Plain labelled hand-offs only.</p>
     </div>
   );
 }

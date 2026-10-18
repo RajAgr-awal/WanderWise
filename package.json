@@ -1,13 +1,16 @@
 {
   "name": "wanderwise",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:server": "node backend/src/server.js",
     "build": "vite build",
+    "preview": "vite preview",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "seed": "node backend/seed/seed.js",
+    "health": "curl -s http://localhost:3001/api/health | jq ."
   },
   "dependencies": {
     "@capacitor/android": "^8.5.1",

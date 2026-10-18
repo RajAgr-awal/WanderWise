@@ -1,9 +1,10 @@
+/* WanderWise — scaffold theme (spec) */
 :root{
   --bg:#0a0a0a; --bg2:#0f0f0f; --card:#151515; --card2:#1a1a1a;
   --line:#242424; --line2:#2e2e2e;
   --gold:#e0c250; --gold-dim:#8a7530; --gold-soft:rgba(224,194,80,.12);
   --text:#f5f5f5; --muted:#9a9a9a; --muted2:#6e6e6e; --danger:#e05252;
-  --r:16px;
+  --r:16px; /* card radius — spec */
 }
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html,body,#root{height:100%}
@@ -15,7 +16,7 @@ input,textarea{font:inherit;color:inherit}
 a{color:var(--gold);text-decoration:none}
 ::-webkit-scrollbar{width:0;height:0}
 
-/* ---- phone shell ---- */
+/* ---- phone shell — mobile-first, centred 430px on desktop (spec) ---- */
 .shell{max-width:430px;margin:0 auto;min-height:100dvh;background:var(--bg);
   position:relative;display:flex;flex-direction:column;overflow:hidden}
 @media (min-width:520px){
@@ -36,7 +37,7 @@ h3{font-size:17px;font-weight:700;margin:0}
 .tiny{font-size:12px;color:var(--muted2)}
 .gold{color:var(--gold)}
 
-/* ---- forms ---- */
+/* ---- forms — pill buttons (spec) ---- */
 .field{margin-bottom:20px}
 .field .label{display:block;margin-bottom:9px}
 .inputWrap{display:flex;align-items:center;gap:12px;background:var(--card);
@@ -56,7 +57,7 @@ h3{font-size:17px;font-weight:700;margin:0}
 .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--line)}
 .err{color:var(--danger);font-size:13px;margin:-8px 0 14px}
 
-/* ---- cards ---- */
+/* ---- cards — 16px radius ---- */
 .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:16px}
 .row{display:flex;align-items:center;gap:12px}
 .between{display:flex;align-items:center;justify-content:space-between}
@@ -64,6 +65,13 @@ h3{font-size:17px;font-weight:700;margin:0}
 .hscroll>*{scroll-snap-align:start;flex:0 0 auto}
 .section{margin-top:30px}
 .sectionHead{display:flex;align-items:baseline;justify-content:space-between;padding:0 22px;margin-bottom:14px}
+
+.badge{display:inline-flex;align-items:center;gap:6px;padding:5px 10px;border-radius:999px;
+  font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--line2)}
+.badge.gold{background:var(--gold-soft);border-color:var(--gold-dim);color:var(--gold)}
+.badge.muted{background:var(--card2);color:var(--muted)}
+.provenance{font-size:12px;color:var(--muted2);border-top:1px dashed var(--line2);margin-top:12px;padding-top:10px}
+.provenance strong{color:var(--muted)}
 
 .cityCard{width:270px;height:330px;border-radius:22px;overflow:hidden;position:relative;
   border:1px solid var(--line);background:#111;text-align:left;display:block}
@@ -85,7 +93,7 @@ h3{font-size:17px;font-weight:700;margin:0}
 .iconCirc{width:52px;height:52px;flex:0 0 52px;border-radius:50%;display:grid;place-items:center;
   background:var(--gold-soft);border:1px solid var(--gold-dim);color:var(--gold)}
 
-/* ---- tab bar ---- */
+/* ---- tab bar — 3 tabs: Discover, My Trips, Profile ---- */
 .tabbar{position:fixed;bottom:0;left:0;right:0;max-width:430px;margin:0 auto;
   display:flex;background:rgba(12,12,12,.94);backdrop-filter:blur(14px);
   border-top:1px solid var(--line);padding:10px 0 calc(10px + env(safe-area-inset-bottom));z-index:40}
@@ -184,3 +192,6 @@ input[type=range]::-moz-range-thumb{width:18px;height:18px;border:none;border-ra
 .installBar{margin:12px 22px;padding:12px 16px;border-radius:18px;background:var(--card);
   border:1px solid var(--line2);display:flex;align-items:center;gap:12px}
 
+/* scaffold helper */
+.kicker{color:var(--gold);font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
+.nullVal{color:var(--muted2);font-style:italic}

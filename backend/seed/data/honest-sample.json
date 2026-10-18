@@ -1,0 +1,89 @@
+{
+  "places": [
+    {
+      "id": "jaipur-hawa-mahal-example",
+      "slug": "hawa-mahal-jaipur",
+      "name": "Hawa Mahal",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country": "India",
+      "location": { "lat": null, "lng": null },
+      "category": "heritage",
+      "what": "Five-storey honeycomb facade built for royal women to observe street life unseen.",
+      "why": "Best at first light when the east-facing lattice glows; a symbol of Jaipur's planned-city heritage.",
+      "when": { "openingHours": null, "closedDays": null, "bestTime": null },
+      "cost": { "amount": null, "currency": null, "basis": null },
+      "duration": { "minMinutes": null, "maxMinutes": null },
+      "etiquette": null,
+      "safety": ["Carry water — facade faces direct sun by 10am"],
+      "accessibility": null,
+      "backupPlaceId": null,
+      "provenance": {
+        "sourceType": null,
+        "confidence": "low",
+        "lastCheckedAt": null,
+        "verified": false,
+        "verifiedBy": null,
+        "note": "not yet field-checked — example record only"
+      },
+      "heroImage": null,
+      "partnerLinks": {
+        "maps": "https://maps.google.com/?q=Hawa+Mahal+Jaipur",
+        "reviews": "https://www.tripadvisor.com/Search?q=Hawa+Mahal",
+        "booking": null
+      }
+    },
+    {
+      "id": "varanasi-dashashwamedh-ghat-example",
+      "slug": "dashashwamedh-ghat-varanasi",
+      "name": "Dashashwamedh Ghat",
+      "city": "Varanasi",
+      "state": "Uttar Pradesh",
+      "country": "India",
+      "location": { "lat": null, "lng": null },
+      "category": "spiritual",
+      "what": "Main ghat for the nightly Ganga Aarti; broad steps to the river.",
+      "why": "Sunset Aarti draws locals and visitors; come early for a bank-side spot.",
+      "when": { "openingHours": null, "closedDays": null, "bestTime": "evening" },
+      "cost": { "amount": null, "currency": null, "basis": null },
+      "duration": { "minMinutes": 60, "maxMinutes": 90 },
+      "etiquette": ["Remove shoes on the steps", "Ask before photographing sadhus"],
+      "safety": ["Watch footing on wet steps", "Keep belongings close in crowds"],
+      "accessibility": { "wheelchair": "limited", "notes": "Steps — no ramp" },
+      "backupPlaceId": "varanasi-assi-ghat-example",
+      "provenance": {
+        "sourceType": null,
+        "confidence": "low",
+        "lastCheckedAt": null,
+        "verified": false,
+        "verifiedBy": null,
+        "note": "not yet field-checked — example record only"
+      },
+      "heroImage": null,
+      "partnerLinks": {
+        "maps": "https://maps.google.com/?q=Dashashwamedh+Ghat+Varanasi",
+        "reviews": "https://www.tripadvisor.com/Search?q=Dashashwamedh+Ghat",
+        "booking": null
+      }
+    }
+  ],
+  "cities": [
+    {
+      "id": "jaipur",
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "heroImage": null,
+      "description": "Pink City — palaces, bazaars and living craft traditions.",
+      "emergencyNumbers": { "police": "100", "ambulance": "108", "touristHelpline": "1363", "unified": "112" }
+    },
+    {
+      "id": "varanasi",
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "heroImage": null,
+      "description": "Oldest living city — ghats, aarti and Ganga at dawn.",
+      "emergencyNumbers": { "police": "100", "ambulance": "108", "touristHelpline": "1363", "unified": "112" }
+    }
+  ],
+  "curatorChecks": []
+}

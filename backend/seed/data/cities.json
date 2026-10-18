@@ -1239,7 +1239,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/bhopal.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1277,7 +1277,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-BHO-T2-009"
+    "city_id": "IN-BHO-T2-009",
+    "hero_image_prompt": "Upper Lake Bhopal with Taj-ul-Masajid, wide cinematic travel photograph",
+    "hero_alt_text": "Upper Lake in Bhopal",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "visakhapatnam",
@@ -1303,7 +1307,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/visakhapatnam.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1341,7 +1345,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-VTZ-T2-010"
+    "city_id": "IN-VTZ-T2-010",
+    "hero_image_prompt": "Visakhapatnam Beach Road with submarine museum and sea, wide cinematic travel photograph",
+    "hero_alt_text": "Beach Road in Visakhapatnam",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "udaipur",
@@ -1435,7 +1443,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/jodhpur.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1473,7 +1481,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-JDH-T3-002"
+    "city_id": "IN-JDH-T3-002",
+    "hero_image_prompt": "Mehrangarh Fort above Jodhpur blue city, wide cinematic travel photograph",
+    "hero_alt_text": "Mehrangarh Fort above blue city",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "jaisalmer",
@@ -1499,7 +1511,7 @@
     ],
     "permit_note": "Desert-camp access rules",
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/jaisalmer.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1537,7 +1549,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-JSA-T3-003"
+    "city_id": "IN-JSA-T3-003",
+    "hero_image_prompt": "Jaisalmer Fort and Sam Sand Dunes camel safari, wide cinematic travel photograph",
+    "hero_alt_text": "Jaisalmer Fort and Sam Dunes",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "mysuru",
@@ -1563,7 +1579,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/mysuru.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1601,7 +1617,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-MYQ-T3-004"
+    "city_id": "IN-MYQ-T3-004",
+    "hero_image_prompt": "Mysuru Palace illuminated at night, wide cinematic travel photograph",
+    "hero_alt_text": "Mysuru Palace at night",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "madurai",
@@ -1627,7 +1647,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/madurai.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1665,7 +1685,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-IXM-T3-005"
+    "city_id": "IN-IXM-T3-005",
+    "hero_image_prompt": "Meenakshi Amman Temple gopurams Madurai, wide cinematic travel photograph",
+    "hero_alt_text": "Meenakshi Temple gopurams",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "rishikesh",
@@ -1691,7 +1715,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/rishikesh.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1729,7 +1753,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-RSH-T3-006"
+    "city_id": "IN-RSH-T3-006",
+    "hero_image_prompt": "Lakshman Jhula over the Ganga in Rishikesh, wide cinematic travel photograph",
+    "hero_alt_text": "Lakshman Jhula in Rishikesh",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "shimla",
@@ -1756,7 +1784,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/shimla.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1794,7 +1822,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-JLI-T3-007"
+    "city_id": "IN-JLI-T3-007",
+    "hero_image_prompt": "Shimla Mall Road and Ridge colonial architecture, wide cinematic travel photograph",
+    "hero_alt_text": "Mall Road in Shimla",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "manali",
@@ -1889,7 +1921,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/puri.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1927,7 +1959,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-PUR-T3-009"
+    "city_id": "IN-PUR-T3-009",
+    "hero_image_prompt": "Jagannath Temple Puri and Puri Beach sunrise, wide cinematic travel photograph",
+    "hero_alt_text": "Jagannath Temple in Puri",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "guwahati",
@@ -1953,7 +1989,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/guwahati.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1991,6 +2027,10 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-GAU-T3-010"
+    "city_id": "IN-GAU-T3-010",
+    "hero_image_prompt": "Kamakhya Temple Guwahati and Brahmaputra river cruise, wide cinematic travel photograph",
+    "hero_alt_text": "Kamakhya Temple in Guwahati",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   }
 ]

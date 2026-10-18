@@ -226,7 +226,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/chennai.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -263,7 +263,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-MAA-004"
+    "city_id": "IN-MAA-004",
+    "hero_image_prompt": "Marina Beach Chennai at sunrise with fishing boats, wide cinematic travel photograph",
+    "hero_alt_text": "Marina Beach at sunrise in Chennai",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "hyderabad",
@@ -288,7 +292,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/hyderabad.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -326,7 +330,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-HYD-005"
+    "city_id": "IN-HYD-005",
+    "hero_image_prompt": "Charminar Hyderabad at dusk with market lights, wide cinematic travel photograph",
+    "hero_alt_text": "Charminar in Hyderabad at dusk",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "kolkata",
@@ -352,7 +360,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/kolkata.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -390,7 +398,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-CCU-006"
+    "city_id": "IN-CCU-006",
+    "hero_image_prompt": "Howrah Bridge and Hooghly River Kolkata at dusk, wide cinematic travel photograph",
+    "hero_alt_text": "Howrah Bridge in Kolkata",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "ahmedabad",
@@ -415,7 +427,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/ahmedabad.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -453,7 +465,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-AMD-007"
+    "city_id": "IN-AMD-007",
+    "hero_image_prompt": "Adalaj Stepwell Ahmedabad carved architecture, wide cinematic travel photograph",
+    "hero_alt_text": "Adalaj Stepwell in Ahmedabad",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "pune",
@@ -478,7 +494,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/pune.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -516,7 +532,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-PNQ-008"
+    "city_id": "IN-PNQ-008",
+    "hero_image_prompt": "Shaniwar Wada Pune heritage fort at golden hour, wide cinematic travel photograph",
+    "hero_alt_text": "Shaniwar Wada in Pune",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "jaipur",
@@ -677,7 +697,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/lucknow.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -715,7 +735,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-LKO-T2-001"
+    "city_id": "IN-LKO-T2-001",
+    "hero_image_prompt": "Bara Imambara Lucknow Nawabi architecture at golden hour, wide cinematic travel photograph",
+    "hero_alt_text": "Bara Imambara in Lucknow",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "varanasi",
@@ -877,7 +901,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/amritsar.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -915,7 +939,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-ASR-T2-004"
+    "city_id": "IN-ASR-T2-004",
+    "hero_image_prompt": "Golden Temple Amritsar reflection at dusk, wide cinematic travel photograph",
+    "hero_alt_text": "Golden Temple in Amritsar",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "chandigarh",
@@ -941,7 +969,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/chandigarh.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -979,7 +1007,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-IXC-T2-005"
+    "city_id": "IN-IXC-T2-005",
+    "hero_image_prompt": "Rock Garden Chandigarh sculptures and Sukhna Lake, wide cinematic travel photograph",
+    "hero_alt_text": "Rock Garden in Chandigarh",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "kochi",
@@ -1072,7 +1104,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/coimbatore.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1110,7 +1142,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-CJB-T2-007"
+    "city_id": "IN-CJB-T2-007",
+    "hero_image_prompt": "Adiyogi Shiva statue Coimbatore with Western Ghats, wide cinematic travel photograph",
+    "hero_alt_text": "Adiyogi Shiva Statue in Coimbatore",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "indore",
@@ -1135,7 +1171,7 @@
     ],
     "permit_note": null,
     "languages": [],
-    "hero_image_url": null,
+    "hero_image_url": "/images/cities/indore.jpg",
     "lat": null,
     "lng": null,
     "app_tags": [
@@ -1173,7 +1209,11 @@
     "source_label": "WanderWise editorial import v1",
     "last_checked": null,
     "verified": false,
-    "city_id": "IN-IDR-T2-008"
+    "city_id": "IN-IDR-T2-008",
+    "hero_image_prompt": "Rajwada Palace Indore heritage architecture, wide cinematic travel photograph",
+    "hero_alt_text": "Rajwada Palace in Indore",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
   },
   {
     "slug": "bhopal",

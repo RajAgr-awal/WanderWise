@@ -1,0 +1,1956 @@
+[
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "state_ut": "Delhi",
+    "region": "North India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 1,
+    "city_type": "Capital heritage and gateway city",
+    "core_identity": "Mughal monuments, colonial boulevards, bazaars, food streets and modern capital energy",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Winter fog",
+      "summer heat"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/delhi.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "shopping",
+      "museum",
+      "gateway",
+      "business"
+    ],
+    "nearby_destinations": [
+      "agra",
+      "jaipur",
+      "rishikesh",
+      "shimla",
+      "amritsar"
+    ],
+    "airport": "Indira Gandhi International Airport",
+    "rail": "New Delhi, Old Delhi, Hazrat Nizamuddin",
+    "metro": "Delhi Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis, cycle-rickshaws",
+    "nearby_transport": "Trains and buses to Agra, Jaipur, Rishikesh, Shimla and Amritsar",
+    "rhythm": {
+      "morning": "Monument and breakfast",
+      "afternoon": "Museum or bazaar",
+      "evening": "Food street and India Gate",
+      "night": "Late-night food"
+    },
+    "seasonal_overlays": [
+      "Republic Day",
+      "Diwali",
+      "Holi",
+      "Winter fog"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-DEL-001",
+    "hero_image_prompt": "Red Fort Delhi India at golden hour, wide cinematic travel photograph",
+    "hero_alt_text": "Red Fort in Delhi at golden hour",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "state_ut": "Maharashtra",
+    "region": "West India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 2,
+    "city_type": "Coastal metro and financial capital",
+    "core_identity": "Arabian Sea, colonial heritage, Bollywood, street food and financial-capital energy",
+    "best_season_text": "October\u2013February",
+    "best_months": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon flooding",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/mumbai.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "coastal",
+      "heritage",
+      "food",
+      "shopping",
+      "nightlife",
+      "business"
+    ],
+    "nearby_destinations": [
+      "Elephanta",
+      "Alibaug",
+      "Lonavala",
+      "pune",
+      "Nashik"
+    ],
+    "airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "rail": "Chhatrapati Shivaji Maharaj Terminus, Mumbai Central",
+    "metro": "Mumbai Metro",
+    "city_transport": "Local trains, metro, buses, autos, app cabs, ferries",
+    "nearby_transport": "Trains and buses to Lonavala, Pune, Alibaug and Nashik",
+    "rhythm": {
+      "morning": "Seafront and breakfast",
+      "afternoon": "Museum or market",
+      "evening": "Marine Drive and food",
+      "night": "Late-night food"
+    },
+    "seasonal_overlays": [
+      "Ganesh Chaturthi",
+      "Kala Ghoda Festival",
+      "Monsoon sea walks"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-MUM-002",
+    "hero_image_prompt": "Gateway of India Mumbai at sunset with Arabian Sea, wide cinematic travel photograph",
+    "hero_alt_text": "Gateway of India in Mumbai at sunset",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "bengaluru",
+    "name": "Bengaluru",
+    "state_ut": "Karnataka",
+    "region": "South India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 3,
+    "city_type": "Tech, food and garden city",
+    "core_identity": "Gardens, breweries, tech culture, South Indian food and heritage markets",
+    "best_season_text": "October\u2013February",
+    "best_months": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Mild weather",
+      "occasional rain"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/bengaluru.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "food",
+      "nightlife",
+      "shopping",
+      "parks",
+      "business",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "mysuru",
+      "Coorg",
+      "Hampi",
+      "Nandi Hills",
+      "Tirupati"
+    ],
+    "airport": "Kempegowda International Airport",
+    "rail": "KSR Bengaluru City Station, Yesvantpur",
+    "metro": "Namma Metro",
+    "city_transport": "Metro, buses, autos, app cabs, rented cars",
+    "nearby_transport": "Trains and buses to Mysuru, Coorg, Hampi and Tirupati",
+    "rhythm": {
+      "morning": "Tiffin and garden",
+      "afternoon": "Market or tech district",
+      "evening": "Breweries and food",
+      "night": "Late-night food"
+    },
+    "seasonal_overlays": [
+      "Karaga",
+      "Ugadi",
+      "Bengaluru Habba"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-BLR-003",
+    "hero_image_prompt": "Lalbagh Botanical Garden glass house Bengaluru, wide cinematic travel photograph",
+    "hero_alt_text": "Lalbagh glass house in Bengaluru",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "chennai",
+    "name": "Chennai",
+    "state_ut": "Tamil Nadu",
+    "region": "South India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 4,
+    "city_type": "Coastal cultural metro",
+    "core_identity": "Tamil culture, Marina Beach, Dravidian temples, filter coffee and classical arts",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Cyclones",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "beach",
+      "food",
+      "shopping",
+      "temple",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "mahabalipuram",
+      "Kanchipuram",
+      "puducherry",
+      "Tirupati"
+    ],
+    "airport": "Chennai International Airport",
+    "rail": "Chennai Central, Chennai Egmore",
+    "metro": "Chennai Metro",
+    "city_transport": "Metro, MRTS, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Mamallapuram, Kanchipuram, Pondicherry and Tirupati",
+    "rhythm": {
+      "morning": "Tiffin and temple",
+      "afternoon": "Museum or beach",
+      "evening": "Food street and beach",
+      "night": "Early rest"
+    },
+    "seasonal_overlays": [
+      "Margazhi season",
+      "Pongal",
+      "Music and dance festival"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-MAA-004"
+  },
+  {
+    "slug": "hyderabad",
+    "name": "Hyderabad",
+    "state_ut": "Telangana",
+    "region": "South India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 5,
+    "city_type": "Deccan heritage and business city",
+    "core_identity": "Nizam heritage, Charminar, Golconda, biryani, pearls and Deccan culture",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "shopping",
+      "business",
+      "lake",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Warangal",
+      "Nagarjunasagar",
+      "Srisailam",
+      "Bidar",
+      "Ramappa"
+    ],
+    "airport": "Rajiv Gandhi International Airport",
+    "rail": "Hyderabad Deccan, Secunderabad Junction",
+    "metro": "Hyderabad Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Warangal, Nagarjunasagar and Srisailam",
+    "rhythm": {
+      "morning": "Irani chai",
+      "afternoon": "Charminar or Golconda",
+      "evening": "Biryani and kebabs",
+      "night": "Late-night food"
+    },
+    "seasonal_overlays": [
+      "Bonalu",
+      "Ramadan",
+      "Deccan festival"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-HYD-005"
+  },
+  {
+    "slug": "kolkata",
+    "name": "Kolkata",
+    "state_ut": "West Bengal",
+    "region": "East India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 6,
+    "city_type": "Heritage, food and cultural metro",
+    "core_identity": "Bengal Renaissance, colonial heritage, Bengali food, book culture and Hooghly river life",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon flooding",
+      "cyclones"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "shopping",
+      "culture",
+      "river",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Shantiniketan",
+      "Bishnupur",
+      "Sundarbans",
+      "Digha",
+      "Darjeeling"
+    ],
+    "airport": "Netaji Subhas Chandra Bose International Airport",
+    "rail": "Howrah Station, Sealdah Station",
+    "metro": "Kolkata Metro",
+    "city_transport": "Metro, buses, trams, taxis, app cabs, autos, ferries",
+    "nearby_transport": "Trains and buses to Shantiniketan, Bishnupur, Digha and Darjeeling",
+    "rhythm": {
+      "morning": "Heritage and breakfast",
+      "afternoon": "Museum or market",
+      "evening": "Park Street and riverfront",
+      "night": "Late-night food"
+    },
+    "seasonal_overlays": [
+      "Durga Puja",
+      "Poila Boishakh",
+      "Kolkata Christmas"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-CCU-006"
+  },
+  {
+    "slug": "ahmedabad",
+    "name": "Ahmedabad",
+    "state_ut": "Gujarat",
+    "region": "West India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 7,
+    "city_type": "Heritage, textile and business city",
+    "core_identity": "Old city, stepwells, textile heritage, Gandhi legacy and Gujarati food",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Extreme summer heat"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "shopping",
+      "textile",
+      "business",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Patan",
+      "Modhera",
+      "Kutch",
+      "Statue of Unity",
+      "Dwarka"
+    ],
+    "airport": "Sardar Vallabhbhai Patel International Airport",
+    "rail": "Ahmedabad Junction",
+    "metro": "Ahmedabad Metro",
+    "city_transport": "Metro, BRTS, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Patan, Kutch, Dwarka and Somnath",
+    "rhythm": {
+      "morning": "Heritage walk",
+      "afternoon": "Stepwell or museum",
+      "evening": "Market food",
+      "night": "Early rest"
+    },
+    "seasonal_overlays": [
+      "Navratri",
+      "Uttarayan",
+      "Rann Utsav"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-AMD-007"
+  },
+  {
+    "slug": "pune",
+    "name": "Pune",
+    "state_ut": "Maharashtra",
+    "region": "West India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 8,
+    "city_type": "Heritage, education and food city",
+    "core_identity": "Maratha history, Peshwa heritage, hill forts, caf\u00e9s and Deccan culture",
+    "best_season_text": "October\u2013February",
+    "best_months": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon rain",
+      "summer heat"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "caf\u00e9s",
+      "forts",
+      "education",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Lonavala",
+      "Khandala",
+      "mumbai",
+      "Aurangabad",
+      "Mahabaleshwar"
+    ],
+    "airport": "Pune International Airport",
+    "rail": "Pune Junction",
+    "metro": "Pune Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Mumbai, Lonavala, Nashik and Aurangabad",
+    "rhythm": {
+      "morning": "Fort or temple",
+      "afternoon": "Caf\u00e9 or museum",
+      "evening": "Food street",
+      "night": "City hotel"
+    },
+    "seasonal_overlays": [
+      "Ganesh Chaturthi",
+      "Savitribai Phule Jayanti",
+      "Monsoon treks"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-PNQ-008"
+  },
+  {
+    "slug": "jaipur",
+    "name": "Jaipur",
+    "state_ut": "Rajasthan",
+    "region": "North India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 9,
+    "city_type": "Pink City heritage capital",
+    "core_identity": "Rajput forts, palaces, bazaars, block printing and Rajasthani food",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Desert heat",
+      "dust"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/jaipur.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "forts",
+      "palaces",
+      "shopping",
+      "food",
+      "desert"
+    ],
+    "nearby_destinations": [
+      "Pushkar",
+      "udaipur",
+      "jodhpur",
+      "Ranthambore",
+      "agra"
+    ],
+    "airport": "Jaipur International Airport",
+    "rail": "Jaipur Junction",
+    "metro": "Jaipur Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Udaipur, Jodhpur, Jaisalmer and Pushkar",
+    "rhythm": {
+      "morning": "Fort",
+      "afternoon": "Bazaar",
+      "evening": "Rooftop dinner",
+      "night": "Heritage haveli"
+    },
+    "seasonal_overlays": [
+      "Jaipur Literature Festival",
+      "Teej",
+      "Diwali"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-JAI-009",
+    "hero_image_prompt": "Hawa Mahal Jaipur pink sandstone facade under blue sky, wide cinematic travel photograph",
+    "hero_alt_text": "Hawa Mahal in Jaipur",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "goa",
+    "name": "Goa",
+    "state_ut": "Goa",
+    "region": "West India",
+    "editorial_group": "Tier 1",
+    "rank_in_group": 10,
+    "city_type": "Beach, heritage and leisure state-city",
+    "core_identity": "Beaches, Indo-Portuguese heritage, caf\u00e9s, nightlife, water sports and slow coastal travel",
+    "best_season_text": "November\u2013February",
+    "best_months": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon rain",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/goa.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "beach",
+      "nightlife",
+      "heritage",
+      "food",
+      "water sports",
+      "leisure"
+    ],
+    "nearby_destinations": [
+      "Panaji",
+      "goa",
+      "North Goa",
+      "South Goa",
+      "Gokarna"
+    ],
+    "airport": "Goa International Airport, Dabolim",
+    "rail": "Madgaon, Thivim, Karmali",
+    "metro": "Not available",
+    "city_transport": "Rented scooter, taxi, rented car, local bus",
+    "nearby_transport": "Road to Panaji, Old Goa, North Goa, South Goa and Gokarna",
+    "rhythm": {
+      "morning": "Beach",
+      "afternoon": "Caf\u00e9 or heritage walk",
+      "evening": "Nightlife or riverfront",
+      "night": "Beach resort"
+    },
+    "seasonal_overlays": [
+      "Carnival",
+      "Sao Joao",
+      "Christmas",
+      "New Year"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-GOI-010",
+    "hero_image_prompt": "Palolem Beach Goa with palm trees, beach huts and turquoise water, aerial travel photograph",
+    "hero_alt_text": "Palolem Beach in Goa",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "lucknow",
+    "name": "Lucknow",
+    "state_ut": "Uttar Pradesh",
+    "region": "North India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 1,
+    "city_type": "Awadhi heritage and food city",
+    "core_identity": "Nawabi heritage, Awadhi cuisine, chikankari, Imambaras and refined culture",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "winter fog"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "food",
+      "shopping",
+      "culture",
+      "business",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Ayodhya",
+      "varanasi",
+      "Kanpur",
+      "Prayagraj",
+      "Chitrakoot"
+    ],
+    "airport": "Chaudhary Charan Singh International Airport",
+    "rail": "Lucknow Charbagh, Lucknow Junction",
+    "metro": "Lucknow Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Trains and buses to Ayodhya, Varanasi and Kanpur",
+    "rhythm": {
+      "morning": "Imambara",
+      "afternoon": "Bazaar or Residency",
+      "evening": "Kebab and sheermal",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Lucknow Mahotsav",
+      "Muharram",
+      "Diwali"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-LKO-T2-001"
+  },
+  {
+    "slug": "varanasi",
+    "name": "Varanasi",
+    "state_ut": "Uttar Pradesh",
+    "region": "North India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 2,
+    "city_type": "Spiritual river city",
+    "core_identity": "Ganga ghats, temples, silk weaving, boat rides and evening aarti",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "monsoon flooding"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/varanasi.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "spiritual",
+      "heritage",
+      "food",
+      "river",
+      "shopping",
+      "pilgrimage"
+    ],
+    "nearby_destinations": [
+      "Sarnath",
+      "Prayagraj",
+      "Ayodhya",
+      "Vindhyachal",
+      "Chitrakoot"
+    ],
+    "airport": "Lal Bahadur Shastri International Airport",
+    "rail": "Varanasi Junction, Banaras Station",
+    "metro": "Not available",
+    "city_transport": "Autos, cycle-rickshaws, boats, taxis",
+    "nearby_transport": "Trains and buses to Sarnath, Prayagraj and Ayodhya",
+    "rhythm": {
+      "morning": "Sunrise boat",
+      "afternoon": "Temple or silk workshop",
+      "evening": "Ganga aarti",
+      "night": "River-view hotel"
+    },
+    "seasonal_overlays": [
+      "Dev Deepawali",
+      "Maha Shivratri",
+      "Ganga Mahotsav"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-VNS-T2-002",
+    "hero_image_prompt": "Varanasi Ganga ghats with boats and evening Ganga Aarti, cinematic travel photograph",
+    "hero_alt_text": "Ganga Aarti at Varanasi ghats",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "agra",
+    "name": "Agra",
+    "state_ut": "Uttar Pradesh",
+    "region": "North India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 3,
+    "city_type": "Mughal heritage city",
+    "core_identity": "Taj Mahal, Agra Fort, Mughal gardens, petha and marble craft",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "winter fog"
+    ],
+    "permit_note": "Taj entry ticket",
+    "languages": [],
+    "hero_image_url": "/images/cities/agra.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "monument",
+      "food",
+      "shopping",
+      "craft",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Fatehpur Sikri",
+      "Mathura",
+      "Vrindavan",
+      "delhi",
+      "jaipur"
+    ],
+    "airport": "Agra Airport",
+    "rail": "Agra Cantt, Agra Fort",
+    "metro": "Not available",
+    "city_transport": "Autos, cycle-rickshaws, taxis, app cabs, rented cars",
+    "nearby_transport": "Trains and buses to Delhi, Jaipur, Mathura and Varanasi",
+    "rhythm": {
+      "morning": "Sunrise Taj",
+      "afternoon": "Fort or bazaar",
+      "evening": "Mehtab Bagh",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Taj Mahotsav",
+      "Diwali",
+      "Holi"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-AGR-T2-003",
+    "hero_image_prompt": "Taj Mahal Agra across reflecting pool at sunrise, wide cinematic travel photograph",
+    "hero_alt_text": "Taj Mahal in Agra at sunrise",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "amritsar",
+    "name": "Amritsar",
+    "state_ut": "Punjab",
+    "region": "North India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 4,
+    "city_type": "Sikh pilgrimage and food city",
+    "core_identity": "Golden Temple, Punjabi food, Wagah Border and Sikh heritage",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "winter fog"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "spiritual",
+      "heritage",
+      "food",
+      "shopping",
+      "pilgrimage",
+      "border"
+    ],
+    "nearby_destinations": [
+      "Wagah",
+      "Jalandhar",
+      "chandigarh",
+      "Katra",
+      "Dharamshala"
+    ],
+    "airport": "Sri Guru Ram Dass Jee International Airport",
+    "rail": "Amritsar Junction",
+    "metro": "Not available",
+    "city_transport": "Autos, cycle-rickshaws, taxis, app cabs",
+    "nearby_transport": "Trains and buses to Delhi, Chandigarh and Jammu",
+    "rhythm": {
+      "morning": "Golden Temple darshan",
+      "afternoon": "Museum or Wagah",
+      "evening": "Langar",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Baisakhi",
+      "Diwali",
+      "Gurpurab"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-ASR-T2-004"
+  },
+  {
+    "slug": "chandigarh",
+    "name": "Chandigarh",
+    "state_ut": "Chandigarh",
+    "region": "North India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 5,
+    "city_type": "Planned city and Himalayan gateway",
+    "core_identity": "Modernist planning, gardens, lakes, caf\u00e9s and Himalayan access",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "winter fog"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "planned city",
+      "gardens",
+      "food",
+      "shopping",
+      "gateway",
+      "business"
+    ],
+    "nearby_destinations": [
+      "shimla",
+      "manali",
+      "amritsar",
+      "Morni Hills",
+      "Kasauli"
+    ],
+    "airport": "Chandigarh International Airport",
+    "rail": "Chandigarh Junction",
+    "metro": "Not available",
+    "city_transport": "Buses, autos, app cabs, taxis, rented cars",
+    "nearby_transport": "Road to Shimla, Manali, Amritsar and Delhi",
+    "rhythm": {
+      "morning": "Garden or lake",
+      "afternoon": "Museum or caf\u00e9",
+      "evening": "Sector 17",
+      "night": "City hotel"
+    },
+    "seasonal_overlays": [
+      "Chandigarh Carnival",
+      "Rose Festival",
+      "Winter season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-IXC-T2-005"
+  },
+  {
+    "slug": "kochi",
+    "name": "Kochi",
+    "state_ut": "Kerala",
+    "region": "South India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 6,
+    "city_type": "Harbour heritage and backwater gateway",
+    "core_identity": "Chinese fishing nets, Portuguese and Dutch heritage, spice trade, backwaters and Kerala food",
+    "best_season_text": "October\u2013February",
+    "best_months": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon rain",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/kochi.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "coastal",
+      "food",
+      "backwaters",
+      "shopping",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Alappuzha",
+      "Munnar",
+      "Thekkady",
+      "Kumarakom",
+      "Varkala"
+    ],
+    "airport": "Cochin International Airport",
+    "rail": "Ernakulam Junction, Ernakulam Town",
+    "metro": "Kochi Metro",
+    "city_transport": "Metro, buses, autos, app cabs, ferries",
+    "nearby_transport": "Buses, trains and taxis to Alappuzha, Munnar and Thekkady",
+    "rhythm": {
+      "morning": "Heritage walk",
+      "afternoon": "Spice market or backwater",
+      "evening": "Marine Drive and seafood",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Kochi-Muziris Biennale",
+      "Cochin Carnival",
+      "Onam"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-COK-T2-006",
+    "hero_image_prompt": "Chinese fishing nets at Fort Kochi during sunset, cinematic travel photograph",
+    "hero_alt_text": "Chinese fishing nets at Fort Kochi",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "coimbatore",
+    "name": "Coimbatore",
+    "state_ut": "Tamil Nadu",
+    "region": "South India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 7,
+    "city_type": "Textile, wellness and hill gateway",
+    "core_identity": "Textile industry, temples, wellness, coffee hills and Western Ghats access",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "monsoon rain"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "wellness",
+      "textile",
+      "food",
+      "shopping",
+      "gateway",
+      "business"
+    ],
+    "nearby_destinations": [
+      "Ooty",
+      "Valparai",
+      "Palakkad",
+      "madurai",
+      "Munnar"
+    ],
+    "airport": "Coimbatore International Airport",
+    "rail": "Coimbatore Junction",
+    "metro": "Not available",
+    "city_transport": "Buses, autos, app cabs, taxis, rented cars",
+    "nearby_transport": "Road to Ooty, Valparai, Palakkad and Madurai",
+    "rhythm": {
+      "morning": "Temple or wellness",
+      "afternoon": "Market or hill",
+      "evening": "Food street",
+      "night": "City hotel"
+    },
+    "seasonal_overlays": [
+      "Kongu festivals",
+      "Tea season",
+      "Wellness tourism"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-CJB-T2-007"
+  },
+  {
+    "slug": "indore",
+    "name": "Indore",
+    "state_ut": "Madhya Pradesh",
+    "region": "Central India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 8,
+    "city_type": "Food, heritage and business city",
+    "core_identity": "Street food, Maratha heritage, temples, clean-city culture and Malwa history",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "food",
+      "heritage",
+      "shopping",
+      "temple",
+      "business",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Ujjain",
+      "Mandu",
+      "Omkareshwar",
+      "bhopal",
+      "Maheshwar"
+    ],
+    "airport": "Devi Ahilya Bai Holkar Airport",
+    "rail": "Indore Junction",
+    "metro": "Indore Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Road to Ujjain, Mandu, Omkareshwar and Bhopal",
+    "rhythm": {
+      "morning": "Temple",
+      "afternoon": "Heritage",
+      "evening": "Sarafa food walk",
+      "night": "City hotel"
+    },
+    "seasonal_overlays": [
+      "Sarafa night food",
+      "Navratri",
+      "Diwali"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-IDR-T2-008"
+  },
+  {
+    "slug": "bhopal",
+    "name": "Bhopal",
+    "state_ut": "Madhya Pradesh",
+    "region": "Central India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 9,
+    "city_type": "Lake heritage and Islamic architecture city",
+    "core_identity": "Upper Lake, Nawabi heritage, Sanchi access, Islamic architecture and tribal culture",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "monsoon rain"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "lake",
+      "food",
+      "shopping",
+      "tribal",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Sanchi",
+      "Bhimbetka",
+      "Pachmarhi",
+      "Ujjain",
+      "indore"
+    ],
+    "airport": "Raja Bhoj Airport",
+    "rail": "Bhopal Junction",
+    "metro": "Bhopal Metro",
+    "city_transport": "Metro, buses, autos, app cabs, taxis",
+    "nearby_transport": "Road to Sanchi, Bhimbetka, Pachmarhi and Ujjain",
+    "rhythm": {
+      "morning": "Lake or museum",
+      "afternoon": "Heritage",
+      "evening": "Food street",
+      "night": "Lake-view hotel"
+    },
+    "seasonal_overlays": [
+      "Sanchi festival",
+      "Tribal festivals",
+      "Diwali"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-BHO-T2-009"
+  },
+  {
+    "slug": "visakhapatnam",
+    "name": "Visakhapatnam",
+    "state_ut": "Andhra Pradesh",
+    "region": "South India",
+    "editorial_group": "Tier 2",
+    "rank_in_group": 10,
+    "city_type": "Coastal port and hill-valley gateway",
+    "core_identity": "Beach Road, Araku Valley, coffee estates, caves and seafood",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Cyclones",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "beach",
+      "heritage",
+      "food",
+      "coffee",
+      "hill",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Araku Valley",
+      "Borra Caves",
+      "Lambasingi",
+      "Vijayawada",
+      "Rajahmundry"
+    ],
+    "airport": "Visakhapatnam International Airport",
+    "rail": "Visakhapatnam Railway Station",
+    "metro": "Not available",
+    "city_transport": "Buses, autos, app cabs, taxis",
+    "nearby_transport": "Train and road to Araku, Borra and Lambasingi",
+    "rhythm": {
+      "morning": "Beach",
+      "afternoon": "Araku or caves",
+      "evening": "Seafood",
+      "night": "Beach resort"
+    },
+    "seasonal_overlays": [
+      "Fishing season",
+      "Coffee harvest",
+      "Beach season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-VTZ-T2-010"
+  },
+  {
+    "slug": "udaipur",
+    "name": "Udaipur",
+    "state_ut": "Rajasthan",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 1,
+    "city_type": "Lake heritage city",
+    "core_identity": "Lake Pichola, Rajput palaces, Aravalli hills, crafts and romantic heritage",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Desert heat",
+      "dust"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": "/images/cities/udaipur.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "lake",
+      "palace",
+      "romantic",
+      "shopping",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Kumbhalgarh",
+      "Ranakpur",
+      "Mount Abu",
+      "jodhpur",
+      "Chittorgarh"
+    ],
+    "airport": "Maharana Pratap Airport",
+    "rail": "Udaipur City Station",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, app cabs, boats",
+    "nearby_transport": "Buses and taxis to Kumbhalgarh, Ranakpur and Mount Abu",
+    "rhythm": {
+      "morning": "Palace",
+      "afternoon": "Lake",
+      "evening": "Rooftop dinner",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Mewar Festival",
+      "Shilpgram Utsav",
+      "Diwali"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-UDR-T3-001",
+    "hero_image_prompt": "Udaipur City Palace and Lake Pichola at sunset, wide cinematic travel photograph",
+    "hero_alt_text": "City Palace and Lake Pichola in Udaipur",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "jodhpur",
+    "name": "Jodhpur",
+    "state_ut": "Rajasthan",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 2,
+    "city_type": "Blue City heritage capital",
+    "core_identity": "Mehrangarh Fort, blue old city, Marwar heritage, spices and desert culture",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Desert heat",
+      "dust"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "fort",
+      "desert",
+      "food",
+      "shopping",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "jaisalmer",
+      "udaipur",
+      "Osian",
+      "Pushkar",
+      "Bikaner"
+    ],
+    "airport": "Jodhpur Airport",
+    "rail": "Jodhpur Junction",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, app cabs, rented cars",
+    "nearby_transport": "Buses and taxis to Jaisalmer, Udaipur and Osian",
+    "rhythm": {
+      "morning": "Fort",
+      "afternoon": "Market",
+      "evening": "Rooftop dinner",
+      "night": "Heritage haveli"
+    },
+    "seasonal_overlays": [
+      "Marwar Festival",
+      "Diwali",
+      "Desert season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-JDH-T3-002"
+  },
+  {
+    "slug": "jaisalmer",
+    "name": "Jaisalmer",
+    "state_ut": "Rajasthan",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 3,
+    "city_type": "Desert fort city",
+    "core_identity": "Golden Fort, sand dunes, camel safari, desert camps and Rajasthani folk culture",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Desert heat",
+      "dust"
+    ],
+    "permit_note": "Desert-camp access rules",
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "desert",
+      "fort",
+      "camel safari",
+      "folk",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "jodhpur",
+      "Bikaner",
+      "Sam",
+      "Khuri",
+      "Longewala"
+    ],
+    "airport": "Jaisalmer Airport",
+    "rail": "Jaisalmer Railway Station",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, rented cars",
+    "nearby_transport": "Road to Sam, Khuri and Desert National Park",
+    "rhythm": {
+      "morning": "Fort",
+      "afternoon": "Desert camp",
+      "evening": "Folk performance",
+      "night": "Desert camp"
+    },
+    "seasonal_overlays": [
+      "Desert Festival",
+      "Diwali",
+      "Winter desert"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-JSA-T3-003"
+  },
+  {
+    "slug": "mysuru",
+    "name": "Mysuru",
+    "state_ut": "Karnataka",
+    "region": "South India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 4,
+    "city_type": "Royal heritage city",
+    "core_identity": "Wodeyar palace heritage, Dasara, silk, sandalwood and South Indian food",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "monsoon rain"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "heritage",
+      "palace",
+      "food",
+      "shopping",
+      "wildlife",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Coorg",
+      "Hampi",
+      "bengaluru",
+      "Nagarhole",
+      "Bandipur"
+    ],
+    "airport": "Mysuru Airport; Bengaluru Airport is the main gateway",
+    "rail": "Mysuru Junction",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, buses, rented cars",
+    "nearby_transport": "Buses and taxis to Coorg, Hampi and Bengaluru",
+    "rhythm": {
+      "morning": "Palace",
+      "afternoon": "Market",
+      "evening": "Gardens",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Dasara",
+      "Ugadi",
+      "Palace festival"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-MYQ-T3-004"
+  },
+  {
+    "slug": "madurai",
+    "name": "Madurai",
+    "state_ut": "Tamil Nadu",
+    "region": "South India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 5,
+    "city_type": "Temple city",
+    "core_identity": "Meenakshi Amman Temple, Tamil food culture, ancient bazaars and street food",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Summer heat",
+      "monsoon rain"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "temple",
+      "heritage",
+      "food",
+      "shopping",
+      "pilgrimage",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Rameswaram",
+      "Kodaikanal",
+      "Dindigul",
+      "Thanjavur",
+      "Kanyakumari"
+    ],
+    "airport": "Madurai Airport",
+    "rail": "Madurai Junction",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, app cabs, buses",
+    "nearby_transport": "Buses and taxis to Rameswaram, Kodaikanal, Dindigul and Thanjavur",
+    "rhythm": {
+      "morning": "Temple darshan",
+      "afternoon": "Rest or bazaar",
+      "evening": "Temple and street food",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Chithirai Festival",
+      "Pongal",
+      "Temple festivals"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-IXM-T3-005"
+  },
+  {
+    "slug": "rishikesh",
+    "name": "Rishikesh",
+    "state_ut": "Uttarakhand",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 6,
+    "city_type": "Yoga-adventure town",
+    "core_identity": "Ganga, yoga, ashrams, white-water rafting and Himalayan foothills",
+    "best_season_text": "September\u2013November, March\u2013May",
+    "best_months": [
+      3,
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "weather_risks": [
+      "Monsoon flooding",
+      "landslides"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "yoga",
+      "adventure",
+      "spiritual",
+      "river",
+      "food",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Haridwar",
+      "Dehradun",
+      "Mussoorie",
+      "Rajaji",
+      "Auli"
+    ],
+    "airport": "Dehradun Airport",
+    "rail": "Rishikesh Railway Station",
+    "metro": "Not available",
+    "city_transport": "Autos, taxis, rented scooters, rented bikes",
+    "nearby_transport": "Buses and taxis to Haridwar, Dehradun and Mussoorie",
+    "rhythm": {
+      "morning": "Yoga",
+      "afternoon": "Rafting or temple",
+      "evening": "Ganga aarti",
+      "night": "Yoga retreat"
+    },
+    "seasonal_overlays": [
+      "International Yoga Festival",
+      "Ganga Dussehra",
+      "Rafting season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-RSH-T3-006"
+  },
+  {
+    "slug": "shimla",
+    "name": "Shimla",
+    "state_ut": "Himachal Pradesh",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 7,
+    "city_type": "Colonial hill station",
+    "core_identity": "Colonial heritage, Mall Road, toy train, snow and Himalayan views",
+    "best_season_text": "March\u2013June, September\u2013November",
+    "best_months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "weather_risks": [
+      "Winter snow",
+      "landslides"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "hill",
+      "heritage",
+      "toy train",
+      "snow",
+      "food",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Kufri",
+      "Chail",
+      "Solan",
+      "manali",
+      "Kasauli"
+    ],
+    "airport": "Jubbarhatti Airport, Shimla",
+    "rail": "Kalka-Shimla narrow gauge",
+    "metro": "Not available",
+    "city_transport": "Local taxis, buses, toy train",
+    "nearby_transport": "Road from Chandigarh and Delhi",
+    "rhythm": {
+      "morning": "Toy train or viewpoint",
+      "afternoon": "Mall Road",
+      "evening": "Caf\u00e9",
+      "night": "Heritage hotel"
+    },
+    "seasonal_overlays": [
+      "Winter snow",
+      "Summer hill season",
+      "Apple season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-JLI-T3-007"
+  },
+  {
+    "slug": "manali",
+    "name": "Manali",
+    "state_ut": "Himachal Pradesh",
+    "region": "North India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 8,
+    "city_type": "Adventure hill station",
+    "core_identity": "Himalayan valley, adventure sports, Old Manali caf\u00e9s, temples and snow",
+    "best_season_text": "March\u2013June, September\u2013November",
+    "best_months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "weather_risks": [
+      "Winter snow",
+      "landslides"
+    ],
+    "permit_note": "Rohtang and Atal Tunnel rules",
+    "languages": [],
+    "hero_image_url": "/images/cities/manali.jpg",
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "adventure",
+      "hill",
+      "snow",
+      "food",
+      "caf\u00e9s",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Solang",
+      "Rohtang",
+      "Kasol",
+      "Spiti",
+      "shimla"
+    ],
+    "airport": "Bhuntar Airport, Kullu",
+    "rail": "Joginder Nagar or Chandigarh rail access",
+    "metro": "Not available",
+    "city_transport": "Local taxis, buses, rented bikes, rented cars",
+    "nearby_transport": "Road from Delhi, Chandigarh and Shimla",
+    "rhythm": {
+      "morning": "Valley",
+      "afternoon": "Adventure or caf\u00e9",
+      "evening": "Old Manali caf\u00e9",
+      "night": "Mountain resort"
+    },
+    "seasonal_overlays": [
+      "Winter snow",
+      "Summer trekking",
+      "Apple season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-MNL-T3-008",
+    "hero_image_prompt": "Solang Valley Manali with snow-capped Himalayan peaks and pine forests, wide cinematic travel photograph",
+    "hero_alt_text": "Solang Valley in Manali",
+    "hero_credit_required": true,
+    "hero_aspect_ratio": "16:9"
+  },
+  {
+    "slug": "puri",
+    "name": "Puri",
+    "state_ut": "Odisha",
+    "region": "East India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 9,
+    "city_type": "Pilgrimage beach city",
+    "core_identity": "Jagannath Temple, Mahaprasad, Puri Beach and Rath Yatra",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Cyclones",
+      "monsoon flooding"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "temple",
+      "beach",
+      "pilgrimage",
+      "food",
+      "heritage",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Konark",
+      "Bhubaneswar",
+      "Chilika",
+      "Satapada",
+      "Raghurajpur"
+    ],
+    "airport": "Biju Patnaik International Airport, Bhubaneswar",
+    "rail": "Puri Railway Station",
+    "metro": "Not available",
+    "city_transport": "Autos, cycle-rickshaws, taxis, rented cycles",
+    "nearby_transport": "Taxis and buses to Konark, Bhubaneswar and Chilika",
+    "rhythm": {
+      "morning": "Temple darshan",
+      "afternoon": "Beach",
+      "evening": "Seafood",
+      "night": "Beach resort"
+    },
+    "seasonal_overlays": [
+      "Rath Yatra",
+      "Kartik Purnima",
+      "Beach season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-PUR-T3-009"
+  },
+  {
+    "slug": "guwahati",
+    "name": "Guwahati",
+    "state_ut": "Assam",
+    "region": "Northeast India",
+    "editorial_group": "Tier 3",
+    "rank_in_group": 10,
+    "city_type": "River, temple and Northeast gateway",
+    "core_identity": "Brahmaputra river, Kamakhya Temple, Assamese culture, tea gardens and Northeast access",
+    "best_season_text": "October\u2013March",
+    "best_months": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "weather_risks": [
+      "Monsoon flooding",
+      "humidity"
+    ],
+    "permit_note": null,
+    "languages": [],
+    "hero_image_url": null,
+    "lat": null,
+    "lng": null,
+    "app_tags": [
+      "temple",
+      "river",
+      "heritage",
+      "food",
+      "wildlife",
+      "gateway"
+    ],
+    "nearby_destinations": [
+      "Kaziranga",
+      "Shillong",
+      "Cherrapunji",
+      "Tezpur",
+      "Majuli"
+    ],
+    "airport": "Lokpriya Gopinath Bordoloi International Airport",
+    "rail": "Guwahati Railway Station",
+    "metro": "Not available",
+    "city_transport": "Buses, autos, app cabs, taxis, river ferries",
+    "nearby_transport": "Road to Kaziranga, Shillong, Cherrapunji and Tezpur",
+    "rhythm": {
+      "morning": "Temple or river cruise",
+      "afternoon": "Silk village or sanctuary",
+      "evening": "Assamese food",
+      "night": "River-view hotel"
+    },
+    "seasonal_overlays": [
+      "Bihu",
+      "Ambubachi Mela",
+      "Tea season"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null,
+    "verified": false,
+    "city_id": "IN-GAU-T3-010"
+  }
+]

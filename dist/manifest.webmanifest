@@ -1,7 +1,7 @@
 {
-  "name": "WanderWise",
+  "name": "WanderWise — India-first in-destination companion",
   "short_name": "WanderWise",
-  "description": "AI-Powered Travel Companion & Itinerary Planner",
+  "description": "Given who you are, where you are and what time it is — the most meaningful next choice. Offline-first.",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0a0a0a",

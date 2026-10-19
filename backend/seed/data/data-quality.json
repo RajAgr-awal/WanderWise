@@ -1,0 +1,100 @@
+{
+  "counts": {
+    "cities": 30,
+    "places": 332,
+    "dishes": 150,
+    "markets": 180,
+    "stay_areas": 30,
+    "transport_options": 285,
+    "place_intel": 0
+  },
+  "needs_review": [
+    {
+      "city": "Bengaluru",
+      "name": "VV Puram Food Street",
+      "kind": "activity",
+      "reason": "Food street is an area/activity — should be linked to specific eateries."
+    },
+    {
+      "city": "Lucknow",
+      "name": "Chikankari Workshops",
+      "kind": "activity",
+      "reason": "Workshops are experiences/courses at multiple venues — not a single place. Needs curator to split into specific shops/studios."
+    },
+    {
+      "city": "Varanasi",
+      "name": "Silk Weaving Workshops",
+      "kind": "activity",
+      "reason": "Workshops are experiences/courses at multiple venues — not a single place. Needs curator to split into specific shops/studios."
+    },
+    {
+      "city": "Varanasi",
+      "name": "Ganga Aarti",
+      "kind": "event",
+      "reason": "Event/ritual at Dashashwamedh Ghat — not a separate place. Link to ghat."
+    },
+    {
+      "city": "Amritsar",
+      "name": "Punjabi food streets",
+      "kind": "activity",
+      "reason": "Food street is an area/activity — should be linked to specific eateries."
+    },
+    {
+      "city": "Chandigarh",
+      "name": "Shimla gateway",
+      "kind": "route",
+      "reason": "Gateway/route — not a visitable POI in this city. Should be a nearby_destinations link."
+    },
+    {
+      "city": "Coimbatore",
+      "name": "Ooty gateway",
+      "kind": "route",
+      "reason": "Gateway to another city — not a POI."
+    },
+    {
+      "city": "Rishikesh",
+      "name": "White-water rafting points",
+      "kind": "activity",
+      "reason": "Activity cluster, not a single locatable place — needs curator to list specific ghats/operators."
+    },
+    {
+      "city": "Rishikesh",
+      "name": "Waterfall treks",
+      "kind": "activity",
+      "reason": "Trek/activity — not a single place. Needs curator to list specific trails."
+    },
+    {
+      "city": "Guwahati",
+      "name": "Brahmaputra River",
+      "kind": "route",
+      "reason": "River is a linear feature — not a single place. Use specific ghats/cruise points."
+    },
+    {
+      "city": "Guwahati",
+      "name": "Brahmaputra River Cruise",
+      "kind": "route",
+      "reason": "River is a linear feature — not a single place. Use specific ghats/cruise points."
+    }
+  ],
+  "merges": [
+    {
+      "city": "Chennai",
+      "type": "nearby",
+      "from": "puducherry",
+      "to": "puducherry",
+      "reason": "Duplicate nearby deduplicated (e.g. Pondicherry/Puducherry)"
+    },
+    {
+      "city": "Amritsar",
+      "type": "place",
+      "from": [
+        "Golden Temple",
+        "Harmandir Sahib"
+      ],
+      "to": "Golden Temple (Harmandir Sahib)",
+      "reason": "Harmandir Sahib and Golden Temple are one place — merged"
+    }
+  ],
+  "citiesWithMissingHero": 30,
+  "warning": "All data confidence low, not yet field-checked, never verified"
+}

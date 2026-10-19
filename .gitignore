@@ -27,6 +27,10 @@ _oxlintrc_backup
 wanderwise/
 exports/wanderwise-web/
 
+# WanderWise scaffold — seed output (file-mode DB)
+backend/seed/.seed-output.json
+backend/seed/data/honest-sample.json.bak
+
 # Firebase local cache
 .firebase/
 

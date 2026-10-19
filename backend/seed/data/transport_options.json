@@ -1,0 +1,2852 @@
+[
+  {
+    "id": "delhi-delhi-airport-transfers",
+    "city_slug": "delhi",
+    "mode": "airport",
+    "text": "Delhi airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-railway-station-transfers",
+    "city_slug": "delhi",
+    "mode": "rail",
+    "text": "Delhi railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-metro",
+    "city_slug": "delhi",
+    "mode": "metro",
+    "text": "Delhi Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-buses",
+    "city_slug": "delhi",
+    "mode": "bus",
+    "text": "Delhi buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-autos-and-app-cabs",
+    "city_slug": "delhi",
+    "mode": "auto",
+    "text": "Delhi autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-cycle-rickshaws",
+    "city_slug": "delhi",
+    "mode": "rickshaw",
+    "text": "Delhi cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-to-agra-train-or-taxi",
+    "city_slug": "delhi",
+    "mode": "taxi",
+    "text": "Delhi to Agra train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-to-jaipur-train-or-bus",
+    "city_slug": "delhi",
+    "mode": "bus",
+    "text": "Delhi to Jaipur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-to-rishikesh-bus-or-taxi",
+    "city_slug": "delhi",
+    "mode": "bus",
+    "text": "Delhi to Rishikesh bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-to-shimla-bus-or-taxi",
+    "city_slug": "delhi",
+    "mode": "bus",
+    "text": "Delhi to Shimla bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "delhi-delhi-to-amritsar-train-or-flight",
+    "city_slug": "delhi",
+    "mode": "other",
+    "text": "Delhi to Amritsar train or flight.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-airport-transfers",
+    "city_slug": "mumbai",
+    "mode": "airport",
+    "text": "Mumbai airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-railway-station-transfers",
+    "city_slug": "mumbai",
+    "mode": "rail",
+    "text": "Mumbai railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-local-trains",
+    "city_slug": "mumbai",
+    "mode": "other",
+    "text": "Mumbai local trains.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-metro",
+    "city_slug": "mumbai",
+    "mode": "metro",
+    "text": "Mumbai Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-buses",
+    "city_slug": "mumbai",
+    "mode": "bus",
+    "text": "Mumbai buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-autos-and-app-cabs",
+    "city_slug": "mumbai",
+    "mode": "auto",
+    "text": "Mumbai autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-ferries",
+    "city_slug": "mumbai",
+    "mode": "other",
+    "text": "Mumbai ferries.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-to-elephanta-ferry",
+    "city_slug": "mumbai",
+    "mode": "ferry",
+    "text": "Mumbai to Elephanta ferry.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-to-alibaug-ferry",
+    "city_slug": "mumbai",
+    "mode": "ferry",
+    "text": "Mumbai to Alibaug ferry.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-to-lonavala-train-or-taxi",
+    "city_slug": "mumbai",
+    "mode": "taxi",
+    "text": "Mumbai to Lonavala train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mumbai-mumbai-to-pune-train-or-taxi",
+    "city_slug": "mumbai",
+    "mode": "taxi",
+    "text": "Mumbai to Pune train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-airport-transfers",
+    "city_slug": "bengaluru",
+    "mode": "airport",
+    "text": "Bengaluru airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-railway-station-transfers",
+    "city_slug": "bengaluru",
+    "mode": "rail",
+    "text": "Bengaluru railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-namma-metro",
+    "city_slug": "bengaluru",
+    "mode": "metro",
+    "text": "Namma Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-buses",
+    "city_slug": "bengaluru",
+    "mode": "bus",
+    "text": "Bengaluru buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-autos-and-app-cabs",
+    "city_slug": "bengaluru",
+    "mode": "auto",
+    "text": "Bengaluru autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-to-mysuru-train-or-bus",
+    "city_slug": "bengaluru",
+    "mode": "bus",
+    "text": "Bengaluru to Mysuru train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-to-coorg-taxi-or-bus",
+    "city_slug": "bengaluru",
+    "mode": "bus",
+    "text": "Bengaluru to Coorg taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-to-hampi-overnight-bus-or-train",
+    "city_slug": "bengaluru",
+    "mode": "bus",
+    "text": "Bengaluru to Hampi overnight bus or train.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-to-tirupati-train-or-bus",
+    "city_slug": "bengaluru",
+    "mode": "bus",
+    "text": "Bengaluru to Tirupati train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bengaluru-bengaluru-to-nandi-hills-taxi",
+    "city_slug": "bengaluru",
+    "mode": "taxi",
+    "text": "Bengaluru to Nandi Hills taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-airport-transfers",
+    "city_slug": "chennai",
+    "mode": "airport",
+    "text": "Chennai airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-railway-station-transfers",
+    "city_slug": "chennai",
+    "mode": "rail",
+    "text": "Chennai railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-metro",
+    "city_slug": "chennai",
+    "mode": "metro",
+    "text": "Chennai Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-mrts",
+    "city_slug": "chennai",
+    "mode": "other",
+    "text": "Chennai MRTS.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-buses",
+    "city_slug": "chennai",
+    "mode": "bus",
+    "text": "Chennai buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-autos-and-app-cabs",
+    "city_slug": "chennai",
+    "mode": "auto",
+    "text": "Chennai autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-to-mamallapuram-ecr-taxi-or-bus",
+    "city_slug": "chennai",
+    "mode": "bus",
+    "text": "Chennai to Mamallapuram ECR taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-to-kanchipuram-bus-or-taxi",
+    "city_slug": "chennai",
+    "mode": "bus",
+    "text": "Chennai to Kanchipuram bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-to-pondicherry-ecr-bus-or-taxi",
+    "city_slug": "chennai",
+    "mode": "bus",
+    "text": "Chennai to Pondicherry ECR bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chennai-chennai-to-tirupati-train-or-bus",
+    "city_slug": "chennai",
+    "mode": "bus",
+    "text": "Chennai to Tirupati train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-airport-transfers",
+    "city_slug": "hyderabad",
+    "mode": "airport",
+    "text": "Hyderabad airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-railway-station-transfers",
+    "city_slug": "hyderabad",
+    "mode": "rail",
+    "text": "Hyderabad railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-metro",
+    "city_slug": "hyderabad",
+    "mode": "metro",
+    "text": "Hyderabad Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-buses",
+    "city_slug": "hyderabad",
+    "mode": "bus",
+    "text": "Hyderabad buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-autos-and-app-cabs",
+    "city_slug": "hyderabad",
+    "mode": "auto",
+    "text": "Hyderabad autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-to-warangal-train-or-bus",
+    "city_slug": "hyderabad",
+    "mode": "bus",
+    "text": "Hyderabad to Warangal train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-to-nagarjunasagar-taxi-or-bus",
+    "city_slug": "hyderabad",
+    "mode": "bus",
+    "text": "Hyderabad to Nagarjunasagar taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-to-srisailam-bus-or-taxi",
+    "city_slug": "hyderabad",
+    "mode": "bus",
+    "text": "Hyderabad to Srisailam bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "hyderabad-hyderabad-to-ramappa-taxi-or-bus",
+    "city_slug": "hyderabad",
+    "mode": "bus",
+    "text": "Hyderabad to Ramappa taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-airport-transfers",
+    "city_slug": "kolkata",
+    "mode": "airport",
+    "text": "Kolkata airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-howrah-and-sealdah-station-transfers",
+    "city_slug": "kolkata",
+    "mode": "other",
+    "text": "Howrah and Sealdah station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-metro",
+    "city_slug": "kolkata",
+    "mode": "metro",
+    "text": "Kolkata Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-trams",
+    "city_slug": "kolkata",
+    "mode": "tram",
+    "text": "Kolkata trams.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-taxis-and-app-cabs",
+    "city_slug": "kolkata",
+    "mode": "taxi",
+    "text": "Kolkata taxis and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-autos-and-cycle-rickshaws",
+    "city_slug": "kolkata",
+    "mode": "auto",
+    "text": "Kolkata autos and cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-river-ferries",
+    "city_slug": "kolkata",
+    "mode": "other",
+    "text": "Kolkata river ferries.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-to-shantiniketan-train",
+    "city_slug": "kolkata",
+    "mode": "other",
+    "text": "Kolkata to Shantiniketan train.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-to-bishnupur-train-or-bus",
+    "city_slug": "kolkata",
+    "mode": "bus",
+    "text": "Kolkata to Bishnupur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-to-sundarbans-road-and-boat-route",
+    "city_slug": "kolkata",
+    "mode": "ferry",
+    "text": "Kolkata to Sundarbans road-and-boat route.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kolkata-kolkata-to-darjeeling-flight-or-train-to-new-jalpaiguri",
+    "city_slug": "kolkata",
+    "mode": "other",
+    "text": "Kolkata to Darjeeling flight or train to New Jalpaiguri.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-airport-transfers",
+    "city_slug": "ahmedabad",
+    "mode": "airport",
+    "text": "Ahmedabad airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-railway-station-transfers",
+    "city_slug": "ahmedabad",
+    "mode": "rail",
+    "text": "Ahmedabad railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-metro",
+    "city_slug": "ahmedabad",
+    "mode": "metro",
+    "text": "Ahmedabad Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-brts",
+    "city_slug": "ahmedabad",
+    "mode": "other",
+    "text": "Ahmedabad BRTS.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-buses",
+    "city_slug": "ahmedabad",
+    "mode": "bus",
+    "text": "Ahmedabad buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-autos-and-app-cabs",
+    "city_slug": "ahmedabad",
+    "mode": "auto",
+    "text": "Ahmedabad autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-to-patan-taxi-or-bus",
+    "city_slug": "ahmedabad",
+    "mode": "bus",
+    "text": "Ahmedabad to Patan taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-to-kutch-bus-or-taxi",
+    "city_slug": "ahmedabad",
+    "mode": "bus",
+    "text": "Ahmedabad to Kutch bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-to-statue-of-unity-taxi-or-bus",
+    "city_slug": "ahmedabad",
+    "mode": "bus",
+    "text": "Ahmedabad to Statue of Unity taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "ahmedabad-ahmedabad-to-dwarka-train-or-bus",
+    "city_slug": "ahmedabad",
+    "mode": "bus",
+    "text": "Ahmedabad to Dwarka train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-airport-transfers",
+    "city_slug": "pune",
+    "mode": "airport",
+    "text": "Pune airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-railway-station-transfers",
+    "city_slug": "pune",
+    "mode": "rail",
+    "text": "Pune railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-metro",
+    "city_slug": "pune",
+    "mode": "metro",
+    "text": "Pune Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-buses",
+    "city_slug": "pune",
+    "mode": "bus",
+    "text": "Pune buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-autos-and-app-cabs",
+    "city_slug": "pune",
+    "mode": "auto",
+    "text": "Pune autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-to-lonavala-train-or-taxi",
+    "city_slug": "pune",
+    "mode": "taxi",
+    "text": "Pune to Lonavala train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-to-mumbai-train-or-taxi",
+    "city_slug": "pune",
+    "mode": "taxi",
+    "text": "Pune to Mumbai train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-to-aurangabad-bus-or-taxi",
+    "city_slug": "pune",
+    "mode": "bus",
+    "text": "Pune to Aurangabad bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "pune-pune-to-mahabaleshwar-taxi-or-bus",
+    "city_slug": "pune",
+    "mode": "bus",
+    "text": "Pune to Mahabaleshwar taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-airport-transfers",
+    "city_slug": "jaipur",
+    "mode": "airport",
+    "text": "Jaipur airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-railway-station-transfers",
+    "city_slug": "jaipur",
+    "mode": "rail",
+    "text": "Jaipur railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-metro",
+    "city_slug": "jaipur",
+    "mode": "metro",
+    "text": "Jaipur Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-buses",
+    "city_slug": "jaipur",
+    "mode": "bus",
+    "text": "Jaipur buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-autos-and-app-cabs",
+    "city_slug": "jaipur",
+    "mode": "auto",
+    "text": "Jaipur autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-to-pushkar-bus-or-taxi",
+    "city_slug": "jaipur",
+    "mode": "bus",
+    "text": "Jaipur to Pushkar bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-to-udaipur-train-or-bus",
+    "city_slug": "jaipur",
+    "mode": "bus",
+    "text": "Jaipur to Udaipur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-to-jodhpur-train-or-bus",
+    "city_slug": "jaipur",
+    "mode": "bus",
+    "text": "Jaipur to Jodhpur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-to-ranthambore-taxi-or-bus",
+    "city_slug": "jaipur",
+    "mode": "bus",
+    "text": "Jaipur to Ranthambore taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaipur-jaipur-to-agra-train-or-taxi",
+    "city_slug": "jaipur",
+    "mode": "taxi",
+    "text": "Jaipur to Agra train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-airport-transfers",
+    "city_slug": "goa",
+    "mode": "airport",
+    "text": "Goa airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-railway-station-transfers",
+    "city_slug": "goa",
+    "mode": "rail",
+    "text": "Goa railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-buses",
+    "city_slug": "goa",
+    "mode": "bus",
+    "text": "Goa buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-taxis",
+    "city_slug": "goa",
+    "mode": "taxi",
+    "text": "Goa taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-rented-scooters",
+    "city_slug": "goa",
+    "mode": "bike",
+    "text": "Goa rented scooters.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-goa-rented-cars",
+    "city_slug": "goa",
+    "mode": "other",
+    "text": "Goa rented cars.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-panaji-local-buses",
+    "city_slug": "goa",
+    "mode": "bus",
+    "text": "Panaji local buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-panaji-taxis",
+    "city_slug": "goa",
+    "mode": "taxi",
+    "text": "Panaji taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-north-goa-beach-taxis",
+    "city_slug": "goa",
+    "mode": "taxi",
+    "text": "North Goa beach taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-south-goa-beach-taxis",
+    "city_slug": "goa",
+    "mode": "taxi",
+    "text": "South Goa beach taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-old-goa-taxis",
+    "city_slug": "goa",
+    "mode": "taxi",
+    "text": "Old Goa taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "goa-dudhsagar-jeep-safari",
+    "city_slug": "goa",
+    "mode": "jeep",
+    "text": "Dudhsagar jeep safari.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-airport-transfers",
+    "city_slug": "lucknow",
+    "mode": "airport",
+    "text": "Lucknow airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-railway-station-transfers",
+    "city_slug": "lucknow",
+    "mode": "rail",
+    "text": "Lucknow railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-metro",
+    "city_slug": "lucknow",
+    "mode": "metro",
+    "text": "Lucknow Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-buses",
+    "city_slug": "lucknow",
+    "mode": "bus",
+    "text": "Lucknow buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-autos-and-app-cabs",
+    "city_slug": "lucknow",
+    "mode": "auto",
+    "text": "Lucknow autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-to-ayodhya-taxi-or-train",
+    "city_slug": "lucknow",
+    "mode": "taxi",
+    "text": "Lucknow to Ayodhya taxi or train.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-to-varanasi-train-or-bus",
+    "city_slug": "lucknow",
+    "mode": "bus",
+    "text": "Lucknow to Varanasi train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-to-kanpur-train-or-bus",
+    "city_slug": "lucknow",
+    "mode": "bus",
+    "text": "Lucknow to Kanpur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "lucknow-lucknow-to-prayagraj-train-or-bus",
+    "city_slug": "lucknow",
+    "mode": "bus",
+    "text": "Lucknow to Prayagraj train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-airport-transfers",
+    "city_slug": "varanasi",
+    "mode": "airport",
+    "text": "Varanasi airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-railway-station-transfers",
+    "city_slug": "varanasi",
+    "mode": "rail",
+    "text": "Varanasi railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-local-autos",
+    "city_slug": "varanasi",
+    "mode": "auto",
+    "text": "Varanasi local autos.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-cycle-rickshaws",
+    "city_slug": "varanasi",
+    "mode": "rickshaw",
+    "text": "Varanasi cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-boat-rides",
+    "city_slug": "varanasi",
+    "mode": "ferry",
+    "text": "Varanasi boat rides.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-to-sarnath-taxi-or-bus",
+    "city_slug": "varanasi",
+    "mode": "bus",
+    "text": "Varanasi to Sarnath taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-to-prayagraj-train-or-bus",
+    "city_slug": "varanasi",
+    "mode": "bus",
+    "text": "Varanasi to Prayagraj train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-to-ayodhya-train-or-bus",
+    "city_slug": "varanasi",
+    "mode": "bus",
+    "text": "Varanasi to Ayodhya train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "varanasi-varanasi-to-chitrakoot-taxi-or-bus",
+    "city_slug": "varanasi",
+    "mode": "bus",
+    "text": "Varanasi to Chitrakoot taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-airport-transfers",
+    "city_slug": "agra",
+    "mode": "airport",
+    "text": "Agra airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-railway-station-transfers",
+    "city_slug": "agra",
+    "mode": "rail",
+    "text": "Agra railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-local-autos",
+    "city_slug": "agra",
+    "mode": "auto",
+    "text": "Agra local autos.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-cycle-rickshaws",
+    "city_slug": "agra",
+    "mode": "rickshaw",
+    "text": "Agra cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-taxis-and-app-cabs",
+    "city_slug": "agra",
+    "mode": "taxi",
+    "text": "Agra taxis and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-to-fatehpur-sikri-taxi-or-bus",
+    "city_slug": "agra",
+    "mode": "bus",
+    "text": "Agra to Fatehpur Sikri taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-to-mathura-taxi-or-bus",
+    "city_slug": "agra",
+    "mode": "bus",
+    "text": "Agra to Mathura taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-to-delhi-train-or-taxi",
+    "city_slug": "agra",
+    "mode": "taxi",
+    "text": "Agra to Delhi train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "agra-agra-to-jaipur-train-or-bus",
+    "city_slug": "agra",
+    "mode": "bus",
+    "text": "Agra to Jaipur train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-airport-transfers",
+    "city_slug": "amritsar",
+    "mode": "airport",
+    "text": "Amritsar airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-railway-station-transfers",
+    "city_slug": "amritsar",
+    "mode": "rail",
+    "text": "Amritsar railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-local-autos",
+    "city_slug": "amritsar",
+    "mode": "auto",
+    "text": "Amritsar local autos.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-cycle-rickshaws",
+    "city_slug": "amritsar",
+    "mode": "rickshaw",
+    "text": "Amritsar cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-taxis-and-app-cabs",
+    "city_slug": "amritsar",
+    "mode": "taxi",
+    "text": "Amritsar taxis and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-to-wagah-taxi",
+    "city_slug": "amritsar",
+    "mode": "taxi",
+    "text": "Amritsar to Wagah taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-to-jalandhar-train-or-bus",
+    "city_slug": "amritsar",
+    "mode": "bus",
+    "text": "Amritsar to Jalandhar train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-to-chandigarh-train-or-bus",
+    "city_slug": "amritsar",
+    "mode": "bus",
+    "text": "Amritsar to Chandigarh train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "amritsar-amritsar-to-dharamshala-bus-or-taxi",
+    "city_slug": "amritsar",
+    "mode": "bus",
+    "text": "Amritsar to Dharamshala bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-airport-transfers",
+    "city_slug": "chandigarh",
+    "mode": "airport",
+    "text": "Chandigarh airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-railway-station-transfers",
+    "city_slug": "chandigarh",
+    "mode": "rail",
+    "text": "Chandigarh railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-buses",
+    "city_slug": "chandigarh",
+    "mode": "bus",
+    "text": "Chandigarh buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-autos-and-app-cabs",
+    "city_slug": "chandigarh",
+    "mode": "auto",
+    "text": "Chandigarh autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-taxis",
+    "city_slug": "chandigarh",
+    "mode": "taxi",
+    "text": "Chandigarh taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-to-shimla-taxi-or-bus",
+    "city_slug": "chandigarh",
+    "mode": "bus",
+    "text": "Chandigarh to Shimla taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-to-manali-taxi-or-bus",
+    "city_slug": "chandigarh",
+    "mode": "bus",
+    "text": "Chandigarh to Manali taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-to-amritsar-train-or-bus",
+    "city_slug": "chandigarh",
+    "mode": "bus",
+    "text": "Chandigarh to Amritsar train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "chandigarh-chandigarh-to-morni-hills-taxi",
+    "city_slug": "chandigarh",
+    "mode": "taxi",
+    "text": "Chandigarh to Morni Hills taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-airport-transfers",
+    "city_slug": "kochi",
+    "mode": "airport",
+    "text": "Kochi airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-railway-station-transfers",
+    "city_slug": "kochi",
+    "mode": "rail",
+    "text": "Kochi railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-metro",
+    "city_slug": "kochi",
+    "mode": "metro",
+    "text": "Kochi Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-buses",
+    "city_slug": "kochi",
+    "mode": "bus",
+    "text": "Kochi buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-autos-and-app-cabs",
+    "city_slug": "kochi",
+    "mode": "auto",
+    "text": "Kochi autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-ferries",
+    "city_slug": "kochi",
+    "mode": "other",
+    "text": "Kochi ferries.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-to-alappuzha-train-or-taxi",
+    "city_slug": "kochi",
+    "mode": "taxi",
+    "text": "Kochi to Alappuzha train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-to-munnar-taxi-or-bus",
+    "city_slug": "kochi",
+    "mode": "bus",
+    "text": "Kochi to Munnar taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-to-thekkady-taxi-or-bus",
+    "city_slug": "kochi",
+    "mode": "bus",
+    "text": "Kochi to Thekkady taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "kochi-kochi-to-kumarakom-taxi-or-boat",
+    "city_slug": "kochi",
+    "mode": "taxi",
+    "text": "Kochi to Kumarakom taxi or boat.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-airport-transfers",
+    "city_slug": "coimbatore",
+    "mode": "airport",
+    "text": "Coimbatore airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-railway-station-transfers",
+    "city_slug": "coimbatore",
+    "mode": "rail",
+    "text": "Coimbatore railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-buses",
+    "city_slug": "coimbatore",
+    "mode": "bus",
+    "text": "Coimbatore buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-autos-and-app-cabs",
+    "city_slug": "coimbatore",
+    "mode": "auto",
+    "text": "Coimbatore autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-taxis",
+    "city_slug": "coimbatore",
+    "mode": "taxi",
+    "text": "Coimbatore taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-to-ooty-taxi-or-bus",
+    "city_slug": "coimbatore",
+    "mode": "bus",
+    "text": "Coimbatore to Ooty taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-to-valparai-taxi-or-bus",
+    "city_slug": "coimbatore",
+    "mode": "bus",
+    "text": "Coimbatore to Valparai taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-to-palakkad-taxi-or-bus",
+    "city_slug": "coimbatore",
+    "mode": "bus",
+    "text": "Coimbatore to Palakkad taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "coimbatore-coimbatore-to-madurai-train-or-bus",
+    "city_slug": "coimbatore",
+    "mode": "bus",
+    "text": "Coimbatore to Madurai train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-airport-transfers",
+    "city_slug": "indore",
+    "mode": "airport",
+    "text": "Indore airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-railway-station-transfers",
+    "city_slug": "indore",
+    "mode": "rail",
+    "text": "Indore railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-metro",
+    "city_slug": "indore",
+    "mode": "metro",
+    "text": "Indore Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-buses",
+    "city_slug": "indore",
+    "mode": "bus",
+    "text": "Indore buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-autos-and-app-cabs",
+    "city_slug": "indore",
+    "mode": "auto",
+    "text": "Indore autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-to-ujjain-taxi-or-bus",
+    "city_slug": "indore",
+    "mode": "bus",
+    "text": "Indore to Ujjain taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-to-mandu-taxi-or-bus",
+    "city_slug": "indore",
+    "mode": "bus",
+    "text": "Indore to Mandu taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-to-omkareshwar-taxi-or-bus",
+    "city_slug": "indore",
+    "mode": "bus",
+    "text": "Indore to Omkareshwar taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "indore-indore-to-bhopal-train-or-bus",
+    "city_slug": "indore",
+    "mode": "bus",
+    "text": "Indore to Bhopal train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-airport-transfers",
+    "city_slug": "bhopal",
+    "mode": "airport",
+    "text": "Bhopal airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-railway-station-transfers",
+    "city_slug": "bhopal",
+    "mode": "rail",
+    "text": "Bhopal railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-metro",
+    "city_slug": "bhopal",
+    "mode": "metro",
+    "text": "Bhopal Metro.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-buses",
+    "city_slug": "bhopal",
+    "mode": "bus",
+    "text": "Bhopal buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-autos-and-app-cabs",
+    "city_slug": "bhopal",
+    "mode": "auto",
+    "text": "Bhopal autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-to-sanchi-taxi-or-bus",
+    "city_slug": "bhopal",
+    "mode": "bus",
+    "text": "Bhopal to Sanchi taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-to-bhimbetka-taxi-or-bus",
+    "city_slug": "bhopal",
+    "mode": "bus",
+    "text": "Bhopal to Bhimbetka taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-to-pachmarhi-taxi-or-bus",
+    "city_slug": "bhopal",
+    "mode": "bus",
+    "text": "Bhopal to Pachmarhi taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "bhopal-bhopal-to-ujjain-train-or-bus",
+    "city_slug": "bhopal",
+    "mode": "bus",
+    "text": "Bhopal to Ujjain train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-airport-transfers",
+    "city_slug": "visakhapatnam",
+    "mode": "airport",
+    "text": "Visakhapatnam airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-railway-station-transfers",
+    "city_slug": "visakhapatnam",
+    "mode": "rail",
+    "text": "Visakhapatnam railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-buses",
+    "city_slug": "visakhapatnam",
+    "mode": "bus",
+    "text": "Visakhapatnam buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-autos-and-app-cabs",
+    "city_slug": "visakhapatnam",
+    "mode": "auto",
+    "text": "Visakhapatnam autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-taxis",
+    "city_slug": "visakhapatnam",
+    "mode": "taxi",
+    "text": "Visakhapatnam taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-to-araku-train-or-taxi",
+    "city_slug": "visakhapatnam",
+    "mode": "taxi",
+    "text": "Visakhapatnam to Araku train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-to-borra-caves-taxi-or-bus",
+    "city_slug": "visakhapatnam",
+    "mode": "bus",
+    "text": "Visakhapatnam to Borra Caves taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-to-lambasingi-taxi-or-bus",
+    "city_slug": "visakhapatnam",
+    "mode": "bus",
+    "text": "Visakhapatnam to Lambasingi taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "visakhapatnam-visakhapatnam-to-vijayawada-train-or-bus",
+    "city_slug": "visakhapatnam",
+    "mode": "bus",
+    "text": "Visakhapatnam to Vijayawada train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-airport-transfers",
+    "city_slug": "udaipur",
+    "mode": "airport",
+    "text": "Udaipur airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-railway-station-transfers",
+    "city_slug": "udaipur",
+    "mode": "rail",
+    "text": "Udaipur railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-buses",
+    "city_slug": "udaipur",
+    "mode": "bus",
+    "text": "Udaipur buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-autos-and-app-cabs",
+    "city_slug": "udaipur",
+    "mode": "auto",
+    "text": "Udaipur autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-taxis",
+    "city_slug": "udaipur",
+    "mode": "taxi",
+    "text": "Udaipur taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-boats",
+    "city_slug": "udaipur",
+    "mode": "ferry",
+    "text": "Udaipur boats.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-to-kumbhalgarh-taxi",
+    "city_slug": "udaipur",
+    "mode": "taxi",
+    "text": "Udaipur to Kumbhalgarh taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-to-ranakpur-taxi",
+    "city_slug": "udaipur",
+    "mode": "taxi",
+    "text": "Udaipur to Ranakpur taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-to-mount-abu-taxi-or-bus",
+    "city_slug": "udaipur",
+    "mode": "bus",
+    "text": "Udaipur to Mount Abu taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "udaipur-udaipur-to-jodhpur-bus-or-taxi",
+    "city_slug": "udaipur",
+    "mode": "bus",
+    "text": "Udaipur to Jodhpur bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-airport-transfers",
+    "city_slug": "jodhpur",
+    "mode": "airport",
+    "text": "Jodhpur airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-railway-station-transfers",
+    "city_slug": "jodhpur",
+    "mode": "rail",
+    "text": "Jodhpur railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-buses",
+    "city_slug": "jodhpur",
+    "mode": "bus",
+    "text": "Jodhpur buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-autos-and-app-cabs",
+    "city_slug": "jodhpur",
+    "mode": "auto",
+    "text": "Jodhpur autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-taxis",
+    "city_slug": "jodhpur",
+    "mode": "taxi",
+    "text": "Jodhpur taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-to-jaisalmer-taxi-or-bus",
+    "city_slug": "jodhpur",
+    "mode": "bus",
+    "text": "Jodhpur to Jaisalmer taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-to-udaipur-bus-or-taxi",
+    "city_slug": "jodhpur",
+    "mode": "bus",
+    "text": "Jodhpur to Udaipur bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-to-osian-taxi",
+    "city_slug": "jodhpur",
+    "mode": "taxi",
+    "text": "Jodhpur to Osian taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jodhpur-jodhpur-to-bikaner-bus-or-taxi",
+    "city_slug": "jodhpur",
+    "mode": "bus",
+    "text": "Jodhpur to Bikaner bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-airport-transfers",
+    "city_slug": "jaisalmer",
+    "mode": "airport",
+    "text": "Jaisalmer airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-railway-station-transfers",
+    "city_slug": "jaisalmer",
+    "mode": "rail",
+    "text": "Jaisalmer railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-buses",
+    "city_slug": "jaisalmer",
+    "mode": "bus",
+    "text": "Jaisalmer buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-autos-and-app-cabs",
+    "city_slug": "jaisalmer",
+    "mode": "auto",
+    "text": "Jaisalmer autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-taxis",
+    "city_slug": "jaisalmer",
+    "mode": "taxi",
+    "text": "Jaisalmer taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-to-sam-taxi",
+    "city_slug": "jaisalmer",
+    "mode": "taxi",
+    "text": "Jaisalmer to Sam taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-to-khuri-taxi",
+    "city_slug": "jaisalmer",
+    "mode": "taxi",
+    "text": "Jaisalmer to Khuri taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-to-desert-national-park-taxi",
+    "city_slug": "jaisalmer",
+    "mode": "taxi",
+    "text": "Jaisalmer to Desert National Park taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "jaisalmer-jaisalmer-to-longewala-taxi",
+    "city_slug": "jaisalmer",
+    "mode": "taxi",
+    "text": "Jaisalmer to Longewala taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-airport-transfers",
+    "city_slug": "mysuru",
+    "mode": "airport",
+    "text": "Mysuru airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-railway-station-transfers",
+    "city_slug": "mysuru",
+    "mode": "rail",
+    "text": "Mysuru railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-buses",
+    "city_slug": "mysuru",
+    "mode": "bus",
+    "text": "Mysuru buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-autos-and-app-cabs",
+    "city_slug": "mysuru",
+    "mode": "auto",
+    "text": "Mysuru autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-taxis",
+    "city_slug": "mysuru",
+    "mode": "taxi",
+    "text": "Mysuru taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-to-coorg-taxi-or-bus",
+    "city_slug": "mysuru",
+    "mode": "bus",
+    "text": "Mysuru to Coorg taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-to-hampi-bus-or-train",
+    "city_slug": "mysuru",
+    "mode": "bus",
+    "text": "Mysuru to Hampi bus or train.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-to-bengaluru-train-or-bus",
+    "city_slug": "mysuru",
+    "mode": "bus",
+    "text": "Mysuru to Bengaluru train or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "mysuru-mysuru-to-nagarhole-taxi-or-bus",
+    "city_slug": "mysuru",
+    "mode": "bus",
+    "text": "Mysuru to Nagarhole taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-airport-transfers",
+    "city_slug": "madurai",
+    "mode": "airport",
+    "text": "Madurai airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-railway-station-transfers",
+    "city_slug": "madurai",
+    "mode": "rail",
+    "text": "Madurai railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-buses",
+    "city_slug": "madurai",
+    "mode": "bus",
+    "text": "Madurai buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-autos-and-app-cabs",
+    "city_slug": "madurai",
+    "mode": "auto",
+    "text": "Madurai autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-taxis",
+    "city_slug": "madurai",
+    "mode": "taxi",
+    "text": "Madurai taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-to-rameswaram-bus-or-taxi",
+    "city_slug": "madurai",
+    "mode": "bus",
+    "text": "Madurai to Rameswaram bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-to-kodaikanal-taxi-or-bus",
+    "city_slug": "madurai",
+    "mode": "bus",
+    "text": "Madurai to Kodaikanal taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-to-dindigul-taxi-or-bus",
+    "city_slug": "madurai",
+    "mode": "bus",
+    "text": "Madurai to Dindigul taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "madurai-madurai-to-thanjavur-bus-or-taxi",
+    "city_slug": "madurai",
+    "mode": "bus",
+    "text": "Madurai to Thanjavur bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-airport-transfers",
+    "city_slug": "rishikesh",
+    "mode": "airport",
+    "text": "Rishikesh airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-railway-station-transfers",
+    "city_slug": "rishikesh",
+    "mode": "rail",
+    "text": "Rishikesh railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-buses",
+    "city_slug": "rishikesh",
+    "mode": "bus",
+    "text": "Rishikesh buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-autos-and-app-cabs",
+    "city_slug": "rishikesh",
+    "mode": "auto",
+    "text": "Rishikesh autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-taxis",
+    "city_slug": "rishikesh",
+    "mode": "taxi",
+    "text": "Rishikesh taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-to-haridwar-taxi-or-bus",
+    "city_slug": "rishikesh",
+    "mode": "bus",
+    "text": "Rishikesh to Haridwar taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-to-dehradun-taxi-or-bus",
+    "city_slug": "rishikesh",
+    "mode": "bus",
+    "text": "Rishikesh to Dehradun taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-to-mussoorie-taxi",
+    "city_slug": "rishikesh",
+    "mode": "taxi",
+    "text": "Rishikesh to Mussoorie taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "rishikesh-rishikesh-to-rajaji-taxi",
+    "city_slug": "rishikesh",
+    "mode": "taxi",
+    "text": "Rishikesh to Rajaji taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-airport-transfers",
+    "city_slug": "shimla",
+    "mode": "airport",
+    "text": "Shimla airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-kalka-shimla-toy-train",
+    "city_slug": "shimla",
+    "mode": "toy_train",
+    "text": "Kalka-Shimla toy train.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-buses",
+    "city_slug": "shimla",
+    "mode": "bus",
+    "text": "Shimla buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-local-taxis",
+    "city_slug": "shimla",
+    "mode": "taxi",
+    "text": "Shimla local taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-to-kufri-taxi",
+    "city_slug": "shimla",
+    "mode": "taxi",
+    "text": "Shimla to Kufri taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-to-chail-taxi",
+    "city_slug": "shimla",
+    "mode": "taxi",
+    "text": "Shimla to Chail taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-to-solan-taxi",
+    "city_slug": "shimla",
+    "mode": "taxi",
+    "text": "Shimla to Solan taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "shimla-shimla-to-manali-bus-or-taxi",
+    "city_slug": "shimla",
+    "mode": "bus",
+    "text": "Shimla to Manali bus or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-airport-transfers",
+    "city_slug": "manali",
+    "mode": "airport",
+    "text": "Manali airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-buses",
+    "city_slug": "manali",
+    "mode": "bus",
+    "text": "Manali buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-local-taxis",
+    "city_slug": "manali",
+    "mode": "taxi",
+    "text": "Manali local taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-rented-bikes",
+    "city_slug": "manali",
+    "mode": "bike",
+    "text": "Manali rented bikes.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-rented-cars",
+    "city_slug": "manali",
+    "mode": "other",
+    "text": "Manali rented cars.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-to-solang-taxi",
+    "city_slug": "manali",
+    "mode": "taxi",
+    "text": "Manali to Solang taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-to-rohtang-taxi",
+    "city_slug": "manali",
+    "mode": "taxi",
+    "text": "Manali to Rohtang taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-to-kasol-taxi-or-bus",
+    "city_slug": "manali",
+    "mode": "bus",
+    "text": "Manali to Kasol taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "manali-manali-to-spiti-taxi-or-bus",
+    "city_slug": "manali",
+    "mode": "bus",
+    "text": "Manali to Spiti taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-railway-station-transfers",
+    "city_slug": "puri",
+    "mode": "rail",
+    "text": "Puri railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-buses",
+    "city_slug": "puri",
+    "mode": "bus",
+    "text": "Puri buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-autos-and-cycle-rickshaws",
+    "city_slug": "puri",
+    "mode": "auto",
+    "text": "Puri autos and cycle-rickshaws.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-taxis",
+    "city_slug": "puri",
+    "mode": "taxi",
+    "text": "Puri taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-rented-cycles",
+    "city_slug": "puri",
+    "mode": "other",
+    "text": "Puri rented cycles.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-to-konark-taxi-or-bus",
+    "city_slug": "puri",
+    "mode": "bus",
+    "text": "Puri to Konark taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-to-bhubaneswar-train-or-taxi",
+    "city_slug": "puri",
+    "mode": "taxi",
+    "text": "Puri to Bhubaneswar train or taxi.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-to-chilika-taxi-or-bus",
+    "city_slug": "puri",
+    "mode": "bus",
+    "text": "Puri to Chilika taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "puri-puri-to-satapada-taxi-or-boat",
+    "city_slug": "puri",
+    "mode": "taxi",
+    "text": "Puri to Satapada taxi or boat.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-airport-transfers",
+    "city_slug": "guwahati",
+    "mode": "airport",
+    "text": "Guwahati airport transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-railway-station-transfers",
+    "city_slug": "guwahati",
+    "mode": "rail",
+    "text": "Guwahati railway-station transfers.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-buses",
+    "city_slug": "guwahati",
+    "mode": "bus",
+    "text": "Guwahati buses.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-autos-and-app-cabs",
+    "city_slug": "guwahati",
+    "mode": "auto",
+    "text": "Guwahati autos and app cabs.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-taxis",
+    "city_slug": "guwahati",
+    "mode": "taxi",
+    "text": "Guwahati taxis.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-river-ferries",
+    "city_slug": "guwahati",
+    "mode": "other",
+    "text": "Guwahati river ferries.",
+    "kind": "local",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-to-kaziranga-taxi-or-bus",
+    "city_slug": "guwahati",
+    "mode": "bus",
+    "text": "Guwahati to Kaziranga taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-to-shillong-taxi-or-bus",
+    "city_slug": "guwahati",
+    "mode": "bus",
+    "text": "Guwahati to Shillong taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-to-cherrapunji-taxi-or-bus",
+    "city_slug": "guwahati",
+    "mode": "bus",
+    "text": "Guwahati to Cherrapunji taxi or bus.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "id": "guwahati-guwahati-to-majuli-ferry-or-road",
+    "city_slug": "guwahati",
+    "mode": "ferry",
+    "text": "Guwahati to Majuli ferry or road.",
+    "kind": "intercity",
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  }
+]

@@ -12,13 +12,13 @@
  * Bumping CACHE_VERSION invalidates every old cache on the next activate.
  */
 
-const CACHE_VERSION = 'v1-indexDZX7G28kcss';
+const CACHE_VERSION = 'v1-indexrFA5faIUcss';
 const SHELL_CACHE = `ww-shell-${CACHE_VERSION}`;
 const IMAGE_CACHE = `ww-img-${CACHE_VERSION}`;
 const MAX_IMAGES = 120;
 
 // Same-origin assets that make the app usable with no network at all.
-const SHELL_ASSETS = ['./', './index.html', './manifest.webmanifest', './offline.html', "./assets/index-CGJeDvPM.js", "./assets/index-DZX7G28k.css"];
+const SHELL_ASSETS = ['./', './index.html', './manifest.webmanifest', './offline.html', "./assets/index-DYUCHu3-.js", "./assets/index-rFA5faIU.css"];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(

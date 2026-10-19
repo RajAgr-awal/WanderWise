@@ -1,0 +1,922 @@
+[
+  {
+    "city_slug": "delhi",
+    "budget_text": "Paharganj, Karol Bagh and Hauz Khas hostels",
+    "mid_text": "Connaught Place, Karol Bagh, Saket and Aerocity",
+    "premium_text": "Aerocity, Lutyens’ Delhi and five-star city hotels",
+    "areas": [
+      "Paharganj",
+      "Karol Bagh",
+      "Hauz Khas",
+      "Connaught Place",
+      "Saket",
+      "Aerocity",
+      "Lutyens’ Delhi",
+      "five-star city"
+    ],
+    "areas_budget": [
+      "Paharganj",
+      "Karol Bagh",
+      "Hauz Khas"
+    ],
+    "areas_mid": [
+      "Connaught Place",
+      "Karol Bagh",
+      "Saket",
+      "Aerocity"
+    ],
+    "areas_premium": [
+      "Aerocity",
+      "Lutyens’ Delhi",
+      "five-star city"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "mumbai",
+    "budget_text": "Colaba, Fort and Bandra hostels and guesthouses",
+    "mid_text": "Colaba, Bandra, Andheri and Lower Parel",
+    "premium_text": "Marine Drive, Bandra and Juhu beachfront hotels",
+    "areas": [
+      "Colaba",
+      "Fort",
+      "Bandra",
+      "Andheri",
+      "Lower Parel",
+      "Marine Drive",
+      "Juhu beachfront"
+    ],
+    "areas_budget": [
+      "Colaba",
+      "Fort",
+      "Bandra"
+    ],
+    "areas_mid": [
+      "Colaba",
+      "Bandra",
+      "Andheri",
+      "Lower Parel"
+    ],
+    "areas_premium": [
+      "Marine Drive",
+      "Bandra",
+      "Juhu beachfront"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "bengaluru",
+    "budget_text": "Majestic, Indiranagar and Koramangala hostels",
+    "mid_text": "Indiranagar, Koramangala, MG Road and Whitefield",
+    "premium_text": "MG Road, UB City and luxury business hotels",
+    "areas": [
+      "Majestic",
+      "Indiranagar",
+      "Koramangala",
+      "MG Road",
+      "Whitefield",
+      "UB City",
+      "luxury business"
+    ],
+    "areas_budget": [
+      "Majestic",
+      "Indiranagar",
+      "Koramangala"
+    ],
+    "areas_mid": [
+      "Indiranagar",
+      "Koramangala",
+      "MG Road",
+      "Whitefield"
+    ],
+    "areas_premium": [
+      "MG Road",
+      "UB City",
+      "luxury business"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "chennai",
+    "budget_text": "T Nagar, Egmore and Chennai Central guesthouses",
+    "mid_text": "T Nagar, Egmore, Adyar and OMR hotels",
+    "premium_text": "Marina-facing, ECR and city-centre hotels",
+    "areas": [
+      "T Nagar",
+      "Egmore",
+      "Chennai Central",
+      "Adyar",
+      "OMR",
+      "Marina-facing",
+      "ECR",
+      "city-centre"
+    ],
+    "areas_budget": [
+      "T Nagar",
+      "Egmore",
+      "Chennai Central"
+    ],
+    "areas_mid": [
+      "T Nagar",
+      "Egmore",
+      "Adyar",
+      "OMR"
+    ],
+    "areas_premium": [
+      "Marina-facing",
+      "ECR",
+      "city-centre"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "hyderabad",
+    "budget_text": "Charminar, Secunderabad and Ameerpet guesthouses",
+    "mid_text": "Banjara Hills, Jubilee Hills, HITEC City and Secunderabad",
+    "premium_text": "Banjara Hills, Jubilee Hills and lake-view hotels",
+    "areas": [
+      "Charminar",
+      "Secunderabad",
+      "Ameerpet",
+      "Banjara Hills",
+      "Jubilee Hills",
+      "HITEC City",
+      "lake-view"
+    ],
+    "areas_budget": [
+      "Charminar",
+      "Secunderabad",
+      "Ameerpet"
+    ],
+    "areas_mid": [
+      "Banjara Hills",
+      "Jubilee Hills",
+      "HITEC City",
+      "Secunderabad"
+    ],
+    "areas_premium": [
+      "Banjara Hills",
+      "Jubilee Hills",
+      "lake-view"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "kolkata",
+    "budget_text": "Sudder Street, Sealdah and Howrah-side guesthouses",
+    "mid_text": "Park Street, BBD Bagh, Salt Lake and New Town",
+    "premium_text": "Park Street, Victoria Memorial area and riverfront hotels",
+    "areas": [
+      "Sudder Street",
+      "Sealdah",
+      "Howrah-side",
+      "Park Street",
+      "BBD Bagh",
+      "Salt Lake",
+      "New Town",
+      "Victoria Memorial area",
+      "riverfront"
+    ],
+    "areas_budget": [
+      "Sudder Street",
+      "Sealdah",
+      "Howrah-side"
+    ],
+    "areas_mid": [
+      "Park Street",
+      "BBD Bagh",
+      "Salt Lake",
+      "New Town"
+    ],
+    "areas_premium": [
+      "Park Street",
+      "Victoria Memorial area",
+      "riverfront"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "ahmedabad",
+    "budget_text": "Old city and railway-station guesthouses",
+    "mid_text": "Navrangpura, CG Road and SG Highway hotels",
+    "premium_text": "Heritage hotels and boutique stays",
+    "areas": [
+      "Old city",
+      "railway-station",
+      "Navrangpura",
+      "CG Road",
+      "SG Highway",
+      "Heritage",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Old city",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "Navrangpura",
+      "CG Road",
+      "SG Highway"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "pune",
+    "budget_text": "Deccan Gymkhana and Shivajinagar guesthouses",
+    "mid_text": "Koregaon Park, Kalyani Nagar and Baner hotels",
+    "premium_text": "Koregaon Park and hill-view resorts",
+    "areas": [
+      "Deccan Gymkhana",
+      "Shivajinagar",
+      "Koregaon Park",
+      "Kalyani Nagar",
+      "Baner",
+      "hill-view"
+    ],
+    "areas_budget": [
+      "Deccan Gymkhana",
+      "Shivajinagar"
+    ],
+    "areas_mid": [
+      "Koregaon Park",
+      "Kalyani Nagar",
+      "Baner"
+    ],
+    "areas_premium": [
+      "Koregaon Park",
+      "hill-view"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "jaipur",
+    "budget_text": "Old city and Bani Park guesthouses",
+    "mid_text": "MI Road, Civil Lines and Bani Park hotels",
+    "premium_text": "Heritage havelis and palace hotels",
+    "areas": [
+      "Old city",
+      "Bani Park",
+      "MI Road",
+      "Civil Lines",
+      "Heritage havelis",
+      "palace"
+    ],
+    "areas_budget": [
+      "Old city",
+      "Bani Park"
+    ],
+    "areas_mid": [
+      "MI Road",
+      "Civil Lines",
+      "Bani Park"
+    ],
+    "areas_premium": [
+      "Heritage havelis",
+      "palace"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "goa",
+    "budget_text": "Anjuna, Vagator and Palolem hostels and beach huts",
+    "mid_text": "Baga, Calangute, Assagao and Palolem hotels",
+    "premium_text": "Beachfront resorts, boutique villas and heritage hotels",
+    "areas": [
+      "Anjuna",
+      "Vagator",
+      "Palolem",
+      "beach",
+      "Baga",
+      "Calangute",
+      "Assagao",
+      "Beachfront",
+      "boutique",
+      "heritage"
+    ],
+    "areas_budget": [
+      "Anjuna",
+      "Vagator",
+      "Palolem",
+      "beach"
+    ],
+    "areas_mid": [
+      "Baga",
+      "Calangute",
+      "Assagao",
+      "Palolem"
+    ],
+    "areas_premium": [
+      "Beachfront",
+      "boutique",
+      "heritage"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "lucknow",
+    "budget_text": "Charbagh and Hazratganj guesthouses",
+    "mid_text": "Hazratganj, Gomti Nagar and Civil Lines hotels",
+    "premium_text": "Heritage hotels and boutique stays",
+    "areas": [
+      "Charbagh",
+      "Hazratganj",
+      "Gomti Nagar",
+      "Civil Lines",
+      "Heritage",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Charbagh",
+      "Hazratganj"
+    ],
+    "areas_mid": [
+      "Hazratganj",
+      "Gomti Nagar",
+      "Civil Lines"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "varanasi",
+    "budget_text": "Assi Ghat and Godowlia guesthouses",
+    "mid_text": "Assi Ghat, Dashashwamedh and Cantonment hotels",
+    "premium_text": "River-view heritage hotels and boutique stays",
+    "areas": [
+      "Assi Ghat",
+      "Godowlia",
+      "Dashashwamedh",
+      "Cantonment",
+      "River-view heritage",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Assi Ghat",
+      "Godowlia"
+    ],
+    "areas_mid": [
+      "Assi Ghat",
+      "Dashashwamedh",
+      "Cantonment"
+    ],
+    "areas_premium": [
+      "River-view heritage",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "agra",
+    "budget_text": "Taj Ganj guesthouses and hostels",
+    "mid_text": "Taj Ganj, Fatehabad Road and Civil Lines hotels",
+    "premium_text": "Taj-view and heritage hotels",
+    "areas": [
+      "Taj Ganj",
+      "Fatehabad Road",
+      "Civil Lines",
+      "Taj-view",
+      "heritage"
+    ],
+    "areas_budget": [
+      "Taj Ganj"
+    ],
+    "areas_mid": [
+      "Taj Ganj",
+      "Fatehabad Road",
+      "Civil Lines"
+    ],
+    "areas_premium": [
+      "Taj-view",
+      "heritage"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "amritsar",
+    "budget_text": "Golden Temple-area guesthouses and sarais",
+    "mid_text": "Hall Bazaar and GT Road hotels",
+    "premium_text": "Heritage hotels and boutique stays",
+    "areas": [
+      "Golden Temple-area",
+      "sarais",
+      "Hall Bazaar",
+      "GT Road",
+      "Heritage",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Golden Temple-area",
+      "sarais"
+    ],
+    "areas_mid": [
+      "Hall Bazaar",
+      "GT Road"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "chandigarh",
+    "budget_text": "Sector 17 and Sector 22 guesthouses",
+    "mid_text": "Sector 17, Sector 35 and IT Park hotels",
+    "premium_text": "Lake-view and luxury business hotels",
+    "areas": [
+      "Sector 17",
+      "Sector 22",
+      "Sector 35",
+      "IT Park",
+      "Lake-view",
+      "luxury business"
+    ],
+    "areas_budget": [
+      "Sector 17",
+      "Sector 22"
+    ],
+    "areas_mid": [
+      "Sector 17",
+      "Sector 35",
+      "IT Park"
+    ],
+    "areas_premium": [
+      "Lake-view",
+      "luxury business"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "kochi",
+    "budget_text": "Fort Kochi guesthouses and backpacker hostels",
+    "mid_text": "Fort Kochi, Mattancherry and Marine Drive hotels",
+    "premium_text": "Heritage hotels, waterfront resorts and boutique stays",
+    "areas": [
+      "Fort Kochi",
+      "backpacker",
+      "Mattancherry",
+      "Marine Drive",
+      "Heritage",
+      "waterfront",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Fort Kochi",
+      "backpacker"
+    ],
+    "areas_mid": [
+      "Fort Kochi",
+      "Mattancherry",
+      "Marine Drive"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "waterfront",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "coimbatore",
+    "budget_text": "Gandhipuram and railway-station guesthouses",
+    "mid_text": "RS Puram, Gandhipuram and Peelamedu hotels",
+    "premium_text": "City-centre and wellness resorts",
+    "areas": [
+      "Gandhipuram",
+      "railway-station",
+      "RS Puram",
+      "Peelamedu",
+      "City-centre",
+      "wellness"
+    ],
+    "areas_budget": [
+      "Gandhipuram",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "RS Puram",
+      "Gandhipuram",
+      "Peelamedu"
+    ],
+    "areas_premium": [
+      "City-centre",
+      "wellness"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "indore",
+    "budget_text": "Rajwada and railway-station guesthouses",
+    "mid_text": "Vijay Nagar, New Palasia and MG Road hotels",
+    "premium_text": "Vijay Nagar and boutique hotels",
+    "areas": [
+      "Rajwada",
+      "railway-station",
+      "Vijay Nagar",
+      "New Palasia",
+      "MG Road",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Rajwada",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "Vijay Nagar",
+      "New Palasia",
+      "MG Road"
+    ],
+    "areas_premium": [
+      "Vijay Nagar",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "bhopal",
+    "budget_text": "Old city and railway-station guesthouses",
+    "mid_text": "MP Nagar, Arera Colony and Shamla Hills hotels",
+    "premium_text": "Lake-view and boutique hotels",
+    "areas": [
+      "Old city",
+      "railway-station",
+      "MP Nagar",
+      "Arera Colony",
+      "Shamla Hills",
+      "Lake-view",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Old city",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "MP Nagar",
+      "Arera Colony",
+      "Shamla Hills"
+    ],
+    "areas_premium": [
+      "Lake-view",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "visakhapatnam",
+    "budget_text": "Beach Road and railway-station guesthouses",
+    "mid_text": "Beach Road, MVP Colony and city-centre hotels",
+    "premium_text": "Beach resorts and hill-view hotels",
+    "areas": [
+      "Beach Road",
+      "railway-station",
+      "MVP Colony",
+      "city-centre",
+      "Beach",
+      "hill-view"
+    ],
+    "areas_budget": [
+      "Beach Road",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "Beach Road",
+      "MVP Colony",
+      "city-centre"
+    ],
+    "areas_premium": [
+      "Beach",
+      "hill-view"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "udaipur",
+    "budget_text": "Old city and lake-side guesthouses",
+    "mid_text": "Lake Pichola and Fateh Sagar hotels",
+    "premium_text": "Lake Palace and heritage palace hotels",
+    "areas": [
+      "Old city",
+      "lake-side",
+      "Lake Pichola",
+      "Fateh Sagar",
+      "Lake Palace",
+      "heritage palace"
+    ],
+    "areas_budget": [
+      "Old city",
+      "lake-side"
+    ],
+    "areas_mid": [
+      "Lake Pichola",
+      "Fateh Sagar"
+    ],
+    "areas_premium": [
+      "Lake Palace",
+      "heritage palace"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "jodhpur",
+    "budget_text": "Old city and Clock Tower guesthouses",
+    "mid_text": "Sardar Market and Umaid Bhawan-side hotels",
+    "premium_text": "Heritage havelis and palace hotels",
+    "areas": [
+      "Old city",
+      "Clock Tower",
+      "Sardar Market",
+      "Umaid Bhawan-side",
+      "Heritage havelis",
+      "palace"
+    ],
+    "areas_budget": [
+      "Old city",
+      "Clock Tower"
+    ],
+    "areas_mid": [
+      "Sardar Market",
+      "Umaid Bhawan-side"
+    ],
+    "areas_premium": [
+      "Heritage havelis",
+      "palace"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "jaisalmer",
+    "budget_text": "Jaisalmer Fort guesthouses",
+    "mid_text": "City hotels and desert camps",
+    "premium_text": "Luxury desert camps and heritage hotels",
+    "areas": [
+      "Jaisalmer Fort",
+      "City",
+      "desert camps",
+      "Luxury desert camps",
+      "heritage"
+    ],
+    "areas_budget": [
+      "Jaisalmer Fort"
+    ],
+    "areas_mid": [
+      "City",
+      "desert camps"
+    ],
+    "areas_premium": [
+      "Luxury desert camps",
+      "heritage"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "mysuru",
+    "budget_text": "Devaraja Market and bus-stand guesthouses",
+    "mid_text": "City-centre and palace-side hotels",
+    "premium_text": "Heritage hotels and palace-style stays",
+    "areas": [
+      "Devaraja Market",
+      "bus-stand",
+      "City-centre",
+      "palace-side",
+      "Heritage",
+      "palace-style"
+    ],
+    "areas_budget": [
+      "Devaraja Market",
+      "bus-stand"
+    ],
+    "areas_mid": [
+      "City-centre",
+      "palace-side"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "palace-style"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "madurai",
+    "budget_text": "Temple-area lodges and West Tower Street guesthouses",
+    "mid_text": "Town-centre and Periyar bus-stand hotels",
+    "premium_text": "Heritage-style and business hotels near Meenakshi Temple",
+    "areas": [
+      "Temple-area",
+      "West Tower Street",
+      "Town-centre",
+      "Periyar bus-stand",
+      "Heritage-style",
+      "business near Meenakshi Temple"
+    ],
+    "areas_budget": [
+      "Temple-area",
+      "West Tower Street"
+    ],
+    "areas_mid": [
+      "Town-centre",
+      "Periyar bus-stand"
+    ],
+    "areas_premium": [
+      "Heritage-style",
+      "business near Meenakshi Temple"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "rishikesh",
+    "budget_text": "Lakshman Jhula and Tapovan hostels",
+    "mid_text": "Tapovan and riverside hotels",
+    "premium_text": "Luxury yoga retreats and riverside resorts",
+    "areas": [
+      "Lakshman Jhula",
+      "Tapovan",
+      "riverside",
+      "Luxury yoga retreats"
+    ],
+    "areas_budget": [
+      "Lakshman Jhula",
+      "Tapovan"
+    ],
+    "areas_mid": [
+      "Tapovan",
+      "riverside"
+    ],
+    "areas_premium": [
+      "Luxury yoga retreats",
+      "riverside"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "shimla",
+    "budget_text": "Mall Road and lower bazaar guesthouses",
+    "mid_text": "Mall Road and Ridge-side hotels",
+    "premium_text": "Heritage hotels and mountain-view resorts",
+    "areas": [
+      "Mall Road",
+      "lower bazaar",
+      "Ridge-side",
+      "Heritage",
+      "mountain-view"
+    ],
+    "areas_budget": [
+      "Mall Road",
+      "lower bazaar"
+    ],
+    "areas_mid": [
+      "Mall Road",
+      "Ridge-side"
+    ],
+    "areas_premium": [
+      "Heritage",
+      "mountain-view"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "manali",
+    "budget_text": "Old Manali hostels and guesthouses",
+    "mid_text": "Old Manali and Aleo hotels",
+    "premium_text": "Luxury mountain resorts and boutique stays",
+    "areas": [
+      "Old Manali",
+      "Aleo",
+      "Luxury mountain",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Old Manali"
+    ],
+    "areas_mid": [
+      "Old Manali",
+      "Aleo"
+    ],
+    "areas_premium": [
+      "Luxury mountain",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "puri",
+    "budget_text": "Temple-area guesthouses and beach lodges",
+    "mid_text": "Beach Road and hotel-zone stays",
+    "premium_text": "Beach resorts and heritage-style hotels",
+    "areas": [
+      "Temple-area",
+      "beach",
+      "Beach Road",
+      "hotel-zone",
+      "heritage-style"
+    ],
+    "areas_budget": [
+      "Temple-area",
+      "beach"
+    ],
+    "areas_mid": [
+      "Beach Road",
+      "hotel-zone"
+    ],
+    "areas_premium": [
+      "Beach",
+      "heritage-style"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  },
+  {
+    "city_slug": "guwahati",
+    "budget_text": "Paltan Bazaar and railway-station guesthouses",
+    "mid_text": "GS Road, Zoo Road and Six Mile hotels",
+    "premium_text": "River-view and boutique hotels",
+    "areas": [
+      "Paltan Bazaar",
+      "railway-station",
+      "GS Road",
+      "Zoo Road",
+      "Six Mile",
+      "River-view",
+      "boutique"
+    ],
+    "areas_budget": [
+      "Paltan Bazaar",
+      "railway-station"
+    ],
+    "areas_mid": [
+      "GS Road",
+      "Zoo Road",
+      "Six Mile"
+    ],
+    "areas_premium": [
+      "River-view",
+      "boutique"
+    ],
+    "data_confidence": "low",
+    "source_label": "WanderWise editorial import v1",
+    "last_checked": null
+  }
+]
